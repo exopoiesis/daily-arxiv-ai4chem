@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Low-Complexity and Consistent Graphon Estimation from Multiple Networks**|Roland Boniface Sogan et.al.|[2603.15578](http://arxiv.org/abs/2603.15578)|null|
+|**2026-03-16**|**CrossADR: enhancing adverse drug reactions prediction for combination pharmacotherapy with cross-layer feature integration and cross-level associative learning**|Y. Cheung et.al.|[2603.15047](http://arxiv.org/abs/2603.15047)|null|
 |**2026-03-16**|**Masked BRep Autoencoder via Hierarchical Graph Transformer**|Yifei Li et.al.|[2603.14927](http://arxiv.org/abs/2603.14927)|null|
 |**2026-03-16**|**TopoVST: Toward Topology-fidelitous Vessel Skeleton Tracking**|Yaoyu Liu et.al.|[2603.14909](http://arxiv.org/abs/2603.14909)|null|
 |**2026-03-16**|**IgPose: A Generative Data-Augmented Pipeline for Robust Immunoglobulin-Antigen Binding Prediction**|Tien-Cuong Bui et.al.|[2603.14870](http://arxiv.org/abs/2603.14870)|null|
@@ -356,6 +358,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion**|Zhenghong Zhou et.al.|[2603.15614](http://arxiv.org/abs/2603.15614)|null|
+|**2026-03-16**|**Learning Latent Proxies for Controllable Single-Image Relighting**|Haoze Zheng et.al.|[2603.15555](http://arxiv.org/abs/2603.15555)|null|
+|**2026-03-16**|**Kimodo: Scaling Controllable Human Motion Generation**|Davis Rempe et.al.|[2603.15546](http://arxiv.org/abs/2603.15546)|null|
+|**2026-03-16**|**Oscillons from $Q$ -balls in generalized models**|E. da Hora et.al.|[2603.15505](http://arxiv.org/abs/2603.15505)|null|
+|**2026-03-16**|**RSGen: Enhancing Layout-Driven Remote Sensing Image Generation with Diverse Edge Guidance**|Xianbao Hou et.al.|[2603.15484](http://arxiv.org/abs/2603.15484)|null|
+|**2026-03-16**|**ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer**|Ruonan Yu et.al.|[2603.15478](http://arxiv.org/abs/2603.15478)|null|
+|**2026-03-16**|**MV2UV: Generating High-quality UV Texture Maps with Multiview Prompts**|Zheng Zhang et.al.|[2603.15436](http://arxiv.org/abs/2603.15436)|null|
+|**2026-03-16**|**AI Evasion and Impersonation Attacks on Facial Re-Identification with Activation Map Explanations**|Noe Claudel et.al.|[2603.15396](http://arxiv.org/abs/2603.15396)|null|
+|**2026-03-16**|**A PPO-Based Bitrate Allocation Conditional Diffusion Model for Remote Sensing Image Compression**|Yuming Han et.al.|[2603.15365](http://arxiv.org/abs/2603.15365)|null|
+|**2026-03-16**|**Conditional Rectified Flow-based End-to-End Rapid Seismic Inversion Method**|Haofei Xu et.al.|[2603.15354](http://arxiv.org/abs/2603.15354)|null|
 |**2026-03-16**|**Relevance Feedback in Text-to-Image Diffusion: A Training-Free And Model-Agnostic Interactive Framework**|Wenxi Wang et.al.|[2603.14936](http://arxiv.org/abs/2603.14936)|null|
 |**2026-03-16**|**A Score Filter Enhanced Data Assimilation Framework for Data-Driven Dynamical Systems**|Jingqiao Tang et.al.|[2603.14863](http://arxiv.org/abs/2603.14863)|null|
 |**2026-03-16**|**Architecture-Agnostic Feature Synergy for Universal Defense Against Heterogeneous Generative Threats**|Bingxue Zhang et.al.|[2603.14860](http://arxiv.org/abs/2603.14860)|null|
@@ -903,6 +915,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Empowering Chemical Structures with Biological Insights for Scalable Phenotypic Virtual Screening**|Xiaoqing Lian et.al.|[2603.15006](http://arxiv.org/abs/2603.15006)|null|
 |**2026-03-13**|**BERTology of Molecular Property Prediction**|Mohammad Mostafanejad et.al.|[2603.13627](http://arxiv.org/abs/2603.13627)|null|
 |**2026-03-12**|**Generalist Large Language Models for Molecular Property Prediction: Distilling Knowledge from Specialist Models**|Khiem Le et.al.|[2603.12344](http://arxiv.org/abs/2603.12344)|null|
 |**2026-03-12**|**Binding Free Energies without Alchemy**|Michael Brocidiacono et.al.|[2603.12253](http://arxiv.org/abs/2603.12253)|null|
@@ -961,6 +974,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**CrossADR: enhancing adverse drug reactions prediction for combination pharmacotherapy with cross-layer feature integration and cross-level associative learning**|Y. Cheung et.al.|[2603.15047](http://arxiv.org/abs/2603.15047)|null|
 |**2026-03-16**|**Scaling Autoregressive Models for Lattice Thermodynamics**|Xiaochen Du et.al.|[2603.14695](http://arxiv.org/abs/2603.14695)|null|
 |**2026-03-13**|**Multimodal Protein Language Models for Enzyme Kinetic Parameters: From Substrate Recognition to Conformational Adaptation**|Fei Wang et.al.|[2603.12845](http://arxiv.org/abs/2603.12845)|null|
 |**2026-03-13**|**RetroReasoner: A Reasoning LLM for Strategic Retrosynthesis Prediction**|Hanbum Ko et.al.|[2603.12666](http://arxiv.org/abs/2603.12666)|null|
@@ -1043,6 +1057,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Engineering van der Waals heterostructures for dispersion-selective meV-scale quantum sensing**|Elizabeth A. Peterson et.al.|[2603.15581](http://arxiv.org/abs/2603.15581)|null|
+|**2026-03-16**|**DOT: Dynamic Knob Selection and Online Sampling for Automated Database Tuning**|Yifan Wang et.al.|[2603.15540](http://arxiv.org/abs/2603.15540)|null|
+|**2026-03-16**|**Ab Initio Study of Erbium Point Defects in 4H-SiC for Quantum Devices**|Michael Kuban et.al.|[2603.15343](http://arxiv.org/abs/2603.15343)|null|
+|**2026-03-16**|**CASHomon Sets: Efficient Rashomon Sets Across Multiple Model Classes and their Hyperparameters**|Fiona Katharina Ewald et.al.|[2603.15321](http://arxiv.org/abs/2603.15321)|null|
+|**2026-03-16**|**Cracking donuts and sorting lipids: geometry controls archaeal membrane stability and lipid organization**|Felix Frey et.al.|[2603.15170](http://arxiv.org/abs/2603.15170)|null|
+|**2026-03-16**|**Point-Identification of a Robust Predictor Under Latent Shift with Imperfect Proxies**|Zahra Rahiminasab et.al.|[2603.15158](http://arxiv.org/abs/2603.15158)|null|
+|**2026-03-16**|**Monolithic integration of diverse crystalline thin films on diamond for near-junction thermal management**|Tiancheng Zhao et.al.|[2603.15142](http://arxiv.org/abs/2603.15142)|null|
+|**2026-03-16**|**Moiré Ferroelectricity-Driven Band Engineering in Twisted Square Bilayers**|Kejie Bao et.al.|[2603.15140](http://arxiv.org/abs/2603.15140)|null|
+|**2026-03-16**|**Loss of altermagnetic order and smooth restoration of Kramers' spin degeneracy with increasing temperature in CrSb and MnTe**|Christopher D. Woodgate et.al.|[2603.15035](http://arxiv.org/abs/2603.15035)|null|
 |**2026-03-16**|**Inverse Design Validated Optimization of Lead-Free Cs $_3$Cu$_2$Cl$_5$ Visible-Light Microring Resonators Using a Coupled DFT-FDTD Framework**|Shoumik Debnath et.al.|[2603.14931](http://arxiv.org/abs/2603.14931)|null|
 |**2026-03-16**|**Informative Perturbation Selection for Uncertainty-Aware Post-hoc Explanations**|Sumedha Chugh et.al.|[2603.14894](http://arxiv.org/abs/2603.14894)|null|
 |**2026-03-16**|**Ductility and Brittle Fracture of Tungsten by Disconnection Pile-up on Twin Boundaries**|Omar Hussein et.al.|[2603.14883](http://arxiv.org/abs/2603.14883)|null|
@@ -1521,6 +1544,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation**|Yibin Liu et.al.|[2603.15600](http://arxiv.org/abs/2603.15600)|null|
+|**2026-03-16**|**An Efficient Cumulative Edge-Detection Method for Image Reconstruction**|Toluwani Okunola et.al.|[2603.15151](http://arxiv.org/abs/2603.15151)|null|
+|**2026-03-16**|**Structure-preserving preconditioning of discrete space-fractional diffusion equations with variable coefficient and θ-Method**|Muhammad Faisal Khan et.al.|[2603.15122](http://arxiv.org/abs/2603.15122)|null|
 |**2026-03-16**|**Ductility and Brittle Fracture of Tungsten by Disconnection Pile-up on Twin Boundaries**|Omar Hussein et.al.|[2603.14883](http://arxiv.org/abs/2603.14883)|null|
 |**2026-03-16**|**Fold-CP: A Context Parallelism Framework for Biomolecular Modeling**|Dejun Lin et.al.|[2603.14806](http://arxiv.org/abs/2603.14806)|null|
 |**2026-03-16**|**Multi-Task Genetic Algorithm with Multi-Granularity Encoding for Protein-Nucleotide Binding Site Prediction**|Yiming Gao et.al.|[2603.14797](http://arxiv.org/abs/2603.14797)|null|
@@ -1988,6 +2014,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Mixture-of-Depths Attention**|Lianghui Zhu et.al.|[2603.15619](http://arxiv.org/abs/2603.15619)|null|
+|**2026-03-16**|**HorizonMath: Measuring AI Progress Toward Mathematical Discovery with Automatic Verification**|Erik Y. Wang et.al.|[2603.15617](http://arxiv.org/abs/2603.15617)|null|
+|**2026-03-16**|**Mechanistic Origin of Moral Indifference in Language Models**|Lingyu Li et.al.|[2603.15615](http://arxiv.org/abs/2603.15615)|null|
+|**2026-03-16**|**OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data**|Yuwen Du et.al.|[2603.15594](http://arxiv.org/abs/2603.15594)|null|
+|**2026-03-16**|**Effective Distillation to Hybrid xLSTM Architectures**|Lukas Hauzenberger et.al.|[2603.15590](http://arxiv.org/abs/2603.15590)|null|
+|**2026-03-16**|**LEXI: Lossless Exponent Coding for Efficient Inter-Chiplet Communication in Hybrid LLMs**|Miao Sun et.al.|[2603.15589](http://arxiv.org/abs/2603.15589)|null|
+|**2026-03-16**|**Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation**|Yanick Zengaffinen et.al.|[2603.15547](http://arxiv.org/abs/2603.15547)|null|
+|**2026-03-16**|**InterveneBench: Benchmarking LLMs for Intervention Reasoning and Causal Study Design in Real Social Systems**|Shaojie Shi et.al.|[2603.15542](http://arxiv.org/abs/2603.15542)|null|
+|**2026-03-16**|**QiboAgent: a practitioner's guideline to open source assistants for Quantum Computing code development**|Lorenzo Esposito et.al.|[2603.15538](http://arxiv.org/abs/2603.15538)|null|
+|**2026-03-16**|**DUET: Disaggregated Hybrid Mamba-Transformer LLMs with Prefill and Decode-Specific Packages**|Alish Kanani et.al.|[2603.15530](http://arxiv.org/abs/2603.15530)|null|
 |**2026-03-16**|**GT-PCQA: Geometry-Texture Decoupled Point Cloud Quality Assessment with MLLM**|Guohua Zhang et.al.|[2603.14951](http://arxiv.org/abs/2603.14951)|null|
 |**2026-03-16**|**Which stylistic features fool ChatGPT research evaluations?**|Kayvan Kousha et.al.|[2603.14919](http://arxiv.org/abs/2603.14919)|null|
 |**2026-03-16**|**EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing**|Zitong Xu et.al.|[2603.14916](http://arxiv.org/abs/2603.14916)|null|
