@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**Probing the Spacetime Structure of Entanglement in Monitored Quantum Circuits with Graph Neural Networks**|Javad Vahedi et.al.|[2603.22244](http://arxiv.org/abs/2603.22244)|null|
+|**2026-03-23**|**Low Latency GNN Accelerator for Quantum Error Correction**|Alessio Cicero et.al.|[2603.22149](http://arxiv.org/abs/2603.22149)|null|
 |**2026-03-23**|**BOOST-RPF: Boosted Sequential Trees for Radial Power Flow**|Ehimare Okoyomon et.al.|[2603.21977](http://arxiv.org/abs/2603.21977)|null|
 |**2026-03-23**|**Riemannian Geometry Speaks Louder Than Words: From Graph Foundation Model to Next-Generation Graph Intelligence**|Philip S. Yu et.al.|[2603.21601](http://arxiv.org/abs/2603.21601)|null|
 |**2026-03-22**|**LSA: A Long-Short-term Aspect Interest Transformer for Aspect-Based Recommendation**|Le Liu et.al.|[2603.21243](http://arxiv.org/abs/2603.21243)|null|
@@ -401,6 +403,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**End-to-End Training for Unified Tokenization and Latent Denoising**|Shivam Duggal et.al.|[2603.22283](http://arxiv.org/abs/2603.22283)|null|
+|**2026-03-23**|**UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation**|Ziyi Wang et.al.|[2603.22282](http://arxiv.org/abs/2603.22282)|null|
+|**2026-03-23**|**3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing**|Haoyu Zhen et.al.|[2603.22279](http://arxiv.org/abs/2603.22279)|null|
+|**2026-03-23**|**Repurposing Geometric Foundation Models for Multi-view Diffusion**|Wooseok Jang et.al.|[2603.22275](http://arxiv.org/abs/2603.22275)|null|
+|**2026-03-23**|**DUO-VSR: Dual-Stream Distillation for One-Step Video Super-Resolution**|Zhengyao Lv et.al.|[2603.22271](http://arxiv.org/abs/2603.22271)|null|
+|**2026-03-23**|**GenOpticalFlow: A Generative Approach to Unsupervised Optical Flow Learning**|Yixuan Luo et.al.|[2603.22270](http://arxiv.org/abs/2603.22270)|null|
+|**2026-03-23**|**An Accurate Tensorial Model for Prediction of Full Zeolite NMR Spectra**|Carlos Bornes et.al.|[2603.22268](http://arxiv.org/abs/2603.22268)|null|
+|**2026-03-23**|**SpatialReward: Verifiable Spatial Reward Modeling for Fine-Grained Spatial Consistency in Text-to-Image Generation**|Sashuai Zhou et.al.|[2603.22228](http://arxiv.org/abs/2603.22228)|null|
+|**2026-03-23**|**Noise Titration: Exact Distributional Benchmarking for Probabilistic Time Series Forecasting**|Qilin Wang et.al.|[2603.22219](http://arxiv.org/abs/2603.22219)|null|
+|**2026-03-23**|**Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models**|Meiqi Wu et.al.|[2603.22212](http://arxiv.org/abs/2603.22212)|null|
 |**2026-03-23**|**Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model**|SII-GAIR et.al.|[2603.21986](http://arxiv.org/abs/2603.21986)|null|
 |**2026-03-23**|**APEG: Adaptive Physical Layer Authentication with Channel Extrapolation and Generative AI**|Xiqi Cheng et.al.|[2603.21923](http://arxiv.org/abs/2603.21923)|null|
 |**2026-03-23**|**A Latent Representation Learning Framework for Hyperspectral Image Emulation in Remote Sensing**|Chedly Ben Azizi et.al.|[2603.21911](http://arxiv.org/abs/2603.21911)|null|
@@ -1153,6 +1165,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning**|Claudia Islas-Vargas et.al.|[2603.22254](http://arxiv.org/abs/2603.22254)|null|
+|**2026-03-23**|**Data Curation for Machine Learning Interatomic Potentials by Determinantal Point Processes**|Joanna Zou et.al.|[2603.22160](http://arxiv.org/abs/2603.22160)|null|
+|**2026-03-23**|**Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations**|Audrey Ngambia et.al.|[2603.22144](http://arxiv.org/abs/2603.22144)|null|
+|**2026-03-23**|**Stable, Fast, and Accurate Kohn-Sham Inversion in Gaussian Basis for Open Shell Molecular and Condensed Phase Systems via Density Matrix Penalization**|Ziwei Chai et.al.|[2603.22140](http://arxiv.org/abs/2603.22140)|null|
+|**2026-03-23**|**Adsorption energies and decomposition barrier heights for ethylene carbonate on the surface of lithium from cluster-based quantum chemistry**|Ethan A. Vo et.al.|[2603.22139](http://arxiv.org/abs/2603.22139)|null|
+|**2026-03-23**|**Programming Manufacturing Robots with Imperfect AI: LLMs as Tuning Experts for FDM Print Configuration Selection**|Ekta U. Samani et.al.|[2603.22118](http://arxiv.org/abs/2603.22118)|null|
+|**2026-03-23**|**Overcoming sampling limitations using machine-learned interatomic potentials: the case of water-in-salt electrolytes**|Luca Brugnoli et.al.|[2603.22099](http://arxiv.org/abs/2603.22099)|null|
+|**2026-03-23**|**Comment on: Discontinuous codimension-two bifurcation in a Vlasov equation (arXiv:2212.01250)**|Tarcísio N. Teles et.al.|[2603.22066](http://arxiv.org/abs/2603.22066)|null|
 |**2026-03-23**|**Suiren-1.0 Technical Report: A Family of Molecular Foundation Models**|Junyi An et.al.|[2603.21942](http://arxiv.org/abs/2603.21942)|null|
 |**2026-03-23**|**Molecular dynamics simulation of high slip flow of water confined between graphene nanochannels at experimentally accessible strain rates**|Carmelo Civello et.al.|[2603.21907](http://arxiv.org/abs/2603.21907)|null|
 |**2026-03-23**|**olLOSC: Unified and efficient density functional approximation to correct delocalization error in molecules and periodic materials**|Yichen Fan et.al.|[2603.21906](http://arxiv.org/abs/2603.21906)|null|
@@ -1682,6 +1702,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**Development and large-scale benchmarks of a protein-ligand absolute binding free energy toolkit**|Yu Liu et.al.|[2603.22274](http://arxiv.org/abs/2603.22274)|null|
+|**2026-03-23**|**Noise Titration: Exact Distributional Benchmarking for Probabilistic Time Series Forecasting**|Qilin Wang et.al.|[2603.22219](http://arxiv.org/abs/2603.22219)|null|
+|**2026-03-23**|**Route-Phasing-Split-Encoded Genetic Algorithm for Multi-Satellite On-Orbit Servicing Mission Planning**|Shridhar Velhal et.al.|[2603.22210](http://arxiv.org/abs/2603.22210)|null|
+|**2026-03-23**|**Twisted group algebras of faithful split metacyclic groups $C_p \rtimes C_m$ over finite fields**|Sanjit Bhowmick et.al.|[2603.22185](http://arxiv.org/abs/2603.22185)|null|
+|**2026-03-23**|**Autoregressive vs. Masked Diffusion Language Models: A Controlled Comparison**|Caio Vicentino et.al.|[2603.22075](http://arxiv.org/abs/2603.22075)|null|
 |**2026-03-23**|**GeoFusion-CAD: Structure-Aware Diffusion with Geometric State Space for Parametric 3D Design**|Xiaolei Zhou et.al.|[2603.21978](http://arxiv.org/abs/2603.21978)|null|
 |**2026-03-23**|**Camera-Agnostic Pruning of 3D Gaussian Splats via Descriptor-Based Beta Evidence**|Peter Fasogbon et.al.|[2603.21933](http://arxiv.org/abs/2603.21933)|null|
 |**2026-03-23**|**Collision-Free Velocity Scheduling for Multi-Agent Systems on Predefined Routes via Inexact-Projection ADMM**|Seungyeop Lee et.al.|[2603.21913](http://arxiv.org/abs/2603.21913)|null|
@@ -2194,6 +2219,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**VideoDetective: Clue Hunting via both Extrinsic Query and Intrinsic Relevance for Long Video Understanding**|Ruoliu Yang et.al.|[2603.22285](http://arxiv.org/abs/2603.22285)|null|
+|**2026-03-23**|**End-to-End Training for Unified Tokenization and Latent Denoising**|Shivam Duggal et.al.|[2603.22283](http://arxiv.org/abs/2603.22283)|null|
+|**2026-03-23**|**3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing**|Haoyu Zhen et.al.|[2603.22279](http://arxiv.org/abs/2603.22279)|null|
+|**2026-03-23**|**Greater accessibility can amplify discrimination in generative AI**|Carolin Holtermann et.al.|[2603.22260](http://arxiv.org/abs/2603.22260)|null|
+|**2026-03-23**|**RotorMap and Quantum Fingerprints of DNA Sequences via Rotary Position Embeddings**|Danylo Yakymenko et.al.|[2603.22245](http://arxiv.org/abs/2603.22245)|null|
+|**2026-03-23**|**Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models**|Tom Biskupski et.al.|[2603.22214](http://arxiv.org/abs/2603.22214)|null|
+|**2026-03-23**|**SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection**|Kexian Tang et.al.|[2603.22213](http://arxiv.org/abs/2603.22213)|null|
+|**2026-03-23**|**Seeing is Improving: Visual Feedback for Iterative Text Layout Refinement**|Junrong Guo et.al.|[2603.22187](http://arxiv.org/abs/2603.22187)|null|
+|**2026-03-23**|**Enhancing Document-Level Machine Translation via Filtered Synthetic Corpora and Two-Stage LLM Adaptation**|Ireh Kim et.al.|[2603.22186](http://arxiv.org/abs/2603.22186)|null|
+|**2026-03-23**|**Revisiting Quantum Code Generation: Where Should Domain Knowledge Live?**|Oscar Novo et.al.|[2603.22184](http://arxiv.org/abs/2603.22184)|null|
 |**2026-03-23**|**ROM: Real-time Overthinking Mitigation via Streaming Detection and Intervention**|Xinyan Wang et.al.|[2603.22016](http://arxiv.org/abs/2603.22016)|null|
 |**2026-03-23**|**SecureBreak -- A dataset towards safe and secure models**|Marco Arazzi et.al.|[2603.21975](http://arxiv.org/abs/2603.21975)|null|
 |**2026-03-23**|**Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe**|Xixi Wu et.al.|[2603.21972](http://arxiv.org/abs/2603.21972)|null|
