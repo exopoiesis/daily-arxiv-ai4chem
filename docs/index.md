@@ -2,13 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Molecular Representation & Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction**|Falong Fan et.al.|[2603.24577](http://arxiv.org/abs/2603.24577)|null|
+|**2026-03-25**|**Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations**|Ian Störmer et.al.|[2603.24360](http://arxiv.org/abs/2603.24360)|null|
+|**2026-03-25**|**CGRL: Causal-Guided Representation Learning for Graph Out-of-Distribution Generalization**|Bowen Lu et.al.|[2603.24304](http://arxiv.org/abs/2603.24304)|null|
+|**2026-03-25**|**Cost-Sensitive Neighborhood Aggregation for Heterophilous Graphs: When Does Per-Edge Routing Help?**|Eyal Weiss et.al.|[2603.24291](http://arxiv.org/abs/2603.24291)|null|
+|**2026-03-25**|**DeepDTF: Dual-Branch Transformer Fusion for Multi-Omics Anticancer Drug Response Prediction**|Yuhan Zhao et.al.|[2603.24265](http://arxiv.org/abs/2603.24265)|null|
+|**2026-03-25**|**Reservoir-Based Graph Convolutional Networks**|Mayssa Soussia et.al.|[2603.24131](http://arxiv.org/abs/2603.24131)|null|
+|**2026-03-25**|**KCLNet: Electrically Equivalence-Oriented Graph Representation Learning for Analog Circuits**|Peng Xu et.al.|[2603.24101](http://arxiv.org/abs/2603.24101)|null|
+|**2026-03-25**|**The impact of sensor placement on graph-neural-network-based leakage detection**|J. J. H. van Gemert et.al.|[2603.24076](http://arxiv.org/abs/2603.24076)|null|
+|**2026-03-25**|**An Efficient High-Degree, High-Order Equivariant Graph Neural Network for Direct Crystal Structure Optimization**|Ziduo Yang et.al.|[2603.23941](http://arxiv.org/abs/2603.23941)|null|
 |**2026-03-24**|**Self-Supervised Graph Neural Networks for Optimal Substation Reconfiguration**|Antoine Martinez et.al.|[2603.23401](http://arxiv.org/abs/2603.23401)|null|
 |**2026-03-24**|**Robust and Interpretable Graph Neural Networks for Power Systems State Estimation**|Arbel Yaniv et.al.|[2603.23357](http://arxiv.org/abs/2603.23357)|null|
 |**2026-03-24**|**Contrastive Metric Learning for Point Cloud Segmentation in Highly Granular Detectors**|Max Marriott-Clarke et.al.|[2603.23356](http://arxiv.org/abs/2603.23356)|null|
@@ -399,6 +408,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method**|Arthur Jacot et.al.|[2603.24594](http://arxiv.org/abs/2603.24594)|null|
+|**2026-03-25**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
+|**2026-03-25**|**Anti-I2V: Safeguarding your photos from malicious image-to-video generation**|Duc Vu et.al.|[2603.24570](http://arxiv.org/abs/2603.24570)|null|
+|**2026-03-25**|**Toward Physically Consistent Driving Video World Models under Challenging Trajectories**|Jiawei Zhou et.al.|[2603.24506](http://arxiv.org/abs/2603.24506)|null|
+|**2026-03-25**|**Project and Generate: Divergence-Free Neural Operators for Incompressible Flows**|Xigui Li et.al.|[2603.24500](http://arxiv.org/abs/2603.24500)|null|
+|**2026-03-25**|**Reflected diffusion models adapt to low-dimensional data**|Asbjørn Holk et.al.|[2603.24495](http://arxiv.org/abs/2603.24495)|null|
+|**2026-03-25**|**Short-Term Turbulence Prediction for Seeing Using Machine Learning**|Mary Joe Medlej et.al.|[2603.24466](http://arxiv.org/abs/2603.24466)|null|
+|**2026-03-25**|**Analysis and numerical simulation of a spatio-temporal Ricker-type model for the control of Aedes aegypti mosquitoes with Sterile Insect Techniques**|Oscar Eduardo Escobar-Lasso et.al.|[2603.24460](http://arxiv.org/abs/2603.24460)|null|
+|**2026-03-25**|**OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning**|Kaihang Pan et.al.|[2603.24458](http://arxiv.org/abs/2603.24458)|null|
+|**2026-03-25**|**Unleashing Vision-Language Semantics for Deepfake Video Detection**|Jiawen Zhu et.al.|[2603.24454](http://arxiv.org/abs/2603.24454)|null|
 |**2026-03-24**|**DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models**|Jaewon Min et.al.|[2603.23499](http://arxiv.org/abs/2603.23499)|null|
 |**2026-03-24**|**Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation**|Brian Chao et.al.|[2603.23491](http://arxiv.org/abs/2603.23491)|null|
 |**2026-03-24**|**RealMaster: Lifting Rendered Scenes into Photorealistic Video**|Dana Cohen-Bar et.al.|[2603.23462](http://arxiv.org/abs/2603.23462)|null|
@@ -1016,6 +1035,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**ZeroFold: Protein-RNA Binding Affinity Predictions from Pre-Structural Embeddings**|Josef Hanke et.al.|[2603.23583](http://arxiv.org/abs/2603.23583)|null|
 |**2026-03-22**|**DMMRL: Disentangled Multi-Modal Representation Learning via Variational Autoencoders for Molecular Property Prediction**|Long Xu et.al.|[2603.21108](http://arxiv.org/abs/2603.21108)|null|
 |**2026-03-21**|**Multi-RF Fusion with Multi-GNN Blending for Molecular Property Prediction**|Zacharie Bugaud et.al.|[2603.20724](http://arxiv.org/abs/2603.20724)|null|
 |**2026-03-13**|**Deciphering Scientific Reasoning Steps from Outcome Data for Molecule Optimization**|Zequn Liu et.al.|[2603.20262](http://arxiv.org/abs/2603.20262)|null|
@@ -1080,6 +1100,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Fine-tuning universal machine learning potentials for transition state search in surface catalysis**|Raffaele Cheula et.al.|[2603.24482](http://arxiv.org/abs/2603.24482)|null|
+|**2026-03-25**|**Exploring the Structure and Chemistry of 1D and 2D Lepidocrocite TiO2 at Atomic Resolution**|Eric Nestor Tseng et.al.|[2603.24264](http://arxiv.org/abs/2603.24264)|null|
+|**2026-03-25**|**AgentChemist: A Multi-Agent Experimental Robotic Platform Integrating Chemical Perception and Precise Control**|Xiangyi Wei et.al.|[2603.23886](http://arxiv.org/abs/2603.23886)|null|
+|**2026-03-25**|**From the Stochastic Embedding Sufficiency Theorem to a Superspace Diffusion Framework**|Carolina Garcia et.al.|[2603.20423](http://arxiv.org/abs/2603.20423)|null|
 |**2026-03-17**|**Machine intelligence supports the full chain of 2D dendrite synthesis**|Wenqiang Huang et.al.|[2603.16959](http://arxiv.org/abs/2603.16959)|null|
 |**2026-03-15**|**Life cycle assessment for all organic chemicals**|Shaohan Chen et.al.|[2603.15686](http://arxiv.org/abs/2603.15686)|null|
 |**2026-03-16**|**CrossADR: enhancing adverse drug reactions prediction for combination pharmacotherapy with cross-layer feature integration and cross-level associative learning**|Y. Cheung et.al.|[2603.15047](http://arxiv.org/abs/2603.15047)|null|
@@ -1165,6 +1189,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Electronic properties of the Radium-monochalcogenides RaX (X = O,S,Se) and RaO+/- ions**|Mateo Londoño et.al.|[2603.24590](http://arxiv.org/abs/2603.24590)|null|
+|**2026-03-25**|**Trust Region Constrained Bayesian Optimization with Penalized Constraint Handling**|Raju Chowdhury et.al.|[2603.24567](http://arxiv.org/abs/2603.24567)|null|
+|**2026-03-25**|**Capturing thermal effects beyond the zero-temperature approximation using the uniform electron gas**|Brianna Aguilar-Solis et.al.|[2603.24544](http://arxiv.org/abs/2603.24544)|null|
+|**2026-03-25**|**Radial Distribution Function in a Two Dimensional Core-Shoulder Particle System**|Michael Wassermair et.al.|[2603.24537](http://arxiv.org/abs/2603.24537)|null|
+|**2026-03-25**|**Two-dimensional IR-Raman spectroscopy of vibrational polaritons: Role of dipole surfaces**|Xinwei Ji et.al.|[2603.24521](http://arxiv.org/abs/2603.24521)|null|
+|**2026-03-25**|**Multiple Topological States in LaAgAs2, a Failed Square-Net Semimetal**|Yang Liu et.al.|[2603.24513](http://arxiv.org/abs/2603.24513)|null|
+|**2026-03-25**|**JSSAnet: Theory-Guided Subchannel Partitioning and Joint Spatial Attention for Near-Field Channel Estimation**|Zhiming Zhu et.al.|[2603.24505](http://arxiv.org/abs/2603.24505)|null|
+|**2026-03-25**|**Using Educational Comics in Physics Teaching for Chemistry and Biochemistry Students: Impact on Motivation and Domain-Specific Conceptual Gains**|Mauricio Echiburu et.al.|[2603.24498](http://arxiv.org/abs/2603.24498)|null|
+|**2026-03-25**|**Revealing Charge Transfer in Defect-Engineered 4H $_\mathrm{b}$-TaS$_2$**|Siavash Karbasizadeh et.al.|[2603.24486](http://arxiv.org/abs/2603.24486)|null|
+|**2026-03-25**|**Fine-tuning universal machine learning potentials for transition state search in surface catalysis**|Raffaele Cheula et.al.|[2603.24482](http://arxiv.org/abs/2603.24482)|null|
 |**2026-03-24**|**Active learning-enabled multi-objective design of thermally conductive and mechanically compliant polymers**|Yuhan Liu et.al.|[2603.23494](http://arxiv.org/abs/2603.23494)|null|
 |**2026-03-24**|**Reaching for the performance limit of hybrid density functional theory for molecular chemistry**|Jiashu Liang et.al.|[2603.23466](http://arxiv.org/abs/2603.23466)|null|
 |**2026-03-24**|**A unified variational framework for the inverse Kohn-Sham problem**|Nan Sheng et.al.|[2603.23452](http://arxiv.org/abs/2603.23452)|null|
@@ -1710,6 +1744,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**SEGAR: Selective Enhancement for Generative Augmented Reality**|Fanjun Bu et.al.|[2603.24541](http://arxiv.org/abs/2603.24541)|null|
+|**2026-03-25**|**Kinetics-Driven Selective Stoichiometric Shift and Structural Asymmetry in $Bi_4Te_3$ Nanostructures for Hybrid Quantum Architectures**|Abdur Rehman Jalil et.al.|[2603.24496](http://arxiv.org/abs/2603.24496)|null|
+|**2026-03-25**|**SpinGQE: A Generative Quantum Eigensolver for Spin Hamiltonians**|Alexander Holden et.al.|[2603.24298](http://arxiv.org/abs/2603.24298)|null|
+|**2026-03-25**|**Predicting Grain Growth Evolution Under Complex Thermal Profiles with Deep Learning through Thermal Descriptor Modulation**|Pungponhavoan Tep et.al.|[2603.24090](http://arxiv.org/abs/2603.24090)|null|
+|**2026-03-25**|**Learning Quantum-Samplers for Stochastic Processes with Quantum Sequence Models**|Ximing Wang et.al.|[2603.24069](http://arxiv.org/abs/2603.24069)|null|
+|**2026-03-25**|**Attention-aware Inference Optimizations for Large Vision-Language Models with Memory-efficient Decoding**|Fatih Ilhan et.al.|[2603.23914](http://arxiv.org/abs/2603.23914)|null|
+|**2026-03-25**|**Pseudofiniteness of the Farey Graph**|Connor Martinez Lockhart et.al.|[2603.23900](http://arxiv.org/abs/2603.23900)|null|
+|**2026-03-24**|**Wasserstein Parallel Transport for Predicting the Dynamics of Statistical Systems**|Tristan Luca Saidi et.al.|[2603.23736](http://arxiv.org/abs/2603.23736)|null|
+|**2026-03-24**|**oMEGACat. X. Shedding light on the disrupted dwarf galaxy of Omega Centauri**|Stefano Souza et.al.|[2603.23589](http://arxiv.org/abs/2603.23589)|null|
 |**2026-03-24**|**Information-Theoretic Scaling Laws of Neural Quantum States**|Yiming Lu et.al.|[2603.23468](http://arxiv.org/abs/2603.23468)|null|
 |**2026-03-24**|**RealMaster: Lifting Rendered Scenes into Photorealistic Video**|Dana Cohen-Bar et.al.|[2603.23462](http://arxiv.org/abs/2603.23462)|null|
 |**2026-03-24**|**Eulerian polynomials and the alternating sum of excedances**|Jean-Christophe Pain et.al.|[2603.23380](http://arxiv.org/abs/2603.23380)|null|
@@ -2235,6 +2278,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Vibe Coding XR: Accelerating AI + XR Prototyping with XR Blocks and Gemini**|Ruofei Du et.al.|[2603.24591](http://arxiv.org/abs/2603.24591)|null|
+|**2026-03-25**|**MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination**|Zhuo Li et.al.|[2603.24579](http://arxiv.org/abs/2603.24579)|null|
+|**2026-03-25**|**LensWalk: Agentic Video Understanding by Planning How You See in Videos**|Keliang Li et.al.|[2603.24558](http://arxiv.org/abs/2603.24558)|null|
+|**2026-03-25**|**Evaluating Chunking Strategies For Retrieval-Augmented Generation in Oil and Gas Enterprise Documents**|Samuel Taiwo et.al.|[2603.24556](http://arxiv.org/abs/2603.24556)|null|
+|**2026-03-25**|**Representation Learning to Study Temporal Dynamics in Tutorial Scaffolding**|Conrad Borchers et.al.|[2603.24535](http://arxiv.org/abs/2603.24535)|null|
+|**2026-03-25**|**UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience**|Zichuan Lin et.al.|[2603.24533](http://arxiv.org/abs/2603.24533)|null|
+|**2026-03-25**|**Video-Only ToM: Enhancing Theory of Mind in Multimodal Large Language Models**|Siqi Liu et.al.|[2603.24484](http://arxiv.org/abs/2603.24484)|null|
+|**2026-03-25**|**Mechanic: Sorrifier-Driven Formal Decomposition Workflow for Automated Theorem Proving**|Ruichen Qiu et.al.|[2603.24465](http://arxiv.org/abs/2603.24465)|null|
+|**2026-03-25**|**PINGALA: Prosody-Aware Decoding for Sanskrit Poetry Generation**|Manoj Balaji Jagadeeshan et.al.|[2603.24413](http://arxiv.org/abs/2603.24413)|null|
+|**2026-03-25**|**AI-Supervisor: Autonomous AI Research Supervision via a Persistent Research World Model**|Yunbo Long et.al.|[2603.24402](http://arxiv.org/abs/2603.24402)|null|
 |**2026-03-24**|**Failure of contextual invariance in gender inference with large language models**|Sagar Kumar et.al.|[2603.23485](http://arxiv.org/abs/2603.23485)|null|
 |**2026-03-24**|**SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning**|Haoyu Huang et.al.|[2603.23483](http://arxiv.org/abs/2603.23483)|null|
 |**2026-03-24**|**ReqFusion: A Multi-Provider Framework for Automated PEGS Analysis Across Software Domains**|Muhammad Khalid et.al.|[2603.23482](http://arxiv.org/abs/2603.23482)|null|
