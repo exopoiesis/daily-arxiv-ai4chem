@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Topology-Aware Graph Reinforcement Learning for Energy Storage Systems Optimal Dispatch in Distribution Networks**|Shuyi Gao et.al.|[2603.26264](http://arxiv.org/abs/2603.26264)|null|
+|**2026-03-27**|**Graph-Based Meshfree Multi-scale Coarse Space Approximation for Two-Level Schwarz Methods**|Yucheng Liu et.al.|[2603.26149](http://arxiv.org/abs/2603.26149)|null|
+|**2026-03-27**|**On the Complexity of Optimal Graph Rewiring for Oversmoothing and Oversquashing in Graph Neural Networks**|Mostafa Haghir Chehreghani et.al.|[2603.26140](http://arxiv.org/abs/2603.26140)|null|
+|**2026-03-27**|**PEANUT: Perturbations by Eigenvalue Alignment for Attacking GNNs Under Topology-Driven Message Passing**|Bhavya Kohli et.al.|[2603.26136](http://arxiv.org/abs/2603.26136)|null|
+|**2026-03-27**|**Are LLM-Enhanced Graph Neural Networks Robust against Poisoning Attacks?**|Yuhang Ma et.al.|[2603.26105](http://arxiv.org/abs/2603.26105)|null|
+|**2026-03-26**|**Disguising Topology and Side-Channel Information through Covert Gate- and ML-Enabled IP Camouflaging**|Junling Fan et.al.|[2603.25904](http://arxiv.org/abs/2603.25904)|null|
+|**2026-03-26**|**Vision Transformers and Graph Neural Networks for Charged Particle Tracking in the ATLAS Muon Spectrometer**|Jonathan Renusch et.al.|[2603.25793](http://arxiv.org/abs/2603.25793)|null|
 |**2026-03-26**|**UNIC: Neural Garment Deformation Field for Real-time Clothed Character Animation**|Chengfeng Zhao et.al.|[2603.25580](http://arxiv.org/abs/2603.25580)|null|
 |**2026-03-26**|**Adaptive Learned Image Compression with Graph Neural Networks**|Yunuo Chen et.al.|[2603.25316](http://arxiv.org/abs/2603.25316)|null|
 |**2026-03-26**|**FEAST: Fully Connected Expressive Attention for Spatial Transcriptomics**|Taejin Jeong et.al.|[2603.25247](http://arxiv.org/abs/2603.25247)|null|
@@ -414,6 +421,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation**|Nicolas von Lützow et.al.|[2603.26661](http://arxiv.org/abs/2603.26661)|null|
+|**2026-03-27**|**Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling**|Ruixing Zhang et.al.|[2603.26610](http://arxiv.org/abs/2603.26610)|null|
+|**2026-03-27**|**VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward**|Zhaochong An et.al.|[2603.26599](http://arxiv.org/abs/2603.26599)|null|
+|**2026-03-27**|**From Synthetic Data to Real Restorations: Diffusion Model for Patient-specific Dental Crown Completion**|Dávid Pukanec et.al.|[2603.26588](http://arxiv.org/abs/2603.26588)|null|
+|**2026-03-27**|**Generation Is Compression: Zero-Shot Video Coding via Stochastic Rectified Flow**|Ziyue Zeng et.al.|[2603.26571](http://arxiv.org/abs/2603.26571)|null|
+|**2026-03-27**|**HolisticSemGes: Semantic Grounding of Holistic Co-Speech Gesture Generation with Contrastive Flow-Matching**|Lanmiao Liu et.al.|[2603.26553](http://arxiv.org/abs/2603.26553)|null|
+|**2026-03-27**|**Rough volatility dynamics in commodity markets**|Roberto Daluiso et.al.|[2603.26514](http://arxiv.org/abs/2603.26514)|null|
+|**2026-03-27**|**Conditional Diffusion for 3D CT Volume Reconstruction from 2D X-rays**|Martin Rath et.al.|[2603.26509](http://arxiv.org/abs/2603.26509)|null|
+|**2026-03-27**|**Identifying Connectivity Distributions from Neural Dynamics Using Flows**|Timothy Doyeon Kim et.al.|[2603.26506](http://arxiv.org/abs/2603.26506)|null|
+|**2026-03-27**|**Reconstructing Quantum Dot Charge Stability Diagrams with Diffusion Models**|Vinicius Hernandes et.al.|[2603.26432](http://arxiv.org/abs/2603.26432)|null|
 |**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
 |**2026-03-26**|**How good was my shot? Quantifying Player Skill Level in Table Tennis**|Akihiro Kubota et.al.|[2603.25736](http://arxiv.org/abs/2603.25736)|null|
 |**2026-03-26**|**BizGenEval: A Systematic Benchmark for Commercial Visual Content Generation**|Yan Li et.al.|[2603.25732](http://arxiv.org/abs/2603.25732)|null|
@@ -1051,6 +1068,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**KMM-CP: Practical Conformal Prediction under Covariate Shift via Selective Kernel Mean Matching**|Siddhartha Laghuvarapu et.al.|[2603.26415](http://arxiv.org/abs/2603.26415)|null|
+|**2026-03-27**|**DPD-Cancer: Explainable Graph-based Deep Learning for Small Molecule Anti-Cancer Activity Prediction**|Magnus H. Strømme et.al.|[2603.26114](http://arxiv.org/abs/2603.26114)|null|
+|**2026-03-26**|**In-Context Molecular Property Prediction with LLMs: A Blinding Study on Memorization and Knowledge Conflicts**|Matthias Busch et.al.|[2603.25857](http://arxiv.org/abs/2603.25857)|null|
+|**2026-03-25**|**KANEL: Kolmogorov-Arnold Network Ensemble Learning Enables Early Hit Enrichment in High-Throughput Virtual Screening**|Pavel Koptev et.al.|[2603.25755](http://arxiv.org/abs/2603.25755)|null|
 |**2026-03-24**|**ZeroFold: Protein-RNA Binding Affinity Predictions from Pre-Structural Embeddings**|Josef Hanke et.al.|[2603.23583](http://arxiv.org/abs/2603.23583)|null|
 |**2026-03-22**|**DMMRL: Disentangled Multi-Modal Representation Learning via Variational Autoencoders for Molecular Property Prediction**|Long Xu et.al.|[2603.21108](http://arxiv.org/abs/2603.21108)|null|
 |**2026-03-21**|**Multi-RF Fusion with Multi-GNN Blending for Molecular Property Prediction**|Zacharie Bugaud et.al.|[2603.20724](http://arxiv.org/abs/2603.20724)|null|
@@ -1116,6 +1137,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Beyond the Quantum Picture: The Electrodynamic Origin of Chiral Nanoplasmonics**|Vasil Saroka et.al.|[2603.26649](http://arxiv.org/abs/2603.26649)|null|
+|**2026-03-27**|**Evaluation of QED cross sections in strong magnetic fields**|Olavi Kiuru et.al.|[2603.26545](http://arxiv.org/abs/2603.26545)|null|
+|**2026-03-27**|**The Unreconstructed α-Al $_{2}$O$_{3}$ (0001) Surface is Inhomogeneous and Rough**|Johanna I. Hütner-Reisch et.al.|[2603.26201](http://arxiv.org/abs/2603.26201)|null|
+|**2026-03-26**|**Bayesian Deep Count Regression and Anomaly Detection: Evidence from GDELT Event Panels**|Hsin-Hsiung Huang et.al.|[2603.25970](http://arxiv.org/abs/2603.25970)|null|
+|**2026-03-26**|**Catalytic Coherence Amplification for Quantum State Recovery: Theory, Numerical Validation, and Comparison with Conventional Error Correction**|Hikaru Wakaura et.al.|[2603.25774](http://arxiv.org/abs/2603.25774)|null|
 |**2026-03-26**|**Decoding the Electronic and Structural Fingerprints of Single-Atom Catalysts via DFT-Assisted XANES Analysis**|Petr Lazar et.al.|[2603.25179](http://arxiv.org/abs/2603.25179)|null|
 |**2026-03-25**|**On peculiarities of the annealing process for highly transparent silica based aerogel tiles manufactured in Novosibirsk**|A. Yu. Barnyakov et.al.|[2603.24630](http://arxiv.org/abs/2603.24630)|null|
 |**2026-03-25**|**Fine-tuning universal machine learning potentials for transition state search in surface catalysis**|Raffaele Cheula et.al.|[2603.24482](http://arxiv.org/abs/2603.24482)|null|
@@ -1207,6 +1233,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Beyond the Quantum Picture: The Electrodynamic Origin of Chiral Nanoplasmonics**|Vasil Saroka et.al.|[2603.26649](http://arxiv.org/abs/2603.26649)|null|
+|**2026-03-27**|**Importance of Electronic Entropy for Machine Learning Interatomic Potentials**|Martin Hoffmann Petersen et.al.|[2603.26471](http://arxiv.org/abs/2603.26471)|null|
+|**2026-03-27**|**Towards a unified first-principles-based description of VO $_2$ using DFT+DMFT with bond-centered orbitals**|Peter Mlkvik et.al.|[2603.26452](http://arxiv.org/abs/2603.26452)|null|
+|**2026-03-27**|**Coupling Quantum Mechanical Modeling and Molecular Dynamics on Heterogeneous Supercomputers for Studying Distal Mutation Effects on Drug Binding in HIV-1**|William Dawson et.al.|[2603.26411](http://arxiv.org/abs/2603.26411)|null|
+|**2026-03-27**|**Coherent Ultrafast Excitonic Oscillations in Monolayer WS $_2$**|Jorge Cervantes-Villanueva et.al.|[2603.26386](http://arxiv.org/abs/2603.26386)|null|
+|**2026-03-27**|**Automated near-term quantum algorithm discovery for molecular ground states**|Fabian Finger et.al.|[2603.26359](http://arxiv.org/abs/2603.26359)|null|
+|**2026-03-27**|**Optimization of Beam Transmission in the extraction lines of the K130 Room Temperature Cyclotron at Variable Energy Cyclotron Centre (VECC), Kolkata**|Arup Ratan Jana et.al.|[2603.26340](http://arxiv.org/abs/2603.26340)|null|
+|**2026-03-27**|**Curvature-aware Expected Free Energy as an Acquisition Function for Bayesian Optimization**|Ajith Anil Meera et.al.|[2603.26339](http://arxiv.org/abs/2603.26339)|null|
+|**2026-03-27**|**Strain-released epitaxy of GaN enabled by compliant single-crystalline metal foils**|Yaqing Ma et.al.|[2603.26325](http://arxiv.org/abs/2603.26325)|null|
+|**2026-03-27**|**Antiferromagnetic stripe phase and large-gap insulating ground state of the correlated $\sqrt{3}\times\sqrt{3}$~R30$^{\circ}$ -Sn/Si(111) single atomic layer**|Mohammadmehdi Torkzadeh et.al.|[2603.26304](http://arxiv.org/abs/2603.26304)|null|
 |**2026-03-26**|**Molecular dynamics study of the role of anisotropy in radiation-driven embrittlement**|Hojjat Mousavi et.al.|[2603.25617](http://arxiv.org/abs/2603.25617)|null|
 |**2026-03-26**|**General-Purpose Machine-Learned Potential for CrCoNi Alloys Enabling Large-Scale Atomistic Simulations with First-Principles Accuracy**|Yong-Chao Wu et.al.|[2603.25616](http://arxiv.org/abs/2603.25616)|null|
 |**2026-03-26**|**An Integrative Genome-Scale Metabolic Modeling and Machine Learning Framework for Predicting and Optimizing Biofuel-Relevant Biomass Production in Saccharomyces cerevisiae**|Neha K. Nair et.al.|[2603.25561](http://arxiv.org/abs/2603.25561)|null|
@@ -1772,6 +1808,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Competition between gravity waves excited by convection and tides in stars that host a companion**|M. Esseldeurs et.al.|[2603.26577](http://arxiv.org/abs/2603.26577)|null|
+|**2026-03-27**|**On merge-models**|Hector Buffière et.al.|[2603.26570](http://arxiv.org/abs/2603.26570)|null|
+|**2026-03-27**|**Generating function for Hermitian and non-Hermitian models**|Hua-Yu Bai et.al.|[2603.26519](http://arxiv.org/abs/2603.26519)|null|
+|**2026-03-27**|**SPECTRA: An Efficient Spectral-Informed Neural Network for Sensor-Based Activity Recognition**|Deepika Gurung et.al.|[2603.26482](http://arxiv.org/abs/2603.26482)|null|
+|**2026-03-27**|**A Boltzmann-machine-enhanced Transformer For DNA Sequence Classification**|Zhixuan Cao et.al.|[2603.26465](http://arxiv.org/abs/2603.26465)|null|
+|**2026-03-27**|**Generative Modeling in Protein Design: Neural Representations, Conditional Generation, and Evaluation Standards**|Senura Hansaja Wanasekara et.al.|[2603.26378](http://arxiv.org/abs/2603.26378)|null|
+|**2026-03-27**|**Making Multi-Axis Models Robust to Multiplicative Noise: How, and Why?**|Bailey Andrew et.al.|[2603.26327](http://arxiv.org/abs/2603.26327)|null|
+|**2026-03-27**|**HAD: Heterogeneity-Aware Distillation for Lifelong Heterogeneous Learning**|Xuerui Zhang et.al.|[2603.26192](http://arxiv.org/abs/2603.26192)|null|
+|**2026-03-27**|**Geometric Evolution Graph Convolutional Networks: Enhancing Graph Representation Learning via Ricci Flow**|Jicheng Ma et.al.|[2603.26178](http://arxiv.org/abs/2603.26178)|null|
+|**2026-03-27**|**FINDER: Zero-Shot Field-Integrated Network for Distortion-free EPI Reconstruction in Diffusion MRI**|Namgyu Han et.al.|[2603.26117](http://arxiv.org/abs/2603.26117)|null|
 |**2026-03-26**|**Fast and Accurate CP-HIFI Tensor Decompositions: Exploiting Kronecker Structure**|Johannes J. Brust et.al.|[2603.25691](http://arxiv.org/abs/2603.25691)|null|
 |**2026-03-26**|**Just Zoom In: Cross-View Geo-Localization via Autoregressive Zooming**|Yunus Talha Erzurumlu et.al.|[2603.25686](http://arxiv.org/abs/2603.25686)|null|
 |**2026-03-26**|**Interfacial Polytype Engineering of Polymer-Derived SiC via Compositionally Complex MXene Templating**|Yuxiang Gan et.al.|[2603.25652](http://arxiv.org/abs/2603.25652)|null|
@@ -2316,6 +2362,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Learning to Commit: Generating Organic Pull Requests via Online Repository Memory**|Mo Li et.al.|[2603.26664](http://arxiv.org/abs/2603.26664)|null|
+|**2026-03-27**|**Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification**|Zehai He et.al.|[2603.26648](http://arxiv.org/abs/2603.26648)|null|
+|**2026-03-27**|**Beyond Language: Grounding Referring Expressions with Hand Pointing in Egocentric Vision**|Ling Li et.al.|[2603.26646](http://arxiv.org/abs/2603.26646)|null|
+|**2026-03-27**|**Deception and Communication in Autonomous Multi-Agent Systems: An Experimental Study with Among Us**|Maria Milkowski et.al.|[2603.26635](http://arxiv.org/abs/2603.26635)|null|
+|**2026-03-27**|**Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence**|Eziyo Ehsani et.al.|[2603.26603](http://arxiv.org/abs/2603.26603)|null|
+|**2026-03-27**|**MA-Bench: Towards Fine-grained Micro-Action Understanding**|Kun Li et.al.|[2603.26586](http://arxiv.org/abs/2603.26586)|null|
+|**2026-03-27**|**Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering**|Yoseph Berhanu Alebachew et.al.|[2603.26567](http://arxiv.org/abs/2603.26567)|null|
+|**2026-03-27**|**MemBoost: A Memory-Boosted Framework for Cost-Aware LLM Inference**|Joris Köster et.al.|[2603.26557](http://arxiv.org/abs/2603.26557)|null|
+|**2026-03-27**|**Development of a European Union Time-Indexed Reference Dataset for Assessing the Performance of Signal Detection Methods in Pharmacovigilance using a Large Language Model**|Maria Kefala et.al.|[2603.26544](http://arxiv.org/abs/2603.26544)|null|
+|**2026-03-27**|**Shaping Credibility Judgments in Human-GenAI Partnership via Weaker LLMs: A Transactive Memory Perspective on AI Literacy**|Md Touhidul Islam et.al.|[2603.26522](http://arxiv.org/abs/2603.26522)|null|
 |**2026-03-26**|**SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding**|Jiwook Han et.al.|[2603.25733](http://arxiv.org/abs/2603.25733)|null|
 |**2026-03-26**|**Seeing to Ground: Visual Attention for Hallucination-Resilient MDLLMs**|Vishal Narnaware et.al.|[2603.25711](http://arxiv.org/abs/2603.25711)|null|
 |**2026-03-26**|**Self-Improvement of Large Language Models: A Technical Overview and Future Outlook**|Haoyan Yang et.al.|[2603.25681](http://arxiv.org/abs/2603.25681)|null|
