@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Molecular Representation & Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Fidelity of Machine Learned Potentials: Quantitative Assessment for Protonated Oxalate**|Chen Qu et.al.|[2604.12877](http://arxiv.org/abs/2604.12877)|null|
+|**2026-04-14**|**Topology-Aware Reasoning over Incomplete Knowledge Graph with Graph-Based Soft Prompting**|Shuai Wang et.al.|[2604.12503](http://arxiv.org/abs/2604.12503)|null|
+|**2026-04-14**|**Latent patterns of urban mixing in mobility analysis across five global cities**|Z. Fan et.al.|[2604.12202](http://arxiv.org/abs/2604.12202)|null|
+|**2026-04-13**|**XANE(3): An E(3)-Equivariant Graph Neural Network for Accurate Prediction of XANES Spectra from Atomic Structures**|Vitor F. Grizzi et.al.|[2604.12140](http://arxiv.org/abs/2604.12140)|null|
+|**2026-04-13**|**Exploring Concept Subspace for Self-explainable Text-Attributed Graph Learning**|Xiaoxue Han et.al.|[2604.11986](http://arxiv.org/abs/2604.11986)|null|
 |**2026-04-13**|**Learning How Much to Think: Difficulty-Aware Dynamic MoEs for Graph Node Classification**|Jiajun Zhou et.al.|[2604.11473](http://arxiv.org/abs/2604.11473)|null|
 |**2026-04-13**|**One Scale at a Time: Scale-Autoregressive Modeling for Fluid Flow Distributions**|Mario Lino et.al.|[2604.11403](http://arxiv.org/abs/2604.11403)|null|
 |**2026-04-13**|**Sheaf Diffusion with Adaptive Local Structure for Spatio-Temporal Forecasting**|Abeer Mostafa et.al.|[2604.11275](http://arxiv.org/abs/2604.11275)|null|
@@ -512,6 +517,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Generative Refinement Networks for Visual Synthesis**|Jian Han et.al.|[2604.13030](http://arxiv.org/abs/2604.13030)|null|
+|**2026-04-14**|**Learning Versatile Humanoid Manipulation with Touch Dreaming**|Yaru Niu et.al.|[2604.13015](http://arxiv.org/abs/2604.13015)|null|
+|**2026-04-14**|**XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios**|Junming Wang et.al.|[2604.13001](http://arxiv.org/abs/2604.13001)|null|
+|**2026-04-14**|**Causal Diffusion Models for Counterfactual Outcome Distributions in Longitudinal Data**|Farbod Alinezhad et.al.|[2604.12992](http://arxiv.org/abs/2604.12992)|null|
+|**2026-04-14**|**Sparse Contrastive Learning for Content-Based Cold Item Recommendation**|Gregor Meehan et.al.|[2604.12990](http://arxiv.org/abs/2604.12990)|null|
+|**2026-04-14**|**DINO-Explorer: Active Underwater Discovery via Ego-Motion Compensated Semantic Predictive Coding**|Yuhan Jin et.al.|[2604.12933](http://arxiv.org/abs/2604.12933)|null|
+|**2026-04-14**|**Turbulent pair dispersion with Stochastic Generative Diffusion Models**|Andrei Pantea et.al.|[2604.12932](http://arxiv.org/abs/2604.12932)|null|
+|**2026-04-14**|**A Sanity Check on Composed Image Retrieval**|Yikun Liu et.al.|[2604.12904](http://arxiv.org/abs/2604.12904)|null|
+|**2026-04-14**|**Generative Anonymization in Event Streams**|Adam T. Müller et.al.|[2604.12803](http://arxiv.org/abs/2604.12803)|null|
+|**2026-04-14**|**Brain-DiT: A Universal Multi-state fMRI Foundation Model with Metadata-Conditioned Pretraining**|Junfeng Xia et.al.|[2604.12683](http://arxiv.org/abs/2604.12683)|null|
 |**2026-04-13**|**Diffusing diffusivity model with dichotomous noise**|Dongho Lee et.al.|[2604.11800](http://arxiv.org/abs/2604.11800)|null|
 |**2026-04-13**|**LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**|Junhao Chen et.al.|[2604.11792](http://arxiv.org/abs/2604.11792)|null|
 |**2026-04-13**|**A Mechanistic Analysis of Looped Reasoning Language Models**|Hugh Blayney et.al.|[2604.11791](http://arxiv.org/abs/2604.11791)|null|
@@ -1269,6 +1284,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-11**|**Inverse Design of Inorganic Compounds with Generative AI**|Hannes Kneiding et.al.|[2604.11827](http://arxiv.org/abs/2604.11827)|null|
 |**2026-04-13**|**AbLWR:A Context-Aware Listwise Ranking Framework for Antibody-Antigen Binding Affinity Prediction via Positive-Unlabeled Learning**|Fan Xu et.al.|[2604.11272](http://arxiv.org/abs/2604.11272)|null|
 |**2026-04-09**|**Reinforcement Learning with LLM-Guided Action Spaces for Synthesizable Lead Optimization**|Tao Li et.al.|[2604.07669](http://arxiv.org/abs/2604.07669)|null|
 |**2026-04-10**|**Rhizome OS-1: Rhizome's Semi-Autonomous Operating System for Small Molecule Drug Discovery**|Yiwen Wang et.al.|[2604.07512](http://arxiv.org/abs/2604.07512)|null|
@@ -1459,6 +1475,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**TCL: Enabling Fast and Efficient Cross-Hardware Tensor Program Optimization via Continual Learning**|Chaoyao Shen et.al.|[2604.12891](http://arxiv.org/abs/2604.12891)|null|
+|**2026-04-14**|**Atomistic Modeling of Methane and Carbon Dioxide Structure I Gas Hydrates Under Pressure: Guest Effects and Properties**|Samuel Mathews et.al.|[2604.12861](http://arxiv.org/abs/2604.12861)|null|
+|**2026-04-14**|**Perspective on a challenge: predicting the photochemistry of cyclobutanone**|Jiří Janoš et.al.|[2604.12749](http://arxiv.org/abs/2604.12749)|null|
+|**2026-04-14**|**Stress field modification near linear complexions increases the effective obstacle size and strengthening effect**|Zhengyu Zhang et.al.|[2604.12730](http://arxiv.org/abs/2604.12730)|null|
+|**2026-04-14**|**Learning Chain Of Thoughts Prompts for Predicting Entities, Relations, and even Literals on Knowledge Graphs**|Alkid Baci et.al.|[2604.12651](http://arxiv.org/abs/2604.12651)|null|
+|**2026-04-14**|**Exact tunneling splittings from path-integral hybrid Monte Carlo with enveloping bridging potentials**|Yu-Chen Wang et.al.|[2604.12639](http://arxiv.org/abs/2604.12639)|null|
+|**2026-04-14**|**Exact tunneling splittings of rotationally excited states from symmetrized path-integral molecular dynamics**|Lea Zupan et.al.|[2604.12638](http://arxiv.org/abs/2604.12638)|null|
+|**2026-04-14**|**Tuning Structure and Magnetism in Large-Scale 2D Ferromagnet Fe $_3$GeTe$_2$ through Ni Doping**|Kacho Imtiyaz Ali Khan et.al.|[2604.12571](http://arxiv.org/abs/2604.12571)|null|
+|**2026-04-14**|**Goal-oriented safe active learning for predictive control using Bayesian recurrent neural networks**|Laura Boca de Giuli et.al.|[2604.12542](http://arxiv.org/abs/2604.12542)|null|
+|**2026-04-14**|**Kinetic instability and superconductivity in Li $_2$AuH$_6$ and Li$_2$AgH$_6$ at ambient pressure**|Yucheng Ding et.al.|[2604.12367](http://arxiv.org/abs/2604.12367)|null|
 |**2026-04-13**|**Effect of Pre-Shear and Dispersity on Crystallization of a Model Polymer with Soft Pair Interactions using Molecular Dynamics Simulations**|Tzortzis Koulaxizis et.al.|[2604.11706](http://arxiv.org/abs/2604.11706)|null|
 |**2026-04-13**|**Machine-learning modeling of magnetization dynamics in quasi-equilibrium and driven metallic spin systems**|Gia-Wei Chern et.al.|[2604.11513](http://arxiv.org/abs/2604.11513)|null|
 |**2026-04-13**|**Accuracy-Cost Trade-offs for Reference VQE Calculations of H $_2$ on IBM Quantum Hardware**|Julen Larrucea et.al.|[2604.11478](http://arxiv.org/abs/2604.11478)|null|
@@ -2144,6 +2170,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization**|Andrei Atanov et.al.|[2604.12887](http://arxiv.org/abs/2604.12887)|null|
+|**2026-04-14**|**PianoFlow: Music-Aware Streaming Piano Motion Generation with Bimanual Coordination**|Xuan Wang et.al.|[2604.12856](http://arxiv.org/abs/2604.12856)|null|
+|**2026-04-14**|**Weyl structures for path geometries**|Andreas Čap et.al.|[2604.12846](http://arxiv.org/abs/2604.12846)|null|
+|**2026-04-14**|**Directional selection of field-induced phases by weak anisotropy in triangular-lattice K $_2$Mn(SeO$_3$)$_2$**|Bin Wang et.al.|[2604.12489](http://arxiv.org/abs/2604.12489)|null|
+|**2026-04-14**|**KG-Reasoner: A Reinforced Model for End-to-End Multi-Hop Knowledge Graph Reasoning**|Shuai Wang et.al.|[2604.12487](http://arxiv.org/abs/2604.12487)|null|
+|**2026-04-14**|**KoCo: Conditioning Language Model Pre-training on Knowledge Coordinates**|Yudong Li et.al.|[2604.12397](http://arxiv.org/abs/2604.12397)|null|
+|**2026-04-14**|**UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute**|Ziliang Wang et.al.|[2604.12234](http://arxiv.org/abs/2604.12234)|null|
+|**2026-04-14**|**Ride the Wave: Precision-Allocated Sparse Attention for Smooth Video Generation**|Wentai Zhang et.al.|[2604.12219](http://arxiv.org/abs/2604.12219)|null|
+|**2026-04-14**|**Knowledge Is Not Static: Order-Aware Hypergraph RAG for Language Models**|Keshu Wu et.al.|[2604.12185](http://arxiv.org/abs/2604.12185)|null|
+|**2026-04-13**|**Estimating Price Elasticity Matrices**|Maximilian Schaller et.al.|[2604.12139](http://arxiv.org/abs/2604.12139)|null|
 |**2026-04-13**|**LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**|Junhao Chen et.al.|[2604.11792](http://arxiv.org/abs/2604.11792)|null|
 |**2026-04-13**|**Discourse Diversity in Multi-Turn Empathic Dialogue**|Hongli Zhan et.al.|[2604.11742](http://arxiv.org/abs/2604.11742)|null|
 |**2026-04-13**|**The origin of the genetic code is encrypted in the structure of present-day transfer RNAs**|Jacques H. Daniel et.al.|[2604.11696](http://arxiv.org/abs/2604.11696)|null|
@@ -2808,6 +2844,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis**|Kathakoli Sengupta et.al.|[2604.13035](http://arxiv.org/abs/2604.13035)|null|
+|**2026-04-14**|**Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe**|Yaxuan Li et.al.|[2604.13016](http://arxiv.org/abs/2604.13016)|null|
+|**2026-04-14**|**Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation**|Yecheng Wu et.al.|[2604.13010](http://arxiv.org/abs/2604.13010)|null|
+|**2026-04-14**|**One Token Away from Collapse: The Fragility of Instruction-Tuned Helpfulness**|Erfan Baghaei Potraghloo et.al.|[2604.13006](http://arxiv.org/abs/2604.13006)|null|
+|**2026-04-14**|**Agentic Discovery with Active Hypothesis Exploration for Visual Recognition**|Jaywon Koo et.al.|[2604.12999](http://arxiv.org/abs/2604.12999)|null|
+|**2026-04-14**|**Personalizing LLM-Based Conversational Programming Assistants**|Jonan Richards et.al.|[2604.12998](http://arxiv.org/abs/2604.12998)|null|
+|**2026-04-14**|**PolicyLLM: Towards Excellent Comprehension of Public Policy for Large Language Models**|Han Bao et.al.|[2604.12995](http://arxiv.org/abs/2604.12995)|null|
+|**2026-04-14**|**LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software**|Syed Md Mukit Rashid et.al.|[2604.12994](http://arxiv.org/abs/2604.12994)|null|
+|**2026-04-14**|**An Engineering Journey Training Large Language Models at Scale on Alps: The Apertus Experience**|Jonathan Coles et.al.|[2604.12973](http://arxiv.org/abs/2604.12973)|null|
+|**2026-04-14**|**Boosting Visual Instruction Tuning with Self-Supervised Guidance**|Sophia Sirko-Galouchenko et.al.|[2604.12966](http://arxiv.org/abs/2604.12966)|null|
 |**2026-04-13**|**Psychological Concept Neurons: Can Neural Control Bias Probing and Shift Generation in LLMs?**|Yuto Harada et.al.|[2604.11802](http://arxiv.org/abs/2604.11802)|null|
 |**2026-04-13**|**CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation**|WonJin Yoon et.al.|[2604.11801](http://arxiv.org/abs/2604.11801)|null|
 |**2026-04-13**|**C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts**|Chenxi Qing et.al.|[2604.11796](http://arxiv.org/abs/2604.11796)|null|
