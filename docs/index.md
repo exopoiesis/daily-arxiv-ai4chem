@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.04.16
+## Updated on 2026.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Molecular Representation & Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations**|Nouhaila Innan et.al.|[2604.15273](http://arxiv.org/abs/2604.15273)|null|
+|**2026-04-16**|**Beyond the Laplacian: Doubly Stochastic Matrices for Graph Neural Networks**|Zhaobo Hu et.al.|[2604.15069](http://arxiv.org/abs/2604.15069)|null|
+|**2026-04-16**|**PUFFIN: Protein Unit Discovery with Functional Supervision**|Gökçe Uludoğan et.al.|[2604.14796](http://arxiv.org/abs/2604.14796)|null|
+|**2026-04-16**|**Charmed baryon decays at BESIII**|Xudong Yu et.al.|[2604.14716](http://arxiv.org/abs/2604.14716)|null|
+|**2026-04-16**|**CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations**|Xiping Li et.al.|[2604.14586](http://arxiv.org/abs/2604.14586)|null|
+|**2026-04-16**|**Behavior-Aware Dual-Channel Preference Learning for Heterogeneous Sequential Recommendation**|Jing Xiao et.al.|[2604.14581](http://arxiv.org/abs/2604.14581)|null|
+|**2026-04-15**|**NeuroTrace: Inference Provenance-Based Detection of Adversarial Examples**|Firas Ben Hmida et.al.|[2604.14457](http://arxiv.org/abs/2604.14457)|null|
+|**2026-04-15**|**AI-Enabled Decoding of Qubit Loss for Quantum Error-Correcting Codes**|Yuqing Wang et.al.|[2604.14269](http://arxiv.org/abs/2604.14269)|null|
 |**2026-04-15**|**ID and Graph View Contrastive Learning with Multi-View Attention Fusion for Sequential Recommendation**|Xiaofan Zhou et.al.|[2604.14114](http://arxiv.org/abs/2604.14114)|null|
 |**2026-04-15**|**Log-based vs Graph-based Approaches to Fault Diagnosis**|Mathis Nguyen et.al.|[2604.14019](http://arxiv.org/abs/2604.14019)|null|
 |**2026-04-15**|**Leveraging LLM-GNN Integration for Open-World Question Answering over Knowledge Graphs**|Hussein Abdallah et.al.|[2604.13979](http://arxiv.org/abs/2604.13979)|null|
@@ -524,6 +532,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**An Analysis of Regularization and Fokker-Planck Residuals in Diffusion Models for Image Generation**|Onno Niemann et.al.|[2604.15171](http://arxiv.org/abs/2604.15171)|null|
+|**2026-04-16**|**Compressing Sequences in the Latent Embedding Space: $K$ -Token Merging for Large Language Models**|Zihao Xu et.al.|[2604.15153](http://arxiv.org/abs/2604.15153)|null|
+|**2026-04-16**|**Beyond Independent Frames: Latent Attention Masked Autoencoders for Multi-View Echocardiography**|Simon Böhi et.al.|[2604.15096](http://arxiv.org/abs/2604.15096)|null|
+|**2026-04-16**|**Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter**|Ruoyu Qin et.al.|[2604.15039](http://arxiv.org/abs/2604.15039)|null|
+|**2026-04-16**|**Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching**|Aihua Li et.al.|[2604.15009](http://arxiv.org/abs/2604.15009)|null|
+|**2026-04-16**|**Blazing the trails before beating the path: Sample-efficient Monte-Carlo planning**|Jean-Bastien Grill et.al.|[2604.14974](http://arxiv.org/abs/2604.14974)|null|
+|**2026-04-16**|**Beyond Prompts: Unconditional 3D Inversion for Out-of-Distribution Shapes**|Victoria Yue Chen et.al.|[2604.14914](http://arxiv.org/abs/2604.14914)|null|
+|**2026-04-16**|**Reward-Aware Trajectory Shaping for Few-step Visual Generation**|Rui Li et.al.|[2604.14910](http://arxiv.org/abs/2604.14910)|null|
+|**2026-04-16**|**Generative Modeling of Complex-Valued Brain MRI Data**|Marco Schlimbach et.al.|[2604.14800](http://arxiv.org/abs/2604.14800)|null|
+|**2026-04-16**|**Diffusion Crossover: Defining Evolutionary Recombination in Diffusion Models via Noise Sequence Interpolation**|Chisatao Kumada et.al.|[2604.14790](http://arxiv.org/abs/2604.14790)|null|
 |**2026-04-15**|**Seedance 2.0: Advancing Video Generation for World Complexity**|Team Seedance et.al.|[2604.14148](http://arxiv.org/abs/2604.14148)|null|
 |**2026-04-15**|**Generative design of inorganic materials**|Jose Recatala-Gomez et.al.|[2604.14082](http://arxiv.org/abs/2604.14082)|null|
 |**2026-04-15**|**Prominence Plasma Parameters Maps Inferred From Lyman $β$ and Lyman $γ$ Observations and Non-LTE Modelling**|Y. Zhang et.al.|[2604.14063](http://arxiv.org/abs/2604.14063)|null|
@@ -1378,6 +1396,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Interfacial Electric Fields in Water Nanodroplets are Weakly Dependent on Curvature and pH**|Gabriele Amante et.al.|[2604.14784](http://arxiv.org/abs/2604.14784)|null|
 |**2026-04-15**|**Computational framework for multistep metabolic pathway design**|Peter Zhiping Zhang et.al.|[2604.13471](http://arxiv.org/abs/2604.13471)|null|
 |**2026-04-14**|**A Dynamical Test for Cooling-Induced Entrainment in a Runaway Supermassive Black Hole Tail**|Ish Kaul et.al.|[2604.13155](http://arxiv.org/abs/2604.13155)|null|
 |**2026-04-13**|**A collaborative agent with two lightweight synergistic models for autonomous crystal materials research**|Tongyu Shi et.al.|[2604.11540](http://arxiv.org/abs/2604.11540)|null|
@@ -1495,6 +1514,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Boundary-Centric Active Learning for Temporal Action Segmentation**|Halil Ismail Helvaci et.al.|[2604.15173](http://arxiv.org/abs/2604.15173)|null|
+|**2026-04-16**|**Lattice dynamics and complete polarization analysis of Raman-active modes in LaInO $_3$**|Jonas Rose et.al.|[2604.15156](http://arxiv.org/abs/2604.15156)|null|
+|**2026-04-16**|**Toward Accurate RIXS Spectra at Heavy Element Edges: A Relativistic Four-Component and Exact Two-Component TDDFT Approach**|Lukas Konecny et.al.|[2604.15126](http://arxiv.org/abs/2604.15126)|null|
+|**2026-04-16**|**Unraveling the Mechanism of Drug Binding to SARS-CoV-2 RNA Pseudoknot with Thermodynamics-Driven Machine Learning**|Mariia Ivonina et.al.|[2604.14906](http://arxiv.org/abs/2604.14906)|null|
+|**2026-04-16**|**Reversable phase transitions in ferroic two-dimensional Nb2O2I4 through optically excited coherent phonons**|Chuanlin Liu et.al.|[2604.14894](http://arxiv.org/abs/2604.14894)|null|
+|**2026-04-16**|**Highly coarse-grained polarisable water models for mesoscopic simulations**|Michael A. Seaton et.al.|[2604.14873](http://arxiv.org/abs/2604.14873)|null|
+|**2026-04-16**|**Unconventional plasmon dynamics due to strong correlations in Sr $_2$RuO$_4$**|Juraj Krsnik et.al.|[2604.14859](http://arxiv.org/abs/2604.14859)|null|
+|**2026-04-16**|**Generalizability of Learning-based Occupancy Detection in Residential Buildings**|Mahsa Farjadnia et.al.|[2604.14841](http://arxiv.org/abs/2604.14841)|null|
+|**2026-04-16**|**Discovering structural, electronic and excitonic properties of bulk, nanostructured and doped C3N4 in diamond- and graphitic-like phases**|Da Chen et.al.|[2604.14831](http://arxiv.org/abs/2604.14831)|null|
+|**2026-04-16**|**Layer-dependent quantum transport in KV2Se2O-based altermagnetic tunnel junctions**|Yue Zhao et.al.|[2604.14817](http://arxiv.org/abs/2604.14817)|null|
 |**2026-04-15**|**BOAT: Navigating the Sea of In Silico Predictors for Antibody Design via Multi-Objective Bayesian Optimization**|Jackie Rao et.al.|[2604.13980](http://arxiv.org/abs/2604.13980)|null|
 |**2026-04-15**|**Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection**|Ahmad Dawar Hakimi et.al.|[2604.13899](http://arxiv.org/abs/2604.13899)|null|
 |**2026-04-15**|**MolCryst-MLIPs: A Machine-Learned Interatomic Potentials Database for Molecular Crystals**|Adam Lahouari et.al.|[2604.13897](http://arxiv.org/abs/2604.13897)|null|
@@ -2200,6 +2229,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Simplifying Safety Proofs with Forward-Backward Reasoning and Prophecy**|Eden Frenkel et.al.|[2604.15266](http://arxiv.org/abs/2604.15266)|null|
+|**2026-04-16**|**Compressing Sequences in the Latent Embedding Space: $K$ -Token Merging for Large Language Models**|Zihao Xu et.al.|[2604.15153](http://arxiv.org/abs/2604.15153)|null|
+|**2026-04-16**|**DiscoTrace: Representing and Comparing Answering Strategies of Humans and LLMs in Information-Seeking Question Answering**|Neha Srikanth et.al.|[2604.15140](http://arxiv.org/abs/2604.15140)|null|
+|**2026-04-16**|**NFTDELTA: Detecting Permission Control Vulnerabilities in NFT Contracts through Multi-View Learning**|Hailu Kuang et.al.|[2604.15118](http://arxiv.org/abs/2604.15118)|null|
+|**2026-04-16**|**Beyond Independent Frames: Latent Attention Masked Autoencoders for Multi-View Echocardiography**|Simon Böhi et.al.|[2604.15096](http://arxiv.org/abs/2604.15096)|null|
+|**2026-04-16**|**CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture**|Giacomo Franchini et.al.|[2604.15052](http://arxiv.org/abs/2604.15052)|null|
+|**2026-04-16**|**Multispecific DNA-Coatings for Self-Assembly**|T. C. M. Stevens et.al.|[2604.15021](http://arxiv.org/abs/2604.15021)|null|
+|**2026-04-16**|**Learning to Concatenate Quantum Codes**|Nico Meyer et.al.|[2604.14931](http://arxiv.org/abs/2604.14931)|null|
+|**2026-04-16**|**Nautilus: An Auto-Scheduling Tensor Compiler for Efficient Tiled GPU Kernels**|Yifan Zhao et.al.|[2604.14825](http://arxiv.org/abs/2604.14825)|null|
+|**2026-04-16**|**Diffusion Crossover: Defining Evolutionary Recombination in Diffusion Models via Noise Sequence Interpolation**|Chisatao Kumada et.al.|[2604.14790](http://arxiv.org/abs/2604.14790)|null|
 |**2026-04-15**|**Time delay as a probe of multiple photon spheres**|Kajol Paithankar et.al.|[2604.14132](http://arxiv.org/abs/2604.14132)|null|
 |**2026-04-15**|**Revisiting the Dynamical Properties of Pedlosky's Two-Layer Model for Finite Amplitude Baroclinic Waves**|Nicolas De Ro et.al.|[2604.14123](http://arxiv.org/abs/2604.14123)|null|
 |**2026-04-15**|**ID and Graph View Contrastive Learning with Multi-View Attention Fusion for Sequential Recommendation**|Xiaofan Zhou et.al.|[2604.14114](http://arxiv.org/abs/2604.14114)|null|
@@ -2884,6 +2923,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation**|Zoe Fingleton et.al.|[2604.15270](http://arxiv.org/abs/2604.15270)|null|
+|**2026-04-16**|**From Tokens to Steps: Verification-Aware Speculative Decoding for Efficient Multi-Step Reasoning**|Kiran Purohit et.al.|[2604.15244](http://arxiv.org/abs/2604.15244)|null|
+|**2026-04-16**|**Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines**|Marcel Wagenländer et.al.|[2604.15186](http://arxiv.org/abs/2604.15186)|null|
+|**2026-04-16**|**DPC: Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency**|Boyan Li et.al.|[2604.15163](http://arxiv.org/abs/2604.15163)|null|
+|**2026-04-16**|**Compressing Sequences in the Latent Embedding Space: $K$ -Token Merging for Large Language Models**|Zihao Xu et.al.|[2604.15153](http://arxiv.org/abs/2604.15153)|null|
+|**2026-04-16**|**QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies**|Alexey Khoroshilov et.al.|[2604.15151](http://arxiv.org/abs/2604.15151)|null|
+|**2026-04-16**|**IG-Search: Step-Level Information Gain Rewards for Search-Augmented Reasoning**|Zihan Liang et.al.|[2604.15148](http://arxiv.org/abs/2604.15148)|null|
+|**2026-04-16**|**Feedback-Driven Execution for LLM-Based Binary Analysis**|XiangRui Zhang et.al.|[2604.15136](http://arxiv.org/abs/2604.15136)|null|
+|**2026-04-16**|**Blinded Multi-Rater Comparative Evaluation of a Large Language Model and Clinician-Authored Responses in CGM-Informed Diabetes Counseling**|Zhijun Guo et.al.|[2604.15124](http://arxiv.org/abs/2604.15124)|null|
+|**2026-04-16**|**IUQ: Interrogative Uncertainty Quantification for Long-Form Large Language Model Generation**|Haozhi Fan et.al.|[2604.15109](http://arxiv.org/abs/2604.15109)|null|
 |**2026-04-15**|**One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding**|Zheyu Zhang et.al.|[2604.14149](http://arxiv.org/abs/2604.14149)|null|
 |**2026-04-15**|**ROSE: Retrieval-Oriented Segmentation Enhancement**|Song Tang et.al.|[2604.14147](http://arxiv.org/abs/2604.14147)|null|
 |**2026-04-15**|**Rhetorical Questions in LLM Representations: A Linear Probing Study**|Louie Hong Yao et.al.|[2604.14128](http://arxiv.org/abs/2604.14128)|null|
