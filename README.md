@@ -1,4 +1,4 @@
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,9 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Scalable Multimodal Beam Alignment in V2X: An Anti-Imbalance Graph Learning Approach**|Jiahui Liang et.al.|[2604.21585](http://arxiv.org/abs/2604.21585)|null|
+|**2026-04-23**|**Drug Synergy Prediction via Residual Graph Isomorphism Networks and Attention Mechanisms**|Jiyan Song et.al.|[2604.21473](http://arxiv.org/abs/2604.21473)|null|
+|**2026-04-23**|**GraphLeap: Decoupling Graph Construction and Convolution for Vision GNN Acceleration on FPGA**|Anvitha Ramachandran et.al.|[2604.21290](http://arxiv.org/abs/2604.21290)|null|
+|**2026-04-23**|**Graph Neural Network-Informed Predictive Flows for Faster Ford-Fulkerson and PAC-Learnability**|Eleanor Wiesler et.al.|[2604.21175](http://arxiv.org/abs/2604.21175)|null|
+|**2026-04-22**|**Spectral Embeddings Leak Graph Topology: Theory, Benchmark, and Adaptive Reconstruction**|Thinh Nguyen-Cong et.al.|[2604.21094](http://arxiv.org/abs/2604.21094)|null|
+|**2026-04-22**|**TRAVELFRAUDBENCH: A Configurable Evaluation Framework for GNN Fraud Ring Detection in Travel Networks**|Bhavana Sajja et.al.|[2604.21093](http://arxiv.org/abs/2604.21093)|null|
 |**2026-04-22**|**Gauge-Equivariant Graph Neural Networks for Lattice Gauge Theories**|Ali Rayat et.al.|[2604.20797](http://arxiv.org/abs/2604.20797)|null|
 |**2026-04-22**|**F\textsuperscript{2}LP-AP: Fast \& Flexible Label Propagation with Adaptive Propagation Kernel**|Yutong Shen et.al.|[2604.20736](http://arxiv.org/abs/2604.20736)|null|
-|**2026-04-22**|**Storm Surge Modeling, Bias Correction, Graph Neural Networks, Graph Convolution Networks**|Noujoud Nader et.al.|[2604.20688](http://arxiv.org/abs/2604.20688)|null|
+|**2026-04-23**|**StormNet: Improving storm surge predictions with a GNN-based spatio-temporal offset forecasting model**|Noujoud Nader et.al.|[2604.20688](http://arxiv.org/abs/2604.20688)|null|
 |**2026-04-22**|**Self-Aware Vector Embeddings for Retrieval-Augmented Generation: A Neuroscience-Inspired Framework for Temporal, Confidence-Weighted, and Relational Knowledge**|Naizhong Xu et.al.|[2604.20598](http://arxiv.org/abs/2604.20598)|null|
 |**2026-04-22**|**Evaluating Assurance Cases as Text-Attributed Graphs for Structure and Provenance Analysis**|Fariz Ikhwantri et.al.|[2604.20577](http://arxiv.org/abs/2604.20577)|null|
 |**2026-04-22**|**Using Graph Neural Networks for hadronic clustering and to reduce beam background in the Belle~II electromagnetic calorimeter**|Jonas Eppelt et.al.|[2604.20518](http://arxiv.org/abs/2604.20518)|null|
@@ -575,12 +581,22 @@
 |**2026-01-12**|**InfGraND: An Influence-Guided GNN-to-MLP Knowledge Distillation**|Amir Eskandari et.al.|[2601.08033](http://arxiv.org/abs/2601.08033)|null|
 |**2026-01-12**|**Learning to Unfold Fractional Programming for Multi-Cell MU-MIMO Beamforming with Graph Neural Networks**|Zihan Jiao et.al.|[2601.07630](http://arxiv.org/abs/2601.07630)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 ## Generative Design & Molecule Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis**|Songen Gu et.al.|[2604.21914](http://arxiv.org/abs/2604.21914)|null|
+|**2026-04-23**|**A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**|Max Defez et.al.|[2604.21903](http://arxiv.org/abs/2604.21903)|null|
+|**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)|null|
+|**2026-04-23**|**Generative artificial intelligence reduces social welfare through model collapse**|Fabian Baumann et.al.|[2604.21853](http://arxiv.org/abs/2604.21853)|null|
+|**2026-04-23**|**Causality-Encoded Diffusion Models for Interventional Sampling and Edge Inference**|Li Chen et.al.|[2604.21843](http://arxiv.org/abs/2604.21843)|null|
+|**2026-04-23**|**Quotient-Space Diffusion Models**|Yixian Xu et.al.|[2604.21809](http://arxiv.org/abs/2604.21809)|null|
+|**2026-04-23**|**A Brief History of Fréchet Distances: From Curves and Probability Laws to FID**|Yuli Wu et.al.|[2604.21745](http://arxiv.org/abs/2604.21745)|null|
+|**2026-04-23**|**WorldMark: A Unified Benchmark Suite for Interactive Video World Models**|Xiaojie Xu et.al.|[2604.21686](http://arxiv.org/abs/2604.21686)|null|
+|**2026-04-23**|**Fine-Grained Perspectives: Modeling Explanations with Annotator-Specific Rationales**|Olufunke O. Sarumi et.al.|[2604.21667](http://arxiv.org/abs/2604.21667)|null|
+|**2026-04-23**|**DCMorph: Face Morphing via Dual-Stream Cross-Attention Diffusion**|Tahar Chettaoui et.al.|[2604.21627](http://arxiv.org/abs/2604.21627)|null|
 |**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hyeonwoo Kim et.al.|[2604.20841](http://arxiv.org/abs/2604.20841)|null|
 |**2026-04-22**|**Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL**|Zhaofeng Wu et.al.|[2604.20835](http://arxiv.org/abs/2604.20835)|null|
 |**2026-04-22**|**Autonomous Emergence of Hamiltonian in Deep Generative Models**|Wenjie Xi et.al.|[2604.20821](http://arxiv.org/abs/2604.20821)|null|
@@ -1404,12 +1420,14 @@
 |**2026-01-15**|**Self-supervised restoration of singing voice degraded by pitch shifting using shallow diffusion**|Yunyi Liu et.al.|[2601.10345](http://arxiv.org/abs/2601.10345)|null|
 |**2026-01-15**|**Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders**|Siqi Kou et.al.|[2601.10332](http://arxiv.org/abs/2601.10332)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 ## Property Prediction & ADMET
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Promoting Simple Agents: Ensemble Methods for Event-Log Prediction**|Benedikt Bollig et.al.|[2604.21629](http://arxiv.org/abs/2604.21629)|null|
+|**2026-04-23**|**BioMiner: A Multi-modal System for Automated Mining of Protein-Ligand Bioactivity Data from Literature**|Jiaxian Yan et.al.|[2604.21508](http://arxiv.org/abs/2604.21508)|null|
 |**2026-04-21**|**Graph-Theoretic Models for the Prediction of Molecular Measurements**|Anna Niane et.al.|[2604.19840](http://arxiv.org/abs/2604.19840)|null|
 |**2026-04-21**|**Structure-guided molecular design with contrastive 3D protein-ligand learning**|Carles Navarro et.al.|[2604.19562](http://arxiv.org/abs/2604.19562)|null|
 |**2026-04-17**|**A Systematic Survey and Benchmark of Deep Learning for Molecular Property Prediction in the Foundation Model Era**|Zongru Li et.al.|[2604.16586](http://arxiv.org/abs/2604.16586)|null|
@@ -1488,12 +1506,20 @@
 |**2026-01-05**|**Quantized SO(3)-Equivariant Graph Neural Networks for Efficient Molecular Property Prediction**|Haoyu Zhou et.al.|[2601.02213](http://arxiv.org/abs/2601.02213)|null|
 |**2026-01-01**|**Diagnosing Heteroskedasticity and Resolving Multicollinearity Paradoxes in Physicochemical Property Prediction**|Malikussaid et.al.|[2512.24643](http://arxiv.org/abs/2512.24643)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 ## Reaction, Synthesis & Catalysis
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Extending Hamiltonian-Adaptive Resolution Simulation to Interfaces: An Updated LAMMPS Implementation and Application to Porous Solids**|Hari Haran Sudhakar et.al.|[2604.21867](http://arxiv.org/abs/2604.21867)|null|
+|**2026-04-23**|**Molecular dynamics simulations of Nafion thin films at a platinum catalyst surface: Correlating structure with charging behaviour**|Dustin Vivod et.al.|[2604.21773](http://arxiv.org/abs/2604.21773)|null|
+|**2026-04-23**|**Birth, Death, and Replication at Surfaces: Universal Laws of Autocatalytic Dynamics**|Denis S. Grebenkov et.al.|[2604.21586](http://arxiv.org/abs/2604.21586)|null|
+|**2026-04-23**|**Catalytic quantum thermodynamics beyond additivity and reduced-state monotones**|Ali Can Günhan et.al.|[2604.21509](http://arxiv.org/abs/2604.21509)|null|
+|**2026-04-23**|**GeoMind: An Agentic Workflow for Lithology Classification with Reasoned Tool Invocation**|Yitong Zhou et.al.|[2604.21501](http://arxiv.org/abs/2604.21501)|null|
+|**2026-04-23**|**Data-Driven Thermal and Mechanical Modeling of Defective Covalent Organic Frameworks**|Aleksander Szewczyk et.al.|[2604.21494](http://arxiv.org/abs/2604.21494)|null|
+|**2026-04-23**|**Comparing relativistic and non-relativistic quark pair creation models**|Xiu-Li Gao et.al.|[2604.21403](http://arxiv.org/abs/2604.21403)|null|
+|**2026-04-21**|**Watts-per-Intelligence Part II: Algorithmic Catalysis**|Elija Perrier et.al.|[2604.20897](http://arxiv.org/abs/2604.20897)|null|
 |**2026-04-22**|**AROMA: Augmented Reasoning Over a Multimodal Architecture for Virtual Cell Genetic Perturbation Modeling**|Zhenyu Wang et.al.|[2604.20263](http://arxiv.org/abs/2604.20263)|null|
 |**2026-04-21**|**When Active Learning Falls Short: An Empirical Study on Chemical Reaction Extraction**|Simin Yu et.al.|[2604.19335](http://arxiv.org/abs/2604.19335)|null|
 |**2026-04-21**|**Attention-based Multi-modal Deep Learning Model of Spatio-temporal Crop Yield Prediction with Satellite, Soil and Climate Data**|Gopal Krishna Shyam et.al.|[2604.19217](http://arxiv.org/abs/2604.19217)|null|
@@ -1612,12 +1638,22 @@
 |**2026-01-07**|**A Pre-trained Reaction Embedding Descriptor Capturing Bond Transformation Patterns**|Weiqi Liu et.al.|[2601.03689](http://arxiv.org/abs/2601.03689)|null|
 |**2026-01-06**|**Breaking the Assistant Mold: Modeling Behavioral Variation in LLM Based Procedural Character Generation**|Maan Qraitem et.al.|[2601.03396](http://arxiv.org/abs/2601.03396)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 ## Quantum Chemistry & Force Fields
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Beyond Expected Information Gain: Stable Bayesian Optimal Experimental Design with Integral Probability Metrics and Plug-and-Play Extensions**|Di Wu et.al.|[2604.21849](http://arxiv.org/abs/2604.21849)|null|
+|**2026-04-23**|**Critical role of phase-dependent properties in modeling photothermal sintering of LiCoO2 cathodes**|Yang Hu et.al.|[2604.21842](http://arxiv.org/abs/2604.21842)|null|
+|**2026-04-23**|**Direct observation of surface bandgap shrinkage and negative electronic compressibility in SrTiO3**|Warakorn Jindata et.al.|[2604.21783](http://arxiv.org/abs/2604.21783)|null|
+|**2026-04-23**|**Molecular dynamics simulations of Nafion thin films at a platinum catalyst surface: Correlating structure with charging behaviour**|Dustin Vivod et.al.|[2604.21773](http://arxiv.org/abs/2604.21773)|null|
+|**2026-04-23**|**Nickel intercalation in epitaxial graphene on SiC(0001): a novel platform for engineering two-dimensional heterostructures**|Ylea Vlamidis et.al.|[2604.21739](http://arxiv.org/abs/2604.21739)|null|
+|**2026-04-23**|**Tailoring Germanium Heterostructures for Quantum Devices with Machine Learning**|Patrick Del Vecchio et.al.|[2604.21732](http://arxiv.org/abs/2604.21732)|null|
+|**2026-04-23**|**Effect of Mn Substitution on Superconductivity in PrFeAs(O,F): Role of Magnetic Impurities**|Priya Singh et.al.|[2604.21684](http://arxiv.org/abs/2604.21684)|null|
+|**2026-04-23**|**Self-consistent evaluation of the Berry connection for Wannier functions**|Martin Thümmler et.al.|[2604.21660](http://arxiv.org/abs/2604.21660)|null|
+|**2026-04-23**|**Superconductivity induced by altermagnetic spin fluctuations in high-pressure MnB $_4$**|Danylo Radevych et.al.|[2604.21561](http://arxiv.org/abs/2604.21561)|null|
+|**2026-04-23**|**Pairing mechanism and superconductivity in 1313 phase La $_3$Ni$_2$O$_7$**|Cui-Qun Chen et.al.|[2604.21533](http://arxiv.org/abs/2604.21533)|null|
 |**2026-04-22**|**Interaction between nuclear clusters and superfluid phonons in the neutron-star inner crust**|Masayuki Matsuo et.al.|[2604.20725](http://arxiv.org/abs/2604.20725)|null|
 |**2026-04-22**|**Cutoff-independent predictions from nuclear lattice effective field theory**|Chen-Can Wang et.al.|[2604.20681](http://arxiv.org/abs/2604.20681)|null|
 |**2026-04-22**|**Polaron transport and Verwey transition in magnetite**|Nikita Fominykh et.al.|[2604.20642](http://arxiv.org/abs/2604.20642)|null|
@@ -2369,12 +2405,22 @@
 |**2026-01-15**|**Hybrid Quantum Algorithms for Computational Chemistry: Application to the Pyridine-Li ion Complex**|Fatemeh Ghasemi et.al.|[2601.10002](http://arxiv.org/abs/2601.10002)|null|
 |**2026-01-15**|**Parallelizing the Variational Quantum Eigensolver: From JIT Compilation to Multi-GPU Scaling**|Rylan Malarchick et.al.|[2601.09951](http://arxiv.org/abs/2601.09951)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 ## Protein & Biomolecules
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Yen-Siang Wu et.al.|[2604.21931](http://arxiv.org/abs/2604.21931)|null|
+|**2026-04-23**|**Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**|Nicolae Filat et.al.|[2604.21930](http://arxiv.org/abs/2604.21930)|null|
+|**2026-04-23**|**A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**|Max Defez et.al.|[2604.21903](http://arxiv.org/abs/2604.21903)|null|
+|**2026-04-23**|**Generalized Two-Dimensional Index Modulation in the Code-Spatial Domain for LPWAN**|Long Yuan et.al.|[2604.21812](http://arxiv.org/abs/2604.21812)|null|
+|**2026-04-23**|**Orthosymplectic quantum groups revisited**|Kyungtak Hong et.al.|[2604.21785](http://arxiv.org/abs/2604.21785)|null|
+|**2026-04-23**|**Fast Algorithm For Solving Time-dependent Multiscale radiative transport Equation**|Qinchen Song et.al.|[2604.21777](http://arxiv.org/abs/2604.21777)|null|
+|**2026-04-23**|**Encoder-Free Human Motion Understanding via Structured Motion Descriptions**|Yao Zhang et.al.|[2604.21668](http://arxiv.org/abs/2604.21668)|null|
+|**2026-04-23**|**GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion**|Qizhuo Xie et.al.|[2604.21649](http://arxiv.org/abs/2604.21649)|null|
+|**2026-04-23**|**Tight constructions for reconfigurations of independent transversals**|Ronen Wdowinski et.al.|[2604.21576](http://arxiv.org/abs/2604.21576)|null|
+|**2026-04-23**|**Efficient generation of expected-degree graphs via edge-arrivals**|Gianlorenzo D'Angelo et.al.|[2604.21504](http://arxiv.org/abs/2604.21504)|null|
 |**2026-04-22**|**A dichotomy for hypergraph Zarankiewicz problems on axis-parallel boxes**|Ting-Wei Chao et.al.|[2604.20815](http://arxiv.org/abs/2604.20815)|null|
 |**2026-04-22**|**Rank-2 Electromagnetic Backgrounds and Angular Momentum Barriers in Gravitomagnetic Spin-Quadrupole Searches**|Leonardo A. Pachon et.al.|[2604.20717](http://arxiv.org/abs/2604.20717)|null|
 |**2026-04-22**|**Wideband Direct Satellite Uplink Enabled by Pilot-less Sparse Superposition Codes**|Alberto G. Perotti et.al.|[2604.20702](http://arxiv.org/abs/2604.20702)|null|
@@ -3105,12 +3151,22 @@
 |**2026-01-15**|**The Spatial Blindspot of Vision-Language Models**|Nahid Alam et.al.|[2601.09954](http://arxiv.org/abs/2601.09954)|null|
 |**2026-01-14**|**Collapse of a single polymer chain: Effects of chain stiffness and attraction range**|Yanyan Zhu et.al.|[2601.09908](http://arxiv.org/abs/2601.09908)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 ## Large Language Models & Materials
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Evaluation of Automatic Speech Recognition Using Generative Large Language Models**|Thibault Bañeras-Roux et.al.|[2604.21928](http://arxiv.org/abs/2604.21928)|null|
+|**2026-04-23**|**Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs**|Hao-Yu Hsu et.al.|[2604.21926](http://arxiv.org/abs/2604.21926)|null|
+|**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)|null|
+|**2026-04-23**|**EVENT5Ws: A Large Dataset for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[2604.21890](http://arxiv.org/abs/2604.21890)|null|
+|**2026-04-23**|**TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale**|Jun Wang et.al.|[2604.21889](http://arxiv.org/abs/2604.21889)|null|
+|**2026-04-23**|**A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[2604.21885](http://arxiv.org/abs/2604.21885)|null|
+|**2026-04-23**|**Revisiting Non-Verbatim Memorization in Large Language Models: The Role of Entity Surface Forms**|Yuto Nishida et.al.|[2604.21882](http://arxiv.org/abs/2604.21882)|null|
+|**2026-04-23**|**Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions**|Jiseon Kim et.al.|[2604.21871](http://arxiv.org/abs/2604.21871)|null|
+|**2026-04-23**|**FAccT-Checked: A Narrative Review of Authority Reconfigurations and Retention in AI-Mediated Journalism**|Stefano Sorrentino et.al.|[2604.21864](http://arxiv.org/abs/2604.21864)|null|
+|**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|null|
 |**2026-04-22**|**Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling**|Yiming Bian et.al.|[2604.20819](http://arxiv.org/abs/2604.20819)|null|
 |**2026-04-22**|**LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model**|Inclusion AI et.al.|[2604.20796](http://arxiv.org/abs/2604.20796)|null|
 |**2026-04-22**|**Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems**|Pavel Salovskii et.al.|[2604.20795](http://arxiv.org/abs/2604.20795)|null|
@@ -3953,7 +4009,7 @@
 |**2026-01-15**|**Influential Training Data Retrieval for Explaining Verbalized Confidence of LLMs**|Yuxi Xia et.al.|[2601.10645](http://arxiv.org/abs/2601.10645)|null|
 |**2026-01-15**|**iTIMO: An LLM-empowered Synthesis Dataset for Travel Itinerary Modification**|Zhuoxuan Huang et.al.|[2601.10609](http://arxiv.org/abs/2601.10609)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4chem-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4chem-arxiv-daily/graphs/contributors
