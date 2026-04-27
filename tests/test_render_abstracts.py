@@ -26,14 +26,14 @@ def test_render_abstracts_writes_html_fragments(populated_data_dir):
 def test_render_abstracts_default_skips_md(populated_data_dir):
     """Default no longer writes the legacy markdown — that's render_readme's job."""
     _run_render_abstracts()
-    assert not (populated_data_dir.abstracts / "2025" / "2503.00001.md").exists()
+    assert not (populated_data_dir.abstracts / "2503.00001.md").exists()
 
 
 def test_render_abstracts_include_md_writes_both(populated_data_dir):
     """--include-md restores the legacy md output (for ad-hoc backfills)."""
     _run_render_abstracts(include_md=True)
     assert (populated_data_dir.docs_abstracts / "2503.00001.html").exists()
-    assert (populated_data_dir.abstracts / "2025" / "2503.00001.md").exists()
+    assert (populated_data_dir.abstracts / "2503.00001.md").exists()
 
 
 def test_render_abstracts_idempotent(populated_data_dir):

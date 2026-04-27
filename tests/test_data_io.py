@@ -85,7 +85,7 @@ def test_render_md_row_format(sample_record):
     assert "Sample Paper" in parts[1]
     assert "Alice Smith et al." in parts[2]
     assert "2503.12345" in parts[3]
-    assert "abstracts/2025/2503.12345.md" in parts[4]
+    assert "abstracts/2503.12345.md" in parts[4]
 
 
 def test_render_md_row_escapes_pipes(sample_record):
@@ -196,12 +196,13 @@ def test_render_abstract_md_null_comment(sample_record):
     assert md  # didn't crash
 
 
-def test_abstract_path_uses_published_year(sample_record):
-    """abstract file lands in abstracts/<published-year>/<pid>.md."""
+def test_abstract_path_is_flat(sample_record):
+    """abstract file lands at abstracts/<pid>.md — no year subdir."""
     import data_io
     p = data_io.abstract_path("2503.12345", sample_record)
-    assert p.parts[-2] == "2025"
     assert p.parts[-1] == "2503.12345.md"
+    # parent must be ABSTRACTS_DIR itself, not a year subdir
+    assert p.parent == data_io.ABSTRACTS_DIR
 
 
 def test_write_abstract_creates_file(isolated_data_dir, sample_record):
@@ -209,7 +210,7 @@ def test_write_abstract_creates_file(isolated_data_dir, sample_record):
     import data_io
     written = data_io.write_abstract("2503.12345", sample_record)
     assert written is True
-    expected = isolated_data_dir.abstracts / "2025" / "2503.12345.md"
+    expected = isolated_data_dir.abstracts / "2503.12345.md"
     assert expected.exists()
     assert "Sample Paper on Graph Neural Networks" in expected.read_text(encoding="utf-8")
 
@@ -218,7 +219,7 @@ def test_write_abstract_idempotent(isolated_data_dir, sample_record):
     """Second call skips and returns False, file stays unchanged."""
     import data_io
     data_io.write_abstract("2503.12345", sample_record)
-    expected = isolated_data_dir.abstracts / "2025" / "2503.12345.md"
+    expected = isolated_data_dir.abstracts / "2503.12345.md"
     original = expected.read_text(encoding="utf-8")
 
     # mutate record but don't force — should keep original
@@ -235,7 +236,7 @@ def test_write_abstract_force_overwrites(isolated_data_dir, sample_record):
     sample_record["title"] = "UPDATED TITLE"
     written = data_io.write_abstract("2503.12345", sample_record, force=True)
     assert written is True
-    expected = isolated_data_dir.abstracts / "2025" / "2503.12345.md"
+    expected = isolated_data_dir.abstracts / "2503.12345.md"
     assert "UPDATED TITLE" in expected.read_text(encoding="utf-8")
 
 

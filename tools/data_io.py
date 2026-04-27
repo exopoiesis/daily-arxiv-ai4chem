@@ -187,14 +187,19 @@ def iter_papers_in_window(by_month, days):
                 yield pid, rec
 
 
-def abstract_path(pid, rec):
-    """abstracts/<year>/<pid>.md, year derived from `published`."""
-    year = rec["published"][:4]
-    return ABSTRACTS_DIR / year / f"{pid}.md"
+def abstract_path(pid, rec=None):
+    """abstracts/<pid>.md — flat layout, arxiv IDs are unique.
+
+    Year subdirs were dropped because the original-publication year felt like
+    a stale label on README links to papers whose latest revision is recent
+    (e.g. id 2503.04492 with updated 2026-04 surfaced as a 2025/ link).
+    `rec` arg kept for backwards-compat with callers that pass it.
+    """
+    return ABSTRACTS_DIR / f"{pid}.md"
 
 
 def write_abstract(pid, rec, force=False):
-    """Write abstracts/<year>/<pid>.md if missing (or force=True). Returns True if written.
+    """Write abstracts/<pid>.md if missing (or force=True). Returns True if written.
 
     Idempotent — safe to call repeatedly. Used both by batch render_abstracts.py
     and inline by fetchers (backfill.py, daily_arxiv.py) when adding new papers.
@@ -359,7 +364,7 @@ def render_md_row(pid, rec):
     title = rec["title"].replace("|", "\\|").replace("\n", " ")
     authors = rec["first_author"]
     extra = " et al." if len(rec["authors"]) > 1 else ""
-    abstract_link = f"abstracts/{rec['published'][:4]}/{pid}.md"
+    abstract_link = f"abstracts/{pid}.md"
     return (
         f"|**{date_s}**|**{title}**|{authors}{extra}|"
         f"[{pid}](http://arxiv.org/abs/{pid})|"

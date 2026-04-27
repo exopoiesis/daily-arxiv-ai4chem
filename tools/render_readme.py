@@ -13,8 +13,8 @@ from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from data_io import (ROOT, ABSTRACTS_DIR, load_all_months, render_md_row,
-                     write_abstract)
+from data_io import (ROOT, ABSTRACTS_DIR, load_all_months,
+                     load_keyword_queries, render_md_row, write_abstract)
 
 LOG = logging.getLogger("render_readme")
 README_PATH = ROOT / "README.md"
@@ -60,6 +60,17 @@ def main():
                 continue
             for topic in rec["topics"]:
                 by_topic[topic].append((pid, rec))
+
+    # Reorder by_topic to match config.yaml topic order (deterministic, and
+    # lets you push noisy topics like LLM to the bottom by reordering config).
+    config_order = list(load_keyword_queries(ROOT / "config.yaml").keys())
+    ordered = {t: by_topic[t] for t in config_order if t in by_topic}
+    # Append any topic seen in data but missing from config (shouldn't happen
+    # in practice; defensive).
+    for t in by_topic:
+        if t not in ordered:
+            ordered[t] = by_topic[t]
+    by_topic = ordered
 
     for topic in by_topic:
         by_topic[topic].sort(key=lambda x: x[1]["updated"], reverse=True)
@@ -108,22 +119,25 @@ def main():
     out.write_text("\n".join(lines), encoding="utf-8")
     LOG.info(f"wrote {out} ({len(lines)} lines, {out.stat().st_size/1024:.1f} KB)")
 
-    # Sync abstracts/<year>/<id>.md with what README links: write missing,
-    # delete orphans. Keeps the legacy md tree bounded.
-    selected = set()
+    # Sync abstracts/<id>.md with what README links: write missing, delete
+    # orphans. Keeps the legacy md tree bounded. Flat layout (no year subdir)
+    # — arxiv IDs are unique and the year would be the original publication
+    # year, which felt stale on revisions (id 2503.x updated 2026-04 looked
+    # mislabeled).
+    selected_pids = set()
     for papers in by_topic.values():
         for pid, rec in papers:
-            year = rec["published"][:4]
-            selected.add((year, pid))
+            selected_pids.add(pid)
             write_abstract(pid, rec)
-    LOG.info(f"README references {len(selected)} unique papers")
+    LOG.info(f"README references {len(selected_pids)} unique papers")
 
     if ABSTRACTS_DIR.exists():
         deleted = 0
         for f in ABSTRACTS_DIR.rglob("*.md"):
-            if (f.parent.name, f.stem) not in selected:
+            if f.stem not in selected_pids:
                 f.unlink()
                 deleted += 1
+        # Sweep any leftover empty year-dirs from the legacy layout.
         for d in sorted(ABSTRACTS_DIR.iterdir()):
             if d.is_dir() and not any(d.iterdir()):
                 d.rmdir()

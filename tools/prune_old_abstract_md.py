@@ -23,11 +23,11 @@ from data_io import ROOT, ABSTRACTS_DIR
 
 LOG = logging.getLogger("prune_old_abstract_md")
 
-README_LINK_RE = re.compile(r"abstracts/(\d{4})/(\d{4}\.\d{4,6})\.md")
+README_LINK_RE = re.compile(r"abstracts/(\d{4}\.\d{4,6})\.md")
 
 
 def collect_referenced(readme_path):
-    """Return set of (year, pid) tuples referenced in README markdown."""
+    """Return set of pids referenced as abstracts/<pid>.md in README markdown."""
     text = Path(readme_path).read_text(encoding="utf-8")
     return set(README_LINK_RE.findall(text))
 
@@ -53,9 +53,7 @@ def main():
 
     deleted = kept = 0
     for f in ABSTRACTS_DIR.rglob("*.md"):
-        year = f.parent.name
-        pid = f.stem
-        if (year, pid) in keep:
+        if f.stem in keep:
             kept += 1
             continue
         if args.dry_run:
