@@ -9,6 +9,7 @@ Contents:
 URL: <user>.github.io/<repo>/  →  this index.
 """
 import argparse
+import html
 import logging
 import sys
 from collections import Counter
@@ -112,21 +113,42 @@ def run(canonical_path, out_path, tag_index_path=None):
                  f"Browse the **tag list →** in the right sidebar.")
     lines.append("")
 
-    # Recent papers section
+    # Recent papers section — same HTML table style as tag pages: class="papers",
+    # title wrapped as popup-link, tags as sub-line under title.
     recent = _recent_papers(by_month, RECENT_PAPERS)
     if recent:
         lines.append(f"## Recent papers (top {RECENT_PAPERS})")
         lines.append("")
-        lines.append("|Date|Title|Authors|Tags|arXiv|")
-        lines.append("|---|---|---|---|---|")
+        lines.append('<table class="papers">')
+        lines.append("<thead><tr><th>Date</th><th>Title</th>"
+                     "<th>Authors</th><th>arXiv</th></tr></thead>")
+        lines.append("<tbody>")
         for pid, rec in recent:
-            title = rec["title"].replace("|", "\\|").replace("\n", " ")
-            authors = rec["first_author"] + (
+            title = html.escape(rec["title"].replace("\n", " "))
+            authors = html.escape(rec["first_author"]) + (
                 " et al." if len(rec["authors"]) > 1 else "")
-            tags_md = ", ".join(
-                f"[{t}](tag/{t}-{WINDOW_DAYS}d.html)" for t in rec.get("tags", []))
-            lines.append(f"|{rec['updated']}|{title}|{authors}|{tags_md}|"
-                         f"[{pid}](http://arxiv.org/abs/{pid})|")
+            title_link = (
+                f'<a class="abstract-popup paper-title-link" '
+                f'href="abstracts/{html.escape(pid)}.html">{title}</a>')
+            tags = rec.get("tags", [])
+            if tags:
+                tag_links = " · ".join(
+                    f'<a href="tag/{html.escape(t)}-{WINDOW_DAYS}d.html">'
+                    f'{html.escape(t)}</a>'
+                    for t in tags)
+                title_cell = (
+                    f'<div class="paper-title">{title_link}</div>'
+                    f'<div class="paper-tags">{tag_links}</div>')
+            else:
+                title_cell = f'<div class="paper-title">{title_link}</div>'
+            lines.append('<tr class="paper">')
+            lines.append(f'<td>{rec["updated"]}</td>')
+            lines.append(f'<td>{title_cell}</td>')
+            lines.append(f'<td>{authors}</td>')
+            lines.append(
+                f'<td><a href="http://arxiv.org/abs/{pid}">{pid}</a></td>')
+            lines.append("</tr>")
+        lines.append("</tbody></table>")
         lines.append("")
 
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)
