@@ -7,7 +7,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron: "0 0/12 * * *"
+    - cron: "0 0 * * *"
 
   # Triggers the workflow on push or pull request events but only for the main branch
 #   push:
@@ -16,8 +16,8 @@ on:
 
 env:
 
-  GITHUB_USER_NAME: YuzeHao2023
-  GITHUB_USER_EMAIL: haoyuze2021@outlook.com
+  GITHUB_USER_NAME: exopoiesis
+  GITHUB_USER_EMAIL: lab@exopoiesis.space
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -52,7 +52,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update AI4Chem Arxiv Papers"
-          files: README.md data/ abstracts/ docs/index.md docs/tag/
+          files: README.md data/ abstracts/ docs/abstracts/ docs/_data/ docs/index.md docs/tag/
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
