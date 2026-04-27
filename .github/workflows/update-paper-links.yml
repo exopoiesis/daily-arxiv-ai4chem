@@ -4,10 +4,9 @@ name: Run Update Paper Links Weekly
 
 # Controls when the workflow will run
 on:
-  # Allows you to run this workflow manually from the Actions tab
+  # DEPRECATED: PapersWithCode API was retired, this workflow is a no-op.
+  # Kept disabled for archival; safe to delete.
   workflow_dispatch:
-  schedule:
-    - cron:  "0 8 * * 1"  #Run At 08:00 on Monday
   # Triggers the workflow on push or pull request events but only for the main branch
 #   push:
 #     branches:
