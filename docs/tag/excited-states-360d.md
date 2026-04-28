@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22484.html">Classifying magnons in itinerant ferromagnets from linear response TDDFT: Fe, Ni and Co revisited</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Thorbjørn Skovhus et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22484">2604.22484</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20476.html">Restoring the Conical Intersection Topology using Convex Density Functional Theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Federico Rossi et al.</td>
@@ -1340,11 +1346,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02143.html">Construction of First Principle Based Adiabatic and Diabatic Hamiltonian for TiO$_6^{8-}$ unit of BaTiO$_3$ Crystal: Photoemission Spectra and Ferroelectricity</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Mantu Kumar Sah et al.</td>
 <td><a href="http://arxiv.org/abs/2505.02143">2505.02143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01405.html">QCMaquis 4.0: Multi-Purpose Electronic, Vibrational, and Vibronic Structure and Dynamics Calculations with the Density Matrix Renormalization Group</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Kalman Szenes et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01405">2505.01405</a></td>
 </tr>
 </tbody></table>

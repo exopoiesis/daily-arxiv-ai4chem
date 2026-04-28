@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">106 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23921.html">Crystal structure prediction using graph neural combinatorial optimization</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Stavros Gerolymatos et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23921">2604.23921</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23115.html">HBGSA: Hydrogen Bond Graph with Self-Attention for Drug-Target Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Junxiao Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23115">2604.23115</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21290.html">GraphLeap: Decoupling Graph Construction and Convolution for Vision GNN Acceleration on FPGA</a></div></td>
@@ -638,11 +650,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21103.html">Accurate Thermophysical Properties of Water using Machine-Learned Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Tobias Hilpert et al.</td>
 <td><a href="http://arxiv.org/abs/2601.21103">2601.21103</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11018.html">KOCOBrain: Kuramoto-Guided Graph Network for Uncovering Structure-Function Coupling in Adolescent Prenatal Drug Exposure</a></div></td>
-<td>Badhan Mazumder et al.</td>
-<td><a href="http://arxiv.org/abs/2601.11018">2601.11018</a></td>
 </tr>
 </tbody></table>

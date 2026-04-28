@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">478 papers</span>
+  <span class="paper-count">480 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24585.html">Electronic and optical properties of arsenic monolayers: from planar honeycomb to the puckered phase</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Niloufar Dadkhah et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24585">2604.24585</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22300.html">Theoretical prediction of strong-coupling superconductivity in a hypothetical NaAlH3 phase at ambient pressure</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Izabela A. Wrona et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22300">2604.22300</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03844.html">Beyond Diamond: Interpretable Machine Learning Reveals Design Principles for Quantum Defect Host Materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
@@ -32,6 +44,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21739.html">Nickel intercalation in epitaxial graphene on SiC(0001): a novel platform for engineering two-dimensional heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Ylea Vlamidis et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21739">2604.21739</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22874.html">Dynamical stability and multifunctional properties of Ni2+/Pr3+ co-doped CsPbCl3 perovskite: insights from first-principles lattice dynamics and carrier transport</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Sikander Azam et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22874">2604.22874</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-22</td>
@@ -2876,11 +2894,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01745.html">Unveiling the interplay of magnetic order and electronic band structure on the evolution of anomalous Hall effect in MnPtGa single crystal</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Gourav Dwari et al.</td>
 <td><a href="http://arxiv.org/abs/2505.01745">2505.01745</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15445.html">MPd5 kagome superconductors studied by density functional calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Dan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2502.15445">2502.15445</a></td>
 </tr>
 </tbody></table>

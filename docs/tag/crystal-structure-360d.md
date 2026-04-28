@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23921.html">Crystal structure prediction using graph neural combinatorial optimization</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Stavros Gerolymatos et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23921">2604.23921</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08972.html">Selective Random Structure Search (SRSS): Unbiased Exploration of Polymorphs in Crystals</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Jiexi Song et al.</td>
@@ -1682,11 +1688,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02143.html">Construction of First Principle Based Adiabatic and Diabatic Hamiltonian for TiO$_6^{8-}$ unit of BaTiO$_3$ Crystal: Photoemission Spectra and Ferroelectricity</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Mantu Kumar Sah et al.</td>
 <td><a href="http://arxiv.org/abs/2505.02143">2505.02143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01529.html">Ferroelasticity, shear modulus softening, and the tetragonal-cubic transition in davemaoite</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Tianqi Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01529">2505.01529</a></td>
 </tr>
 </tbody></table>

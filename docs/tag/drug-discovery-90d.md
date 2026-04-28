@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24474.html">Advancing Ligand-based Virtual Screening and Molecular Generation with Pretrained Molecular Embedding Distance</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Shiyun Wa et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24474">2604.24474</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23115.html">HBGSA: Hydrogen Bond Graph with Self-Attention for Drug-Target Binding Affinity Prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Junxiao Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23115">2604.23115</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23134.html">h-MINT: Modeling Pocket-Ligand Binding with Hierarchical Molecular Interaction Network</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Yanru Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23134">2604.23134</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05482.html">ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -986,17 +1004,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22382.html">Purely Agentic Black-Box Optimization for Biological Design</a></div><div class="paper-tags"><a href="chemical-llm-90d.html">chemical-llm</a></div></td>
 <td>Natalie Maus et al.</td>
 <td><a href="http://arxiv.org/abs/2601.22382">2601.22382</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09665.html">Revealing Subtle Phenotypes in Small Microscopy Datasets Using Latent Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Anis Bourou et al.</td>
-<td><a href="http://arxiv.org/abs/2502.09665">2502.09665</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20043.html">Regime-Adaptive Bayesian Optimization via Dirichlet Process Mixtures of Gaussian Processes</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
-<td>Yan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20043">2601.20043</a></td>
 </tr>
 </tbody></table>

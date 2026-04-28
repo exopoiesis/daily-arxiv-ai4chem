@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24091.html">Unfolding an Atomistic World: Atomistic Simulation of Reactor Pressure Vessel Steel Across Year-and-Meter Scales</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Haozhi Han et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24091">2604.24091</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.20095.html">Glauber-theory calculations of high-energy nuclear scattering observables using variational Monte Carlo wave functions</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
 <td>W. Horiuchi et al.</td>
@@ -212,11 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28131.html">$f_0(980)$ production from $K\bar{K}$ coalescence in pp collisions at $\sqrt{s}=5.02$ TeV within UrQMD</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Phacharatouch Chaimongkon et al.</td>
 <td><a href="http://arxiv.org/abs/2603.28131">2603.28131</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27212.html">Temperature dependence of the dynamic structure factor of the electron liquid via analytic continuation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Thomas Chuna et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27212">2603.27212</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">467 papers</span>
+  <span class="paper-count">470 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24563.html">Enhancing molecular dynamics with equivariant machine-learned densities</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Mihail Bogojeski et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24563">2604.24563</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23565.html">Magnetic interactions and spin orders in Cr$_8$ and V$_8$ ring-shaped molecular magnets from non-collinear ab initio calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Maria Barbara Maccioni et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23565">2604.23565</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22300.html">Theoretical prediction of strong-coupling superconductivity in a hypothetical NaAlH3 phase at ambient pressure</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Izabela A. Wrona et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22300">2604.22300</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21739.html">Nickel intercalation in epitaxial graphene on SiC(0001): a novel platform for engineering two-dimensional heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Ylea Vlamidis et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21739">2604.21739</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22874.html">Dynamical stability and multifunctional properties of Ni2+/Pr3+ co-doped CsPbCl3 perovskite: insights from first-principles lattice dynamics and carrier transport</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Sikander Azam et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22874">2604.22874</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-22</td>
@@ -2810,11 +2834,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01898.html">Atomistic insight into the effects of solute and pressure on phase transformation in titanium alloys</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Huicong Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2505.01898">2505.01898</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01405.html">QCMaquis 4.0: Multi-Purpose Electronic, Vibrational, and Vibronic Structure and Dynamics Calculations with the Density Matrix Renormalization Group</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Kalman Szenes et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01405">2505.01405</a></td>
 </tr>
 </tbody></table>

@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16123.html">Tabular foundation models for in-context prediction of molecular properties</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Karim K. Ben Hicham et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16123">2604.16123</a></td>
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24474.html">Advancing Ligand-based Virtual Screening and Molecular Generation with Pretrained Molecular Embedding Distance</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="molecular-generation-7d.html">molecular-generation</a></div></td>
+<td>Shiyun Wa et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24474">2604.24474</a></td>
 </tr>
 <tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18031.html">How Creative Are Large Language Models in Generating Molecules?</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="molecular-generation-7d.html">molecular-generation</a></div></td>
-<td>Wen Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18031">2604.18031</a></td>
+<td>2026-04-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23134.html">h-MINT: Modeling Pocket-Ligand Binding with Hierarchical Molecular Interaction Network</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="protein-ligand-7d.html">protein-ligand</a></div></td>
+<td>Yanru Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23134">2604.23134</a></td>
 </tr>
 </tbody></table>

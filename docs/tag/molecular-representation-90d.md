@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-representation — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24474.html">Advancing Ligand-based Virtual Screening and Molecular Generation with Pretrained Molecular Embedding Distance</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
+<td>Shiyun Wa et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24474">2604.24474</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23134.html">h-MINT: Modeling Pocket-Ligand Binding with Hierarchical Molecular Interaction Network</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Yanru Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23134">2604.23134</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16123.html">Tabular foundation models for in-context prediction of molecular properties</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
@@ -296,11 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07002.html">MolLIBRA: Genetic Molecular Optimization with Multi-Fingerprint Surrogates and Text-Molecule Aligned Critic</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Masahi Okada et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07002">2602.07002</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.19257.html">PCEvo: Path-Consistent Molecular Representation via Virtual Evolutionary</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Kun Li et al.</td>
-<td><a href="http://arxiv.org/abs/2601.19257">2601.19257</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22484.html">Classifying magnons in itinerant ferromagnets from linear response TDDFT: Fe, Ni and Co revisited</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Thorbjørn Skovhus et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22484">2604.22484</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20476.html">Restoring the Conical Intersection Topology using Convex Density Functional Theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Federico Rossi et al.</td>
@@ -182,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07724.html">Geometric Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Éric Cancès et al.</td>
 <td><a href="http://arxiv.org/abs/2601.07724">2601.07724</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27212.html">Temperature dependence of the dynamic structure factor of the electron liquid via analytic continuation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Thomas Chuna et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27212">2603.27212</a></td>
 </tr>
 </tbody></table>

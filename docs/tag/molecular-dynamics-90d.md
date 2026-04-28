@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">497 papers</span>
+  <span class="paper-count">506 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,72 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24138.html">Synchronized molecular dynamics method for thin-layer flows of complex fluids</a></div></td>
+<td>Shugo Yasuda et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24138">2604.24138</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24209.html">Phase transformation kinetics in MoS2 governed by S-S repulsive interactions and defect-interface compatibility</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Pai Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24209">2604.24209</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24245.html">A Machine-Learned Symbolic Committor for a Chemical Reaction: Retinal Isomerization</a></div></td>
+<td>Kai Töpfer et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24245">2604.24245</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24288.html">Atomistic Mechanisms of Temperature-Dependent Ion Track Formation in Gallium Nitride under Swift Heavy Ion Irradiation</a></div></td>
+<td>Jiayu Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24288">2604.24288</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24563.html">Enhancing molecular dynamics with equivariant machine-learned densities</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Mihail Bogojeski et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24563">2604.24563</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24683.html">Improved Electrochemical Performance and Diffusion kinetics by Boron-doping in Na$_{0.66}$Mn$_{0.8}$Fe$_{0.2}$O$_{2}$ Layered Cathodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Jayashree Pati et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24683">2604.24683</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22300.html">Theoretical prediction of strong-coupling superconductivity in a hypothetical NaAlH3 phase at ambient pressure</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Izabela A. Wrona et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22300">2604.22300</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22434.html">The influence of implantation conditions on dopant activation in Al-implanted 4H-SiC: A MD study applying an Al potential fitted to DFT barriers</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Sabine Leroch et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22434">2604.22434</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22674.html">Unveiling the Molecular Driving Forces of Pollutant Extraction by Hydrophobic Eutectic Solvents</a></div></td>
+<td>S. Gomez et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22674">2604.22674</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22696.html">Pressure-Temperature Phase Diagram and $λ$-Transition in Liquid Sulfur</a></div></td>
+<td>Sonia Salomoni et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22696">2604.22696</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22726.html">Mechanical Scaling Laws and Deformation Behavior of Nanoporous Tantalum Microparticles</a></div></td>
+<td>J. I. Ramallo et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22726">2604.22726</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05482.html">ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
@@ -2984,17 +3050,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22180.html">Resonant Coupling Between Electromagnetic Waves and Protein Conformational Dynamics Revealed by Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a></div></td>
 <td>Jiafei Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2601.22180">2601.22180</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18069.html">Hydrogen diffusion in TiCr$_2$H$_x$ Laves phases: A combined ab initio and machine-learning-potential study</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Pranav Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18069">2511.18069</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06988.html">Multiscale Mechanical Response of 3D-Printed Diamondiynes: From Movable Interlocked Lattices to Architected Metamaterials</a></div></td>
-<td>Anitesh Kumar Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06988">2602.06988</a></td>
 </tr>
 </tbody></table>

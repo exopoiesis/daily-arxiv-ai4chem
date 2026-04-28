@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23061.html">C-MORAL: Controllable Multi-Objective Molecular Optimization with Reinforcement Alignment for LLMs</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-llm-90d.html">molecular-llm</a></div></td>
+<td>Rui Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23061">2604.23061</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19567.html">Multi-modal Reasoning with LLMs for Visual Semantic Arithmetic</a></div></td>
 <td>Chuou Xu et al.</td>
@@ -422,11 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21985.html">Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Yunyang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2601.21985">2601.21985</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.19367.html">CHEHAB RL: Learning to Optimize Fully Homomorphic Encryption Computations</a></div></td>
-<td>Bilel Sefsaf et al.</td>
-<td><a href="http://arxiv.org/abs/2601.19367">2601.19367</a></td>
 </tr>
 </tbody></table>

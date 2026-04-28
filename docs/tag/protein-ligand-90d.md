@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-ligand — 90d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <strong>90d</strong> <a href="protein-ligand-360d.html">360d</a> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23115.html">HBGSA: Hydrogen Bond Graph with Self-Attention for Drug-Target Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a></div></td>
+<td>Junxiao Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23115">2604.23115</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23134.html">h-MINT: Modeling Pocket-Ligand Binding with Hierarchical Molecular Interaction Network</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Yanru Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23134">2604.23134</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20019.html">Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
@@ -254,11 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21643.html">Computational investigation of single herbal drugs in Ayurveda for diabetes and obesity using knowledge graph and network pharmacology</a></div></td>
 <td>Priyotosh Sil et al.</td>
 <td><a href="http://arxiv.org/abs/2601.21643">2601.21643</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11628.html">Developing a Machine-Learning Interatomic Potential for Non-Covalent Interactions in Proteins</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Lejia Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2601.11628">2601.11628</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23758.html">Agentic Fusion of Large Atomic and Language Models to Accelerate Materials Discovery</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Mingze Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23758">2604.23758</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21386.html">Navigating Order-(Dis)Order Family Trees via Group-Subgroup Transitions</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Shuya Yamazaki et al.</td>
@@ -2906,11 +2912,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.15023.html">FolAI: Synchronized Foley Sound Generation with Semantic and Temporal Alignment</a></div></td>
 <td>Riccardo Fosco Gramaccioni et al.</td>
 <td><a href="http://arxiv.org/abs/2412.15023">2412.15023</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01277.html">Scoring-Assisted Generative Exploration for Proteins (SAGE-Prot): A Framework for Multi-Objective Protein Optimization via Iterative Sequence Generation and Evaluation</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Hocheol Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01277">2505.01277</a></td>
 </tr>
 </tbody></table>

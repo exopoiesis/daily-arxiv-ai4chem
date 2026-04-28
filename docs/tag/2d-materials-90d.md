@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24209.html">Phase transformation kinetics in MoS2 governed by S-S repulsive interactions and defect-interface compatibility</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Pai Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24209">2604.24209</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24585.html">Electronic and optical properties of arsenic monolayers: from planar honeycomb to the puckered phase</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Niloufar Dadkhah et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24585">2604.24585</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21494.html">Data-Driven Thermal and Mechanical Modeling of Defective Covalent Organic Frameworks</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Aleksander Szewczyk et al.</td>
@@ -980,17 +992,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11703.html">AiiDA-TrainsPot: Towards automated training of neural-network interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Davide Bidoggia et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11703">2509.11703</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08410.html">Fractional-Monolayer 2D-GaN/AlN Structures: Growth Kinetics and UVC-emitter Applications</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>V. N. Jmerik et al.</td>
-<td><a href="http://arxiv.org/abs/2601.08410">2601.08410</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.19652.html">Revealing the (111) surface electronic structure of epitaxially grown Na$_2$KSb photocathode</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>N. Yu. Solovova et al.</td>
-<td><a href="http://arxiv.org/abs/2601.19652">2601.19652</a></td>
 </tr>
 </tbody></table>

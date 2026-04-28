@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">146 papers</span>
+  <span class="paper-count">151 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22669.html">DeepHartree: A Poisson-Coupled Neural Field for Scalable Density Functional Theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Jiankun Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22669">2604.22669</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24091.html">Unfolding an Atomistic World: Atomistic Simulation of Reactor Pressure Vessel Steel Across Year-and-Meter Scales</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Haozhi Han et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24091">2604.24091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24209.html">Phase transformation kinetics in MoS2 governed by S-S repulsive interactions and defect-interface compatibility</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Pai Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24209">2604.24209</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24563.html">Enhancing molecular dynamics with equivariant machine-learned densities</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Mihail Bogojeski et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24563">2604.24563</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23785.html">Core-Hole Excitation Dynamics of One-Dimensional Ultracold Trapped Fermions</a></div></td>
+<td>André Becker et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23785">2604.23785</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22300.html">Theoretical prediction of strong-coupling superconductivity in a hypothetical NaAlH3 phase at ambient pressure</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Izabela A. Wrona et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22300">2604.22300</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22484.html">Classifying magnons in itinerant ferromagnets from linear response TDDFT: Fe, Ni and Co revisited</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
+<td>Thorbjørn Skovhus et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22484">2604.22484</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22727.html">Ab initio short-range nuclear matrix elements for neutrinoless double-beta decay</a></div></td>
+<td>A. Todd et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22727">2604.22727</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03844.html">Beyond Diamond: Interpretable Machine Learning Reveals Design Principles for Quantum Defect Host Materials</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
@@ -32,6 +80,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21842.html">Critical role of phase-dependent properties in modeling photothermal sintering of LiCoO2 cathodes</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Yang Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21842">2604.21842</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22033.html">Carrier scattering considerations and thermoelectric power factors of half-Heuslers</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Rajeev Dutt et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22033">2604.22033</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22044.html">Spin-polarized Energy Density Method from Spin-Density Functional Theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Yang Dan et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22044">2604.22044</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-22</td>
@@ -860,35 +920,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27456.html">Electronic structure of higher-order layered palladates: La$_{n+1}$Pd$_{n}$O$_{2n+1}$ $(n = 4-7)$</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>Alexander K. Gavrilov et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27456">2603.27456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08471.html">Learning Coulomb Potentials and Beyond with Free Fermions in Continuous Space</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Andreas Bluhm et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08471">2510.08471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12983.html">A Global Spacetime Optimization Approach to the Real-Space Time-Dependent Schrödinger Equation</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Enze Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12983">2511.12983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23925.html">Phonon-Assisted Photoluminescence and Ultrafast Exciton Dynamics in Two-Dimensional Silicon Carbide</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a></div></td>
-<td>Afreen Anamul Haque et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23925">2602.23925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06882.html">Machine learning the two-electron reduced density matrix in molecules and condensed phases</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jessica A. Martinez B. et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06882">2603.06882</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27212.html">Temperature dependence of the dynamic structure factor of the electron liquid via analytic continuation</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Thomas Chuna et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27212">2603.27212</a></td>
 </tr>
 </tbody></table>

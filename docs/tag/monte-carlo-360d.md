@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24091.html">Unfolding an Atomistic World: Atomistic Simulation of Reactor Pressure Vessel Steel Across Year-and-Meter Scales</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Haozhi Han et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24091">2604.24091</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.20095.html">Glauber-theory calculations of high-energy nuclear scattering observables using variational Monte Carlo wave functions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>W. Horiuchi et al.</td>
@@ -1838,11 +1844,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.16693.html">X-ray Thomson scattering studies on spin-singlet stabilization of highly compressed H-like Be ions heated to two million degrees Kelvin</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>M. W. C. Dharma-wardana et al.</td>
 <td><a href="http://arxiv.org/abs/2502.16693">2502.16693</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.03963.html">AL-PINN: Active Learning-Driven Physics-Informed Neural Networks for Efficient Sample Selection in Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
-<td>Keon Vin Park</td>
-<td><a href="http://arxiv.org/abs/2502.03963">2502.03963</a></td>
 </tr>
 </tbody></table>

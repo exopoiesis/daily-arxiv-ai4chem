@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24291.html">Catalytic Enhancement of Coherence Fraction in Noisy Quantum Channels and Characterization of Strictly Incoherent Operations</a></div></td>
+<td>Priyabrata Char et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24291">2604.24291</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24595.html">Mass spectra of charged mesons and the quenching of vector meson condensation via exact phase-space diagonalization</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Jingyi Chao et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24595">2604.24595</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12845.html">Multimodal Protein Language Models for Enzyme Kinetic Parameters: From Substrate Recognition to Conformational Adaptation</a></div><div class="paper-tags"><a href="protein-llm-7d.html">protein-llm</a></div></td>
 <td>Fei Wang et al.</td>
@@ -56,17 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20897.html">Watts-per-Intelligence Part II: Algorithmic Catalysis</a></div></td>
 <td>Elija Perrier</td>
 <td><a href="http://arxiv.org/abs/2604.20897">2604.20897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16123.html">Tabular foundation models for in-context prediction of molecular properties</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="molecular-representation-7d.html">molecular-representation</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Karim K. Ben Hicham et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16123">2604.16123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18417.html">Plasmonic Photocatalysis Enables Selective Oxidative Coupling of Methane with Nitrous Oxide under Ambient Conditions</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="photocatalysis-7d.html">photocatalysis</a></div></td>
-<td>Serin Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18417">2604.18417</a></td>
 </tr>
 </tbody></table>

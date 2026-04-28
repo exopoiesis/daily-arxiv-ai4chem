@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24563.html">Enhancing molecular dynamics with equivariant machine-learned densities</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Mihail Bogojeski et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24563">2604.24563</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24634.html">Computational Design and Experimental Validation of Photoactive PARP1 Inhibitors</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Simon Axelrod et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24634">2604.24634</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08972.html">Selective Random Structure Search (SRSS): Unbiased Exploration of Polymorphs in Crystals</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Jiexi Song et al.</td>
@@ -1094,17 +1106,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21103.html">Accurate Thermophysical Properties of Water using Machine-Learned Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a></div></td>
 <td>Tobias Hilpert et al.</td>
 <td><a href="http://arxiv.org/abs/2601.21103">2601.21103</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18069.html">Hydrogen diffusion in TiCr$_2$H$_x$ Laves phases: A combined ab initio and machine-learning-potential study</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Pranav Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18069">2511.18069</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11628.html">Developing a Machine-Learning Interatomic Potential for Non-Covalent Interactions in Proteins</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Lejia Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2601.11628">2601.11628</a></td>
 </tr>
 </tbody></table>

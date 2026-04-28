@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">104 papers</span>
+  <span class="paper-count">106 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24585.html">Electronic and optical properties of arsenic monolayers: from planar honeycomb to the puckered phase</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Niloufar Dadkhah et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24585">2604.24585</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24595.html">Mass spectra of charged mesons and the quenching of vector meson condensation via exact phase-space diagonalization</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
+<td>Jingyi Chao et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24595">2604.24595</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23565.html">Magnetic interactions and spin orders in Cr$_8$ and V$_8$ ring-shaped molecular magnets from non-collinear ab initio calculations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Maria Barbara Maccioni et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23565">2604.23565</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21739.html">Nickel intercalation in epitaxial graphene on SiC(0001): a novel platform for engineering two-dimensional heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
@@ -632,11 +650,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21044.html">Towards the discovery of high critical magnetic field superconductors</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Benjamin Geisler et al.</td>
 <td><a href="http://arxiv.org/abs/2601.21044">2601.21044</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16365.html">Magnetic structure of EuZn$_2$Sb$_2$ single-crystal thin-film</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Yu Wei Soh et al.</td>
-<td><a href="http://arxiv.org/abs/2601.16365">2601.16365</a></td>
 </tr>
 </tbody></table>

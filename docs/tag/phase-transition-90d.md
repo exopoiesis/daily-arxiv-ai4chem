@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transition — 90d</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <strong>90d</strong> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -458,11 +458,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11703.html">AiiDA-TrainsPot: Towards automated training of neural-network interatomic potentials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Davide Bidoggia et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11703">2509.11703</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00090.html">Quantum theory of fractional topological pumping of lattice solitons</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Julius Bohm et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00090">2506.00090</a></td>
 </tr>
 </tbody></table>

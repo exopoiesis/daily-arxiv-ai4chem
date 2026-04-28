@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">82 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23758.html">Agentic Fusion of Large Atomic and Language Models to Accelerate Materials Discovery</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Mingze Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23758">2604.23758</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22938.html">Large language model-enabled automated data extraction for concrete materials informatics</a></div></td>
+<td>Zhanzhao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22938">2604.22938</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04492.html">Accurate predictive model of band gap with selected important features based on explainable machine learning</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
@@ -500,11 +512,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21077.html">Accelerated Inorganic Electrides Discovery by Generative Models and Hierarchical Screening</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Shuo Tao et al.</td>
 <td><a href="http://arxiv.org/abs/2601.21077">2601.21077</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.19076.html">C2NP: A Benchmark for Learning Scale-Dependent Geometric Invariances in 3D Materials Generation</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Can Polat et al.</td>
-<td><a href="http://arxiv.org/abs/2601.19076">2601.19076</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23536.html">$Z^2$-Sampling: Zero-Cost Zigzag Trajectories for Semantic Alignment in Diffusion Models</a></div></td>
+<td>Haosen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23536">2604.23536</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15753.html">Algebraic Language Models for Inverse Design of Metamaterials via Diffusion Transformers</a></div></td>
 <td>Li Zheng et al.</td>
@@ -962,11 +968,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.07233.html">Non-equilibrium active noise enhances generative memory in diffusion models</a></div></td>
 <td>Agnish Kumar Behera et al.</td>
 <td><a href="http://arxiv.org/abs/2411.07233">2411.07233</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09665.html">Revealing Subtle Phenotypes in Small Microscopy Datasets Using Latent Diffusion Models</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Anis Bourou et al.</td>
-<td><a href="http://arxiv.org/abs/2502.09665">2502.09665</a></td>
 </tr>
 </tbody></table>

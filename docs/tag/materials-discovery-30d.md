@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-discovery — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <strong>30d</strong> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23758.html">Agentic Fusion of Large Atomic and Language Models to Accelerate Materials Discovery</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
+<td>Mingze Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23758">2604.23758</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22938.html">Large language model-enabled automated data extraction for concrete materials informatics</a></div></td>
+<td>Zhanzhao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22938">2604.22938</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04492.html">Accurate predictive model of band gap with selected important features based on explainable machine learning</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>

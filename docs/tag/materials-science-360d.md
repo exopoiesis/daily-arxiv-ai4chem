@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">444 papers</span>
+  <span class="paper-count">443 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23758.html">Agentic Fusion of Large Atomic and Language Models to Accelerate Materials Discovery</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Mingze Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23758">2604.23758</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04492.html">Accurate predictive model of band gap with selected important features based on explainable machine learning</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
@@ -2666,17 +2672,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05215.html">Physics-Informed Weakly Supervised Learning for Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Makoto Takamoto et al.</td>
 <td><a href="http://arxiv.org/abs/2408.05215">2408.05215</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.12096.html">Cartesian atomic moment machine learning interatomic potentials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Mingjian Wen et al.</td>
-<td><a href="http://arxiv.org/abs/2411.12096">2411.12096</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20211.html">A rigorous data-driven approach to the nucleation of defects in metals exploiting the link between kinetic properties and (dis)order parameters</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Mattia Perrone et al.</td>
-<td><a href="http://arxiv.org/abs/2504.20211">2504.20211</a></td>
 </tr>
 </tbody></table>

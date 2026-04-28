@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">270 papers</span>
+  <span class="paper-count">269 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1628,11 +1628,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01681.html">Large Language Model Driven Development of Turbulence Models</a></div></td>
 <td>Zhongxin Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.01681">2505.01681</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01277.html">Scoring-Assisted Generative Exploration for Proteins (SAGE-Prot): A Framework for Multi-Objective Protein Optimization via Iterative Sequence Generation and Evaluation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Hocheol Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01277">2505.01277</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23758.html">Agentic Fusion of Large Atomic and Language Models to Accelerate Materials Discovery</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Mingze Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23758">2604.23758</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04492.html">Accurate predictive model of band gap with selected important features based on explainable machine learning</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Joohwi Lee et al.</td>
@@ -260,11 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00132.html">Predicting Wave Reflection and Transmission in Heterogeneous Media via Fourier Operator-Based Transformer Modeling</a></div></td>
 <td>Zhe Bai et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00132">2604.00132</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12983.html">A Global Spacetime Optimization Approach to the Real-Space Time-Dependent Schrödinger Equation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Enze Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12983">2511.12983</a></td>
 </tr>
 </tbody></table>

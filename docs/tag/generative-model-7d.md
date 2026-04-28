@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23758.html">Agentic Fusion of Large Atomic and Language Models to Accelerate Materials Discovery</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
+<td>Mingze Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23758">2604.23758</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21386.html">Navigating Order-(Dis)Order Family Trees via Group-Subgroup Transitions</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a></div></td>
 <td>Shuya Yamazaki et al.</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20019.html">Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="protein-ligand-7d.html">protein-ligand</a> · <a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
 <td>Renee Gil</td>
 <td><a href="http://arxiv.org/abs/2604.20019">2604.20019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18467.html">An Integrated Deep-Learning Framework for Peptide-Protein Interaction Prediction and Target-Conditioned Peptide Generation with ConGA-PePPI and TC-PepGen</a></div><div class="paper-tags"><a href="protein-structure-7d.html">protein-structure</a></div></td>
-<td>Chupei Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18467">2604.18467</a></td>
 </tr>
 </tbody></table>

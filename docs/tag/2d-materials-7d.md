@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24209.html">Phase transformation kinetics in MoS2 governed by S-S repulsive interactions and defect-interface compatibility</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Pai Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24209">2604.24209</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24585.html">Electronic and optical properties of arsenic monolayers: from planar honeycomb to the puckered phase</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Niloufar Dadkhah et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24585">2604.24585</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21494.html">Data-Driven Thermal and Mechanical Modeling of Defective Covalent Organic Frameworks</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
 <td>Aleksander Szewczyk et al.</td>
@@ -62,17 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19080.html">Ultrafast Light-Induced Magnetoelectric Effect in van der Waals Magnetic Semiconductor Heterostructures</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
 <td>Wenyi Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19080">2604.19080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15170.html">Cracking donuts and sorting lipids: Geometry controls archaeal membrane stability and lipid organization</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Felix Frey et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15170">2603.15170</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15924.html">Ultrafast Current Switching from Quantum Geometry in Semimetals</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Youngjae Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15924">2604.15924</a></td>
 </tr>
 </tbody></table>

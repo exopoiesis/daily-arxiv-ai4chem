@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gnn — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <strong>30d</strong> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23921.html">Crystal structure prediction using graph neural combinatorial optimization</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Stavros Gerolymatos et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23921">2604.23921</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23115.html">HBGSA: Hydrogen Bond Graph with Self-Attention for Drug-Target Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Junxiao Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23115">2604.23115</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21290.html">GraphLeap: Decoupling Graph Construction and Convolution for Vision GNN Acceleration on FPGA</a></div></td>
@@ -176,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05583.html">When Does Global Attention Help? A Unified Empirical Study on Atomistic Graph Learning</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
 <td>Arindam Chowdhury et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05583">2510.05583</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27106.html">ADEPT-PolyGraphMT: Automated Molecular Simulation and Multi-Task Multi-Fidelity Machine Learning for Polymer Property Generation and Prediction</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Sobin Alosious et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27106">2603.27106</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24683.html">Improved Electrochemical Performance and Diffusion kinetics by Boron-doping in Na$_{0.66}$Mn$_{0.8}$Fe$_{0.2}$O$_{2}$ Layered Cathodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Jayashree Pati et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24683">2604.24683</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21773.html">Molecular dynamics simulations of Nafion thin films at a platinum catalyst surface: Correlating structure with charging behaviour</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Dustin Vivod et al.</td>
@@ -122,11 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27684.html">Solving the inverse problem of X-ray absorption spectroscopy via physics-informed deep learning</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>Suyang Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27684">2603.27684</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00112.html">Atomic-Scale Mechanisms of Li-Ion Transport Mediated by Li10GeP2S12 in Composite Solid Polyethylene Oxide Electrolytes</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Syed Mustafa Shah et al.</td>
-<td><a href="http://arxiv.org/abs/2601.00112">2601.00112</a></td>
 </tr>
 </tbody></table>

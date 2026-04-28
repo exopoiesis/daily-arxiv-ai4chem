@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">158 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24474.html">Advancing Ligand-based Virtual Screening and Molecular Generation with Pretrained Molecular Embedding Distance</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
+<td>Shiyun Wa et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24474">2604.24474</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23134.html">h-MINT: Modeling Pocket-Ligand Binding with Hierarchical Molecular Interaction Network</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Yanru Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23134">2604.23134</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16123.html">Tabular foundation models for in-context prediction of molecular properties</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>thermal-properties — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24683.html">Improved Electrochemical Performance and Diffusion kinetics by Boron-doping in Na$_{0.66}$Mn$_{0.8}$Fe$_{0.2}$O$_{2}$ Layered Cathodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Jayashree Pati et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24683">2604.24683</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23328.html">Weak Polar Optical Phonon Scattering Decouples Electron and Phonon Transport in Layered Thermoelectric Materials</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Zhonghao Xia et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23328">2604.23328</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21401.html">GEWUM: General Exploration Workflow for the Utopia of Materials: A Unified Platform for Automated Structure Generation, Selection, and Validation</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a> · <a href="mlip-7d.html">mlip</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
@@ -46,6 +58,18 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2604.21867">2604.21867</a></td>
 </tr>
 <tr class="paper">
+<td>2026-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22033.html">Carrier scattering considerations and thermoelectric power factors of half-Heuslers</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Rajeev Dutt et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22033">2604.22033</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22874.html">Dynamical stability and multifunctional properties of Ni2+/Pr3+ co-doped CsPbCl3 perovskite: insights from first-principles lattice dynamics and carrier transport</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Sikander Azam et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22874">2604.22874</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18139.html">Evaluating dispersion models for ab initio simulation of G-I and G-II molten fluoride salts</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
 <td>Shubhojit Banerjee et al.</td>
@@ -62,11 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19615.html">Lattice thermal transport from phonon spectra beyond perturbation theory</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Zezhu Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19615">2604.19615</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18084.html">Thermodiffusion in Aqueous Alkali Halide Solutions from Ambient to Supercooled Conditions: Ion-Specific, Structural, and Mass Effects</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Guansen Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18084">2604.18084</a></td>
 </tr>
 </tbody></table>

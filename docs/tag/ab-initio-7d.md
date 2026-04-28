@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22669.html">DeepHartree: A Poisson-Coupled Neural Field for Scalable Density Functional Theory</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Jiankun Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22669">2604.22669</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24091.html">Unfolding an Atomistic World: Atomistic Simulation of Reactor Pressure Vessel Steel Across Year-and-Meter Scales</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
+<td>Haozhi Han et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24091">2604.24091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24209.html">Phase transformation kinetics in MoS2 governed by S-S repulsive interactions and defect-interface compatibility</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Pai Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24209">2604.24209</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24563.html">Enhancing molecular dynamics with equivariant machine-learned densities</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Mihail Bogojeski et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24563">2604.24563</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23785.html">Core-Hole Excitation Dynamics of One-Dimensional Ultracold Trapped Fermions</a></div></td>
+<td>André Becker et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23785">2604.23785</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22300.html">Theoretical prediction of strong-coupling superconductivity in a hypothetical NaAlH3 phase at ambient pressure</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Izabela A. Wrona et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22300">2604.22300</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22484.html">Classifying magnons in itinerant ferromagnets from linear response TDDFT: Fe, Ni and Co revisited</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
+<td>Thorbjørn Skovhus et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22484">2604.22484</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22727.html">Ab initio short-range nuclear matrix elements for neutrinoless double-beta decay</a></div></td>
+<td>A. Todd et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22727">2604.22727</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03844.html">Beyond Diamond: Interpretable Machine Learning Reveals Design Principles for Quantum Defect Host Materials</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="materials-discovery-7d.html">materials-discovery</a></div></td>
@@ -32,6 +80,18 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21842.html">Critical role of phase-dependent properties in modeling photothermal sintering of LiCoO2 cathodes</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="mlip-7d.html">mlip</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
 <td>Yang Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21842">2604.21842</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22033.html">Carrier scattering considerations and thermoelectric power factors of half-Heuslers</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Rajeev Dutt et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22033">2604.22033</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22044.html">Spin-polarized Energy Density Method from Spin-Density Functional Theory</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Yang Dan et al.</td>
+<td><a href="http://arxiv.org/abs/2604.22044">2604.22044</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-22</td>
@@ -116,47 +176,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19957.html">High-order harmonic generation in argon driven by short laser pulses: effects of post-pulse propagation and windowing</a></div></td>
 <td>Aaron T. Bondy et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19957">2604.19957</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06987.html">OXtal: An All-Atom Diffusion Model for Organic Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="diffusion-model-7d.html">diffusion-model</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Emily Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2512.06987">2512.06987</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23044.html">Form factors of the $ρ$ meson from effective field theory and the lattice</a></div></td>
-<td>Ulf-G. Meißner et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23044">2602.23044</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11973.html">Metadensity functional learning for classical fluids: Regularizing with pair correlations</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Stefanie M. Kampa et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11973">2603.11973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15924.html">Ultrafast Current Switching from Quantum Geometry in Semimetals</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Youngjae Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15924">2604.15924</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18277.html">Dissipative Latent Residual Physics-Informed Neural Networks for Modeling and Identification of Electromechanical Systems</a></div></td>
-<td>Youyuan Long et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18277">2604.18277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18287.html">Constraining the trend of the $N = 50$ shell gap towards $^{100}$Sn with the masses of $^{96-98}$Cd</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>D. Lange et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18287">2604.18287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18417.html">Plasmonic Photocatalysis Enables Selective Oxidative Coupling of Methane with Nitrous Oxide under Ambient Conditions</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="photocatalysis-7d.html">photocatalysis</a></div></td>
-<td>Serin Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18417">2604.18417</a></td>
 </tr>
 </tbody></table>

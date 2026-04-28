@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24291.html">Catalytic Enhancement of Coherence Fraction in Noisy Quantum Channels and Characterization of Strictly Incoherent Operations</a></div></td>
+<td>Priyabrata Char et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24291">2604.24291</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24595.html">Mass spectra of charged mesons and the quenching of vector meson condensation via exact phase-space diagonalization</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Jingyi Chao et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24595">2604.24595</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12845.html">Multimodal Protein Language Models for Enzyme Kinetic Parameters: From Substrate Recognition to Conformational Adaptation</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
@@ -536,11 +548,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21056.html">Better without U: Impact of Selective Hubbard U Correction on Foundational MLIPs</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Thomas Warford et al.</td>
 <td><a href="http://arxiv.org/abs/2601.21056">2601.21056</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.19076.html">C2NP: A Benchmark for Learning Scale-Dependent Geometric Invariances in 3D Materials Generation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Can Polat et al.</td>
-<td><a href="http://arxiv.org/abs/2601.19076">2601.19076</a></td>
 </tr>
 </tbody></table>

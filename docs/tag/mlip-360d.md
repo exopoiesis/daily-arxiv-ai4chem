@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">556 papers</span>
+  <span class="paper-count">555 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24563.html">Enhancing molecular dynamics with equivariant machine-learned densities</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Mihail Bogojeski et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24563">2604.24563</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24634.html">Computational Design and Experimental Validation of Photoactive PARP1 Inhibitors</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Simon Axelrod et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24634">2604.24634</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08972.html">Selective Random Structure Search (SRSS): Unbiased Exploration of Polymorphs in Crystals</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
@@ -3332,23 +3344,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02503.html">Machine-learning interatomic potentials from a users perspective: A comparison of accuracy, speed and data efficiency</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Niklas Leimeroth et al.</td>
 <td><a href="http://arxiv.org/abs/2505.02503">2505.02503</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.12096.html">Cartesian atomic moment machine learning interatomic potentials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Mingjian Wen et al.</td>
-<td><a href="http://arxiv.org/abs/2411.12096">2411.12096</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01118.html">On Simulating Thin-Film Processes at the Atomic Scale Using Machine Learned Force Fields</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>S. Kondati Natarajan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01118">2505.01118</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01529.html">Ferroelasticity, shear modulus softening, and the tetragonal-cubic transition in davemaoite</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Tianqi Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01529">2505.01529</a></td>
 </tr>
 </tbody></table>

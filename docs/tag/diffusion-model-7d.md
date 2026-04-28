@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-model — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23536.html">$Z^2$-Sampling: Zero-Cost Zigzag Trajectories for Semantic Alignment in Diffusion Models</a></div></td>
+<td>Haosen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23536">2604.23536</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15753.html">Algebraic Language Models for Inverse Design of Metamaterials via Diffusion Transformers</a></div></td>
@@ -56,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19842.html">Energy gradients as potential drivers of pre-cellular chemical organization</a></div></td>
 <td>Arturo Tozzi</td>
 <td><a href="http://arxiv.org/abs/2604.19842">2604.19842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06987.html">OXtal: An All-Atom Diffusion Model for Organic Crystal Structure Prediction</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="crystal-structure-7d.html">crystal-structure</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Emily Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2512.06987">2512.06987</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17838.html">Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing</a></div><div class="paper-tags"><a href="molecular-generation-7d.html">molecular-generation</a></div></td>
-<td>Kijung Jeon et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17838">2604.17838</a></td>
 </tr>
 </tbody></table>
