@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">491 papers</span>
+  <span class="paper-count">487 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25199.html">Kohn-Sham Hamiltonian from Effective Field Theory: Quasiparticle Band Narrowing from Frozen Core Dynamics</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Xiansheng Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25199">2604.25199</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25343.html">Proximity Ferroelectricity Driven by Mobile High-Miller-Index Domain Walls</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Changming Ke et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25343">2604.25343</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25483.html">Probing sliding ferroelectricity in bilayer T$_\mathrm{d}$-WTe$_2$ with high-harmonic generation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
+<td>Elias Greil et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25483">2604.25483</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25756.html">Predicting challenging phase transitions with Bayesian active learning</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Lorenzo Bastonero et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25756">2604.25756</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22669.html">DeepHartree: A Poisson-Coupled Neural Field for Scalable Density Functional Theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
@@ -38,6 +62,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24563.html">Enhancing molecular dynamics with equivariant machine-learned densities</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Mihail Bogojeski et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24563">2604.24563</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24816.html">Trillion-atom molecular dynamics simulations with ab initio accuracy</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Pengfei Suo et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24816">2604.24816</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-26</td>
@@ -2906,59 +2936,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22009.html">MEIDNet: Multimodal generative AI framework for inverse materials design</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="chemical-space-90d.html">chemical-space</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="gnn-90d.html">gnn</a></div></td>
 <td>Anand Babu et al.</td>
 <td><a href="http://arxiv.org/abs/2601.22009">2601.22009</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12153.html">Comparative study of magnetic exchange parameters and magnon dispersions in NiO and MnO from first principles</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Flaviano José dos Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12153">2508.12153</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17977.html">Ab initio study of anomalous temperature dependence of resistivity in V-Al alloys</a></div></td>
-<td>Gabor Csire et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17977">2508.17977</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11703.html">AiiDA-TrainsPot: Towards automated training of neural-network interatomic potentials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Davide Bidoggia et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11703">2509.11703</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07518.html">Alteraxial Phonons in Collinear Magnets</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Fuyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.07518">2512.07518</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20271.html">ALD-Derived WO3-x Leads to Nearly Wake-Up-Free Ferroelectric Hf0.5Zr0.5O2 at Elevated Temperatures</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Nashrah Afroze et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20271">2601.20271</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20660.html">First-Principle-Inspired Reduced-Order Models of Chemical-Kinetics in $\text{H}_2\left(\text{X}^1Σ_g^+\right)$+$\text{H}\left({}^2\text{S}\right)$ System</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Hye Su Jeong et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20660">2601.20660</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20942.html">Chiral interactions and superfluidity in the calcium isotopic chain</a></div></td>
-<td>A. Scalesi et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20942">2601.20942</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21056.html">Better without U: Impact of Selective Hubbard U Correction on Foundational MLIPs</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Thomas Warford et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21056">2601.21056</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21103.html">Accurate Thermophysical Properties of Water using Machine-Learned Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Tobias Hilpert et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21103">2601.21103</a></td>
 </tr>
 </tbody></table>

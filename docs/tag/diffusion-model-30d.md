@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09653.html">Diffusion-Based Generative Priors for Efficient Beam Alignment in Directional Networks</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Esraa Fahmy Othman et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09653">2604.09653</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13213.html">Diffusion Models with Double Guidance: Generate with aggregated datasets</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Yanfeng Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13213">2505.13213</a></td>
 </tr>
 </tbody></table>

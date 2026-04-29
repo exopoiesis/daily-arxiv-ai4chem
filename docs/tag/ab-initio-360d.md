@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1617 papers</span>
+  <span class="paper-count">1619 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25199.html">Kohn-Sham Hamiltonian from Effective Field Theory: Quasiparticle Band Narrowing from Frozen Core Dynamics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Xiansheng Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25199">2604.25199</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25343.html">Proximity Ferroelectricity Driven by Mobile High-Miller-Index Domain Walls</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Changming Ke et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25343">2604.25343</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25483.html">Probing sliding ferroelectricity in bilayer T$_\mathrm{d}$-WTe$_2$ with high-harmonic generation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Elias Greil et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25483">2604.25483</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25756.html">Predicting challenging phase transitions with Bayesian active learning</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Lorenzo Bastonero et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25756">2604.25756</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22669.html">DeepHartree: A Poisson-Coupled Neural Field for Scalable Density Functional Theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
@@ -38,6 +62,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24563.html">Enhancing molecular dynamics with equivariant machine-learned densities</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Mihail Bogojeski et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24563">2604.24563</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24816.html">Trillion-atom molecular dynamics simulations with ab initio accuracy</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Pengfei Suo et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24816">2604.24816</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-26</td>
@@ -9698,23 +9728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02143.html">Construction of First Principle Based Adiabatic and Diabatic Hamiltonian for TiO$_6^{8-}$ unit of BaTiO$_3$ Crystal: Photoemission Spectra and Ferroelectricity</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Mantu Kumar Sah et al.</td>
 <td><a href="http://arxiv.org/abs/2505.02143">2505.02143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.16693.html">X-ray Thomson scattering studies on spin-singlet stabilization of highly compressed H-like Be ions heated to two million degrees Kelvin</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>M. W. C. Dharma-wardana et al.</td>
-<td><a href="http://arxiv.org/abs/2502.16693">2502.16693</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01745.html">Unveiling the interplay of magnetic order and electronic band structure on the evolution of anomalous Hall effect in MnPtGa single crystal</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Gourav Dwari et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01745">2505.01745</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01792.html">Landau theory description of autferroicity</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Jun-Jie Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01792">2505.01792</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-structure — 90d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <strong>90d</strong> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -470,11 +470,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13421.html">Virtuous Machines: Towards Artificial General Science</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Gabrielle Wehr et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13421">2508.13421</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20462.html">CM-GAI: Continuum Mechanistic Generative Artificial Intelligence Theory for Data Dynamics</a></div></td>
-<td>Shan Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20462">2601.20462</a></td>
 </tr>
 </tbody></table>

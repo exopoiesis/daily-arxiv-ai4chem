@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">106 papers</span>
+  <span class="paper-count">102 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -626,29 +626,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16900.html">Local magnetic structure in fully and partially ordered V$_2$$X$Al Heusler alloys ($X$=Cr, Mn, Fe, Co, Ni)</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Zhenyang Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16900">2508.16900</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07518.html">Alteraxial Phonons in Collinear Magnets</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Fuyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.07518">2512.07518</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20444.html">Contrasting impurity-induced magnetism and dynamics in 2H-MoTe2</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Jonas A. Krieger et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20444">2601.20444</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21024.html">Competing Ordering Modes in the Distorted Quantum Kagome Material Clinoatacamite Cu$_2$Cl(OH)$_3$</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>L. Stödter et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21024">2601.21024</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21044.html">Towards the discovery of high critical magnetic field superconductors</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Benjamin Geisler et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21044">2601.21044</a></td>
 </tr>
 </tbody></table>

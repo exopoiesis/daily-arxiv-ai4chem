@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25568.html">Benchmarking bandgap prediction in semiconductors under experimental and realistic evaluation settings</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="gnn-30d.html">gnn</a></div></td>
+<td>Haolin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25568">2604.25568</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23758.html">Agentic Fusion of Large Atomic and Language Models to Accelerate Materials Discovery</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Mingze Li et al.</td>
@@ -176,11 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00405.html">Reliable and Efficient Automated Transition-State Searches with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Jonah Marks et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00405">2604.00405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27684.html">Solving the inverse problem of X-ray absorption spectroscopy via physics-informed deep learning</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Suyang Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27684">2603.27684</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -962,11 +962,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22135.html">PI-Light: Physics-Inspired Diffusion for Full-Image Relighting</a></div></td>
 <td>Zhexin Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2601.22135">2601.22135</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.07233.html">Non-equilibrium active noise enhances generative memory in diffusion models</a></div></td>
-<td>Agnish Kumar Behera et al.</td>
-<td><a href="http://arxiv.org/abs/2411.07233">2411.07233</a></td>
 </tr>
 </tbody></table>

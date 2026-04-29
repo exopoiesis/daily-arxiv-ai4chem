@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">210 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,84 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25093.html">Ultrafast Energy Absorption in Silicon Controlled by Two-Color Double Pulses</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
+<td>Eiyu S. Gushiken et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25093">2604.25093</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25097.html">Determination of the Fermi Energy of Diamond using Photoluminescence Spectral Analysis</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a></div></td>
+<td>Yifan Song et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25097">2604.25097</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25125.html">Identifying strong correlation using only the Kohn-Sham density of one-electron states</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a></div></td>
+<td>Daniel D. Rivera et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25125">2604.25125</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25199.html">Kohn-Sham Hamiltonian from Effective Field Theory: Quasiparticle Band Narrowing from Frozen Core Dynamics</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Xiansheng Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25199">2604.25199</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25215.html">A density-functional perspective on force fields</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Nan Sheng</td>
+<td><a href="http://arxiv.org/abs/2604.25215">2604.25215</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25262.html">Benchmarking Universal Machine-Learned Interatomic Potentials for High-Temperature Metal-Organic Framework Chemistry</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="mof-30d.html">mof</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Connor W. Edwards et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25262">2604.25262</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25460.html">Excitation of Low-Frequency Modes and the Effects of Protein Dynamics on Spectral Densities of Bacteriochlorophyll Molecules</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Sayan Maity et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25460">2604.25460</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25483.html">Probing sliding ferroelectricity in bilayer T$_\mathrm{d}$-WTe$_2$ with high-harmonic generation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
+<td>Elias Greil et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25483">2604.25483</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25497.html">Fundamental picture of the conduction mechanism in solid-state polymer electrolytes revealed by terahertz spectroscopy</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a></div></td>
+<td>Johanna Weidelt et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25497">2604.25497</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25568.html">Benchmarking bandgap prediction in semiconductors under experimental and realistic evaluation settings</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="gnn-30d.html">gnn</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Haolin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25568">2604.25568</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25706.html">Validity of DFT+U band gaps in all its known functional forms</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a></div></td>
+<td>Andrew C. Burgess et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25706">2604.25706</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25759.html">Neural-Network-Based Variational Method in Nuclear Density Functional Theory: Application to the Extended Thomas-Fermi Model</a></div></td>
+<td>Kenta Yoshimura</td>
+<td><a href="http://arxiv.org/abs/2604.25759">2604.25759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25908.html">Structure Prediction and Bonding Analysis of B$_{18}$Ag$_2$ Clusters Featuring Double-Ring Motifs</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Peter Ludwig Rodríguez-Kessler</td>
+<td><a href="http://arxiv.org/abs/2604.25908">2604.25908</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22669.html">DeepHartree: A Poisson-Coupled Neural Field for Scalable Density Functional Theory</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
@@ -1196,29 +1274,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09653.html">Diffusion-Based Generative Priors for Efficient Beam Alignment in Directional Networks</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
 <td>Esraa Fahmy Othman et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09653">2604.09653</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07719.html">Geometric theory of constrained Schrödinger dynamics with application to time-dependent density-functional theory on a finite lattice</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Eric Cancès et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07719">2601.07719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07724.html">Geometric Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Éric Cancès et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07724">2601.07724</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27453.html">Twist-Angle Engineering of Moiré Potentials for High-Performance Ionics in Bilayer Graphene</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Gen Fukuzawa et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27453">2603.27453</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27767.html">Understanding the Density Maximum of Water with Machine Learned Potentials</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Yizhi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27767">2603.27767</a></td>
 </tr>
 </tbody></table>

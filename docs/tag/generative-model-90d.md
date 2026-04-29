@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25119.html">Evaluation without Generation: Non-Generative Assessment of Harmful Model Specialization with Applications to CSAM</a></div></td>
+<td>Vinith M. Suriyakumar et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25119">2604.25119</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23758.html">Agentic Fusion of Large Atomic and Language Models to Accelerate Materials Discovery</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
@@ -920,17 +926,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22408.html">Minimal-Action Discrete Schrödinger Bridge Matching for Peptide Sequence Design</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
 <td>Shrey Goel et al.</td>
 <td><a href="http://arxiv.org/abs/2601.22408">2601.22408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20996.html">MADE: Benchmark Environments for Closed-Loop Materials Discovery</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Shreshth A Malik et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20996">2601.20996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21021.html">Conditional Denoising Model as a Physical Surrogate Model</a></div></td>
-<td>José Afonso et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21021">2601.21021</a></td>
 </tr>
 </tbody></table>

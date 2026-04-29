@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25497.html">Fundamental picture of the conduction mechanism in solid-state polymer electrolytes revealed by terahertz spectroscopy</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Johanna Weidelt et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25497">2604.25497</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24683.html">Improved Electrochemical Performance and Diffusion kinetics by Boron-doping in Na$_{0.66}$Mn$_{0.8}$Fe$_{0.2}$O$_{2}$ Layered Cathodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Jayashree Pati et al.</td>
@@ -122,11 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28012.html">A Comparative Study of Molecular Dynamics Approaches for Simulating Ionic Conductivity in Solid Lithium Electrolytes</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Dounia Shaaban Kabakibo et al.</td>
 <td><a href="http://arxiv.org/abs/2603.28012">2603.28012</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27684.html">Solving the inverse problem of X-ray absorption spectroscopy via physics-informed deep learning</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Suyang Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27684">2603.27684</a></td>
 </tr>
 </tbody></table>

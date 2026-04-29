@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">506 papers</span>
+  <span class="paper-count">505 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25104.html">Effect of neutron-proton asymmetry on the $^3$H clustering in Boron isotopes</a></div></td>
+<td>J. L. Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25104">2604.25104</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25244.html">Learning Structure, Energy, and Dynamics: A Survey of Artificial Intelligence for Protein Dynamics</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Haocheng Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25244">2604.25244</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25262.html">Benchmarking Universal Machine-Learned Interatomic Potentials for High-Temperature Metal-Organic Framework Chemistry</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="mof-90d.html">mof</a></div></td>
+<td>Connor W. Edwards et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25262">2604.25262</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25343.html">Proximity Ferroelectricity Driven by Mobile High-Miller-Index Domain Walls</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Changming Ke et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25343">2604.25343</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25460.html">Excitation of Low-Frequency Modes and the Effects of Protein Dynamics on Spectral Densities of Bacteriochlorophyll Molecules</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Sayan Maity et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25460">2604.25460</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25752.html">Quantum sensing-enabled deuterium NMR spectroscopy with nanoscale sensitivity at low magnetic fields</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
+<td>Dileep Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25752">2604.25752</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24138.html">Synchronized molecular dynamics method for thin-layer flows of complex fluids</a></div></td>
@@ -50,6 +86,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24683.html">Improved Electrochemical Performance and Diffusion kinetics by Boron-doping in Na$_{0.66}$Mn$_{0.8}$Fe$_{0.2}$O$_{2}$ Layered Cathodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Jayashree Pati et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24683">2604.24683</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24816.html">Trillion-atom molecular dynamics simulations with ab initio accuracy</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Pengfei Suo et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24816">2604.24816</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25037.html">Thermal conductivity of aligned polymers with kinks</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Igor V. Parshin et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25037">2604.25037</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-24</td>
@@ -2996,59 +3044,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22327.html">Molecular Representations in Implicit Functional Space via Hyper-Networks</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Zehong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2601.22327">2601.22327</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11703.html">AiiDA-TrainsPot: Towards automated training of neural-network interatomic potentials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Davide Bidoggia et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11703">2509.11703</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20228.html">Quantum statistics from classical simulations via generative Gibbs sampling</a></div></td>
-<td>Weizhou Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20228">2601.20228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20360.html">Transit-time oscillations in nanoscale vacuum diode with a pure resistive load</a></div></td>
-<td>Bjartþhór Steinn Alexandersson et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20360">2601.20360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20435.html">Rethinking Thread Scheduling under Oversubscription: A User-Space Framework for Coordinating Multi-runtime and Multi-process Workloads</a></div></td>
-<td>Aleix Roca et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20435">2601.20435</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20491.html">Effects of the centrality determination method for the equation of state and nucleonic observables from Au+Au collisions at $\sqrt{s_{NN}}$ = 2.4 GeV</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Xiaoqing Yue et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20491">2601.20491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20541.html">Ion-Modulated Polyelectrolyte Complexation of DNA and Polyacrylic Acid from Molecular Dynamics Simulations</a></div></td>
-<td>Sisem Ektirici et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20541">2601.20541</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20763.html">Multiscale Numerical Modelling of Ultrafast Laser-Matter Interactions: Maxwell Two Temperature Model Molecular Dynamics (M-TTM-MD)</a></div></td>
-<td>Othmane Benhayoun et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20763">2601.20763</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21091.html">Extraction of a structural short-range order descriptor from nanobeam electron diffraction patterns using a transfer learning approach</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Junjie Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21091">2601.21091</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22180.html">Resonant Coupling Between Electromagnetic Waves and Protein Conformational Dynamics Revealed by Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a></div></td>
-<td>Jiafei Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22180">2601.22180</a></td>
 </tr>
 </tbody></table>

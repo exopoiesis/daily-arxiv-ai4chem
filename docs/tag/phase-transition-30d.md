@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25752.html">Quantum sensing-enabled deuterium NMR spectroscopy with nanoscale sensitivity at low magnetic fields</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Dileep Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25752">2604.25752</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21245.html">Octupole correlation effects on two-neutron transfer intensity in rare-earth nuclei</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Kosuke Nomura</td>
@@ -200,11 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13358.html">The Geometry of Thought: How Scale Restructures Reasoning In Large Language Models</a></div></td>
 <td>Samuel Cyrenius Anderson</td>
 <td><a href="http://arxiv.org/abs/2601.13358">2601.13358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27684.html">Solving the inverse problem of X-ray absorption spectroscopy via physics-informed deep learning</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Suyang Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27684">2603.27684</a></td>
 </tr>
 </tbody></table>

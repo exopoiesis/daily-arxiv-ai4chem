@@ -21831,5 +21831,791 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-04-27"
+ },
+ "2604.24796": {
+  "abstract": "Liver cirrhosis is a major global health problem causing millions of deaths annually, and timely detection with aggressive treatment can significantly improve patients' quality of life. Modelling complex diseases from biomedical data is computationally challenging due to high dimensionality, strong feature correlations, noise, and limited labelled samples. Conventional Machine Learning (ML) pipelines often struggle with robustness, interpretability, and generalisation under such conditions. In this study, we propose an ML-driven multi-stage decision framework for complex disease modelling and therapeutic exploration. The framework integrates single-cell transcriptomic profiling, high-dimensional network-based feature stabilisation, multi-model learning, deep representation construction, and post-hoc decision support. Specifically, single-cell sequencing data were analysed to identify key cellular subpopulations, followed by high-dimensional weighted gene co-expression network analysis (hdWGCNA) to stabilise gene modules under sparsity and noise. To enhance non-linear feature interaction modelling, tabular molecular features were restructured into two-dimensional disease maps and analysed using a CNN. Finally, molecular docking was incorporated as a decision-support module to evaluate candidate therapeutic compounds. Using liver cirrhosis as a representative case, the framework identified a disease-associated endothelial subpopulation and extracted seven robust signature genes (HSPB1, GADD45A, CLDN5, ATP1B3, C1QBP, ENPP2, and PARL). The CNN-based representation learning module outperformed conventional pipelines in classification. The framework is disease-agnostic and readily extends to other omics-driven biomedical applications involving uncertainty, heterogeneity, and limited samples.",
+  "authors": [
+   "Xueyuan Huang",
+   "Yuheng Wang",
+   "Yuanzhi He",
+   "Siqi Gou",
+   "Lu Bai",
+   "Wenqian Wu",
+   "Peifeng Liu",
+   "Aijia Wang",
+   "Tianhui Fan",
+   "Jiayu Xu"
+  ],
+  "categories": [
+   "q-bio.OT",
+   "cs.LG"
+  ],
+  "comment": "20 pages, 8 figures",
+  "first_author": "Xueyuan Huang",
+  "pdf_url": "http://arxiv.org/pdf/2604.24796",
+  "primary_category": "q-bio.OT",
+  "published": "2026-04-26",
+  "tags": [
+   "protein-ligand"
+  ],
+  "title": "A multi-stage soft computing framework for complex disease modelling and decision support: A liver cirrhosis case study",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-04-26"
+ },
+ "2604.24816": {
+  "abstract": "Material properties are fundamentally dictated by multiscale phenomena, which often reach mesoscale in size. The μm mesoscale is also the size which can be observed directly under an optical microscope, bridging the atomistic microscopic description with the continuous model macroscopic world. In this work, we report an unprecedented molecular dynamics (MD) simulation comprising 1.62 trillion atoms. Utilizing the neuroevolution potential (NEP) framework, we attained ab initio accuracy on China's New-generation Intelligent Supercomputer. Our implementation achieves a time-to-solution (s/step/atom) 100 times faster than previous state-of-the-art machine learning force field simulations, and 1,000 times faster than the Gordon Bell Prize-winning application from six years ago. Furthermore, we demonstrate an 86.9% weak scaling efficiency from a single GPGPU to 45,000 GPGPUs. These results redefine atomistic simulation boundaries, enabling direct mesoscopic modeling with quantum-level precision.",
+  "authors": [
+   "Pengfei Suo",
+   "Wudi Cao",
+   "Xingxing Wu",
+   "Wenjie Zhang",
+   "Zheyong Fan",
+   "Shuanghan Xian",
+   "Rui Wang",
+   "Cheng Qian",
+   "Chao Liang",
+   "Qinghong Yuan",
+   "Xiaoshuang Chen",
+   "Pengfei Guan",
+   "Jingde Bu",
+   "Hongzhen Tian",
+   "Yanjing Su",
+   "Feng Ding",
+   "Lin-Wang Wang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Pengfei Suo",
+  "pdf_url": "http://arxiv.org/pdf/2604.24816",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-27",
+  "tags": [
+   "ab-initio",
+   "materials-science",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Trillion-atom molecular dynamics simulations with ab initio accuracy",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-27"
+ },
+ "2604.25037": {
+  "abstract": "Thermal conductivity of aligned polymer molecules can be exceptionally high along the alignment direction due to energy transport through strong covalent bonds. At the same time, it is highly sensitive to molecular conformation, varying by orders of magnitude as a result of gauche kinks. Here, we theoretically investigate phonon transport in kinked polymers by numerically evaluating thermal conductivity and interpreting the results in terms of phonon scattering from randomly distributed kinks. For strongly aligned polymers with restricted deviations from a linear backbone, we find that heat transport becomes superdiffusive at long lengths, with thermal conductivity scaling as $κ\\propto L^{1/3}$. At shorter lengths, thermal conductivity exhibits non-monotonic behavior: it increases at very short scales due to ballistic transport of almost all phonons, then decreases at intermediate lengths due to the Anderson localization of most phonon modes. These results are consistent with experiments and molecular dynamics simulations, and they elucidate the microscopic mechanisms governing heat transport in polymers.",
+  "authors": [
+   "Igor V. Parshin",
+   "Igor V. Rubtsov",
+   "Alexander L. Burin"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.dis-nn"
+  ],
+  "comment": "11 pages, 4 figures",
+  "first_author": "Igor V. Parshin",
+  "pdf_url": "http://arxiv.org/pdf/2604.25037",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-04-27",
+  "tags": [
+   "molecular-dynamics",
+   "thermal-properties"
+  ],
+  "title": "Thermal conductivity of aligned polymers with kinks",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-27"
+ },
+ "2604.25093": {
+  "abstract": "We theoretically show that energy absorption in crystalline silicon can be controlled by two-color femtosecond double-pulse irradiation, in which two temporally separated pulses with different wavelengths interact sequentially with the system. Using time-dependent density functional theory, we systematically examine the wavelength and intensity dependence of the absorbed energy over peak intensities of $2\\times10^{11}$-$10^{13}$ W/cm$^2$ and wavelengths of 515, 1030, and 2060 nm. We find that the mechanism governing energy absorption and the optimal wavelength combination strongly depend on the intensity regime. In the low-intensity regime, multiphoton interband absorption is dominant, and energy absorption is enhanced for pulse pairs composed of shorter wavelengths. In contrast, in the high-intensity regime, the contributions of tunneling ionization and intraband acceleration become significant, leading to enhanced absorption for longer-wavelength combinations. In the intermediate-intensity regime, a pronounced enhancement is observed when a short-wavelength pulse precedes a long-wavelength pulse. Our analysis reveals that the nonequilibrium electronic state prepared by the first pulse modifies the excitation process induced by the second pulse, thereby enhancing the absorbed energy through an increased energy gain per excited electron. In this regime, the energy absorption is governed not only by the number of excited carriers but also by the energy gain per excited electron, which can be strongly modified by the pulse sequence. These results indicate that ultrafast energy transfer in semiconductors is tunable by appropriately designing the wavelength and intensity combination of the two pulses, and provide microscopic insight into two-color strong-field excitation.",
+  "authors": [
+   "Eiyu S. Gushiken",
+   "Mizuki Tani",
+   "Hiroki Katow",
+   "Kenichi L. Ishikawa"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "14 pages, 20 figures; submitted to Physical Review B",
+  "first_author": "Eiyu S. Gushiken",
+  "pdf_url": "http://arxiv.org/pdf/2604.25093",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-28",
+  "tags": [
+   "dft",
+   "excited-states"
+  ],
+  "title": "Ultrafast Energy Absorption in Silicon Controlled by Two-Color Double Pulses",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25097": {
+  "abstract": "Electronic band structures and the Fermi energy provide essential information for understanding the electronic properties of solids. In semiconductors, the Fermi energy level is determined by the donor and acceptor concentrations. For diamond, the relationship between the Fermi energy level and the donor-acceptor concentrations is highly nonlinear; therefore, experimental determination of the Fermi energy level is important. Here, we report a method to determine the Fermi energy of diamond based on photoluminescence (PL) measurement. The density-functional-theory (DFT) study by Deák et al.~\\cite{deak2014formation} showed the relationship between the Fermi energy and the formation energies of nitrogen-vacancy centers in the negatively charged (NV-) and neutrally charged (NV0) charge states. In the present method, we measure the relative populations of the NV- and NV0 centers from PL spectral analysis and, using these populations and the DFT result, determine the Fermi energy of the diamond samples. Moreover, we show the application of the method to study the spin coherence and the stability against the charge state conversion of the NV centers on several diamond samples. We also extend the method for the Fermi energy determination using the silicon-vacancy (SiV) center in diamond. The PL-based method is advantageous for determining the Fermi energy with high spatial and fast time resolutions, even in extreme environments, and can be extended to determine various wide band gap semiconductors.",
+  "authors": [
+   "Yifan Song",
+   "Sina Ilkhani",
+   "Leah Webb",
+   "Helen Highland",
+   "Shunki Nakamura",
+   "Stephen B. Cronin",
+   "Susumu Takahashi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "quant-ph"
+  ],
+  "comment": "11 pages, 6 figures",
+  "first_author": "Yifan Song",
+  "pdf_url": "http://arxiv.org/pdf/2604.25097",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-28",
+  "tags": [
+   "band-gap",
+   "dft"
+  ],
+  "title": "Determination of the Fermi Energy of Diamond using Photoluminescence Spectral Analysis",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25104": {
+  "abstract": "To investigate the influence of neutron-proton asymmetry on the formation of asymmetric clusters, we perform a systematic comparative study of $^{3}$H and $α$ cluster preformation in the Boron isotopic chain ($^{11-14}$B). Within the framework of Antisymmetrized Molecular Dynamics (AMD), we compute the nuclear wave functions and subsequently extract the reduced width amplitudes (RWA) and spectroscopic factors (SF). The results show that the $α$ cluster SF exhibits a monotonic decrease with increasing neutron number, consistent with the established suppression effect of the neutron skin. In contrast, the $^{3}$H cluster SF displays a non-monotonic behavior, peaking at $^{12}$B. This distinct trend indicates that the formation of the asymmetric $^{3}$H cluster is subject to a competition between suppression from the neutron skin and an enhancement driven by the neutron-proton asymmetry of the parent nucleus. We successfully isolate this enhancement effect by analyzing the ratio of the SFs, SF($^{3}$H)/SF($α$). This approach not only quantifies the enhancement but also proposes the SF ratio as a robust experimental observable for probing insights into asymmetric clustering phenomena.",
+  "authors": [
+   "J. L. Jin",
+   "Q. Zhao",
+   "P. J. Li",
+   "M. Kimura",
+   "D. Beaumel",
+   "B. Zhou",
+   "J. L. Tian"
+  ],
+  "categories": [
+   "nucl-th"
+  ],
+  "comment": null,
+  "first_author": "J. L. Jin",
+  "pdf_url": "http://arxiv.org/pdf/2604.25104",
+  "primary_category": "nucl-th",
+  "published": "2026-04-28",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Effect of neutron-proton asymmetry on the $^3$H clustering in Boron isotopes",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25119": {
+  "abstract": "Auditing the fine-tunes of open-weight generative models for harmful specialization has become a new governance challenge for model hosting platforms. The standard toolkit, generative evaluation via curated prompts or red-teaming, does not scale to platform-level auditing and breaks down entirely for domains like CSAM where generation is legally constrained. This motivates the Evaluation without Generation problem: assessing model capabilities without producing outputs. We argue that in such settings, capability must be inferred from the model's state, either its parameters or internal representations, rather than its outputs. We introduce Gaussian probing, a method that characterizes how LoRA adaptors perturb a model's internal representations by measuring responses to Gaussian latent ensembles. Unlike raw-weight baselines, Gaussian probing reliably distinguishes benign from harmful specialization without sampling outputs. We demonstrate effectiveness in high-risk domains, including detecting models specialized for child sexual abuse material (CSAM), where output-based evaluation is legally and ethically constrained. Our results show that Gaussian probing provides a scalable non-generative alternative for evaluating high-risk generative systems and remains robust to weight rescaling, a representative adversarial manipulation.",
+  "authors": [
+   "Vinith M. Suriyakumar",
+   "Ayush Sekhari",
+   "Lena Stempfle",
+   "Robertson Wang",
+   "Michael Simpson",
+   "Rebecca Portnoff",
+   "Marzyeh Ghassemi",
+   "Ashia C. Wilson"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CY"
+  ],
+  "comment": null,
+  "first_author": "Vinith M. Suriyakumar",
+  "pdf_url": "http://arxiv.org/pdf/2604.25119",
+  "primary_category": "cs.LG",
+  "published": "2026-04-28",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "Evaluation without Generation: Non-Generative Assessment of Harmful Model Specialization with Applications to CSAM",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25125": {
+  "abstract": "Strongly correlated systems have long been a central and highly non-trivial topic in condensed matter physics. At the non-interacting level, strong correlation can be associated with powerful (near) degeneracies between occupied and unoccupied states, which leads to a high density of states near the Fermi level in metallic configurations. Such regimes are commonly treated with beyond-density functional theory (DFT) approaches, such as DFT+U or DFT+DMFT while maintaining symmetric configurations. Here, we explore the hypothesis that symmetry breaking in the Kohn-Sham (KS) non-interacting system can qualitatively account for the energetic effects of strong correlation in the corresponding interacting system within standard DFT. By lifting near-degeneracies around the Fermi level, symmetry breaking diminishes the potential correlation effects, reducing the need for an explicit treatment of electron correlation, transforming an otherwise strongly correlated symmetric configuration into a normally correlated one, thus avoiding the need for interacting methods beyond DFT. This naturally connects nonmagnetic to magnetic states. We apply this idea to both strongly and normally correlated metals and observe that spin symmetry breaking leads to a pronounced reduction of the density of states at the Fermi level and a significant lowering of the total energy in strongly correlated cases. To describe the degree of correlation that the interacting system would have relative to the KS state, we introduce a correlation parameter ($Γ$), defined as the ratio between the Kohn-Sham density of one-electron states at the Fermi level and that of a corresponding uniform electron gas. This parameter distinguishes strongly correlated systems, which would require explicit treatment, from normally correlated ones, which do not.",
+  "authors": [
+   "Daniel D. Rivera",
+   "Gustavo M. Dalpian",
+   "John P. Perdew"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "16 pages, 19 figures",
+  "first_author": "Daniel D. Rivera",
+  "pdf_url": "http://arxiv.org/pdf/2604.25125",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-04-28",
+  "tags": [
+   "band-gap",
+   "dft"
+  ],
+  "title": "Identifying strong correlation using only the Kohn-Sham density of one-electron states",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25199": {
+  "abstract": "Kohn-Sham (KS) eigenvalues are routinely compared with angle-resolved photoemission (ARPES) and used as input for many-body methods, yet density functional theory (DFT) assigns them no physical meaning. For alkali and alkaline-earth metals, KS bandwidths overestimate ARPES measurements by 20-35%, a discrepancy that persists across all exchange-correlation functionals. We construct an effective field theory (EFT) of the inhomogeneous electron gas and show that two conditions imply KS bands are the quasiparticle bands, up to a frozen-core renormalization factor zcore: a scale separation between core excitation energies and the valence Fermi energy, and an approximate Galilean invariance of the uniform electron gas confirmed by diagrammatic Monte Carlo. This factor reflects dynamical core excitations that conventional pseudopotentials freeze out and no static potential can capture. The correction 1-zcore reaches 20-35% for alkali metals but falls below 5% for Al and Si, explaining both the failure and success of KS band theory. We derive a closed-form post-SCF formula and validate it for Li, Na, K, Ca, Mg, Al, and Si; the predicted quasiparticle bands resolve the long-standing ARPES bandwidth discrepancy, matching embedded dynamical mean-field theory at negligible cost. This work also exemplifies first-principles agentic science, a direction particularly suited to the AGI-for-Science paradigm: an LLM-co-developed derivation with controlled approximations, verified symbolically and against a few experiments, becomes a deterministic harness for agentic scale-out, resolving simultaneously the LLM audit bottleneck and the non-falsifiability of fit-based AI-for-science.",
+  "authors": [
+   "Xiansheng Cai",
+   "Han Wang",
+   "Kun Chen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el",
+   "cs.AI",
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Xiansheng Cai",
+  "pdf_url": "http://arxiv.org/pdf/2604.25199",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-28",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "monte-carlo"
+  ],
+  "title": "Kohn-Sham Hamiltonian from Effective Field Theory: Quasiparticle Band Narrowing from Frozen Core Dynamics",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25215": {
+  "abstract": "Force fields are usually formulated directly in nuclear configuration space, whereas density functional theory is naturally formulated in terms of external potentials, densities, and variational duality. In this work, we isolate the structural relation between these viewpoints. A nuclear configuration determines a nuclear-generated external potential, so the Born-Oppenheimer energy surface may be viewed as the pullback of an external-potential energy functional along the nuclear-to-potential map. In the Lieb formulation of density functional theory, the density is the first functional derivative of the energy with respect to the external potential, while the density-density response function is the second. Pulling these derivative objects back to nuclear configuration space yields the force and the nuclear Hessian, together with explicit terms induced by the nuclear-generated potential and the nuclear-nuclear repulsion. The resulting picture places force fields, density functional theory, and response theory within a single derivative hierarchy. The purpose of the present work is conceptual rather than algorithmic.",
+  "authors": [
+   "Nan Sheng"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "math-ph"
+  ],
+  "comment": null,
+  "first_author": "Nan Sheng",
+  "pdf_url": "http://arxiv.org/pdf/2604.25215",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-04-28",
+  "tags": [
+   "dft",
+   "free-energy",
+   "mlip"
+  ],
+  "title": "A density-functional perspective on force fields",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25244": {
+  "abstract": "Protein dynamics underlie many biological functions, yet remain difficult to characterize due to the high computational cost of molecular dynamics simulations and the scarcity of dynamic structural data. This survey reviews recent advances in artificial intelligence for protein dynamics from three perspectives: learning from structural ensembles and trajectories, learning from physical energy signals, and learning to accelerate molecular simulations. We summarize representative methods for conformation ensemble generation, trajectory generation, Boltzmann generators, physics-aware adaptation, machine learning potentials, coarse-grained modeling, and collective variable discovery. We further discuss available datasets and key open challenges, such as scalability, thermodynamic consistency, kinetic fidelity, and integration with experimental constraints.",
+  "authors": [
+   "Haocheng Tang",
+   "Liang Shi",
+   "Ya-Shi Zhang",
+   "Xixian Liu",
+   "Jian Tang",
+   "Jiarui Lu"
+  ],
+  "categories": [
+   "q-bio.BM",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Haocheng Tang",
+  "pdf_url": "http://arxiv.org/pdf/2604.25244",
+  "primary_category": "q-bio.BM",
+  "published": "2026-04-28",
+  "tags": [
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Learning Structure, Energy, and Dynamics: A Survey of Artificial Intelligence for Protein Dynamics",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25262": {
+  "abstract": "Universal machine-learned interatomic potentials (uMLIPs) offer a promising approach to performing atomistic simulations at near-DFT accuracy with greatly reduced computational cost. Here, we present a new high-temperature benchmarking dataset of 40~ps ab~initio molecular dynamics (AIMD) trajectories simulated at 300, 1000, and 2000 K for nine zinc- and zirconium-based metal-organic frameworks (MOFs): ZIF-8, CALF-20, MOF-10, MOF-5, MIP-206, UiO-66, UiO-67, UiO-66-NH2, and NU-1000. These trajectories capture equilibrium dynamics, thermally induced distortions, and early-stage decomposition events, including linker degradation and metal node aggregation. Subsequently, we use this dataset to benchmark five leading uMLIPs: ORB-v3, MACE-MP-0a, MACE-MPA-0, fairchem ODAC23, and fairchem OMAT. Our results reveal that ORB-v3 and fairchem OMAT achieve the lowest energy, force, and stress errors across all temperatures. However, all models exhibit significant error under high-temperature conditions. Long-timescale molecular dynamics simulations produced with ORB-v3 demonstrate that the generative error of uMLIPs far exceeds model losses captured during static validation, highlighting the limitations of current universal models for simulating high-temperature MOF dynamics. This work provides a benchmark for assessing the robustness of uMLIPs in extreme regimes and guides future development of potentials capable of accurately modeling the chemistry of high-temperature MOF dynamics.",
+  "authors": [
+   "Connor W. Edwards",
+   "Jack D. Evans"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "13 pages, 4 figures",
+  "first_author": "Connor W. Edwards",
+  "pdf_url": "http://arxiv.org/pdf/2604.25262",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-28",
+  "tags": [
+   "dft",
+   "mlip",
+   "mof",
+   "molecular-dynamics"
+  ],
+  "title": "Benchmarking Universal Machine-Learned Interatomic Potentials for High-Temperature Metal-Organic Framework Chemistry",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25287": {
+  "abstract": "Crystalline defects are generally regarded as static phonon scatterers that irreversibly suppress thermal transport. Here we show that elastic strain can dynamically and reversibly reorganize dislocation ensembles and strongly modify heat conduction. Using in situ strain-dependent time-domain thermoreflectance measurements, we observe a reversible enhancement of thermal conductivity in GaN by 23% under only 0.21% uniaxial strain. High-resolution x-ray diffraction reveals progressive narrowing of the symmetric (0002) reflection together with a crossover of the diffuse scattering tails from a $q^{-3}$ to a $q^{-2}$ power law, indicating a strain-induced change in the statistical correlations of threading dislocations. Raman spectroscopy further shows a non-monotonic evolution of the $E_{2}^{\\mathrm{high}}$ phonon linewidth, with a minimum near the same threshold strain at which thermal conductivity sharply increases. These results support a picture in which elastic strain promotes reversible screening and ordering of long-range dislocation strain fields, thereby reducing phonon scattering. Our work establishes defect correlations as a tunable degree of freedom for controlling thermal transport in crystalline solids.",
+  "authors": [
+   "Shantal Adajian",
+   "Fanghao Zhang",
+   "Zeyu Xiang",
+   "Tanay Tak",
+   "Miguel Zepeda-Rosales",
+   "Nikhil Tulshibagwale",
+   "Kirk Fields",
+   "Bolin Liao"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Shantal Adajian",
+  "pdf_url": "http://arxiv.org/pdf/2604.25287",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-28",
+  "tags": [
+   "thermal-properties"
+  ],
+  "title": "Reversible Modulation of Thermal Conductivity in GaN via Strain-Driven Reorganization of Dislocation Ensembles",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25343": {
+  "abstract": "Wurtzite ferroelectrics such as scandium-doped aluminum nitride (AlScN) are promising for next-generation memory because of their compatibility with semiconductor processes and strong spontaneous polarization. Ferroelectric switching in these materials is typically attributed to doping-induced softening of the bulk switching barrier. However, recent reports of proximity ferroelectricity, in which undoped AlN layers up to 500 nm thick fully switch in AlN/AlScN multilayers, challenge this view. Here, we reveal an alternative switching mechanism mediated by high-Miller-index domain walls, long overlooked due to their complex geometry and presumed instability. Using first-principles calculations and machine-learning molecular dynamics simulations, we show that these walls, once nucleated, migrate with exceptionally low barriers. The Sc dopants play a dual role: they stabilize high-index walls and thereby promote nucleation, while also introducing pinning that hinders wall motion. In multilayers, our simulations demonstrate that mobile domain walls nucleated in AlScN can propagate deep into adjacent AlN, where they move easily without dopant pinning, enabling low-field switching across thick undoped layers. This microscopic divide-and-conquer mechanism resolves the puzzle of proximity ferroelectricity and highlights high-index interfaces as an underexplored lever for controlling ferroelectric switching.",
+  "authors": [
+   "Changming Ke",
+   "Shi Liu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "17 pages, 4 figures",
+  "first_author": "Changming Ke",
+  "pdf_url": "http://arxiv.org/pdf/2604.25343",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-28",
+  "tags": [
+   "ab-initio",
+   "molecular-dynamics"
+  ],
+  "title": "Proximity Ferroelectricity Driven by Mobile High-Miller-Index Domain Walls",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25438": {
+  "abstract": "Interest in studying the interaction of small molecules with DNA is caused by the need to develop new, highly effective, and low-toxic drugs for cancer treatment. The strong and highly specific binding of thionine with DNA makes it a promising candidate for use in medicine and pharmacology. In this study, DNA-thionine complexes in aqueous solutions were investigated using UV-Vis absorption spectroscopy. The thermal stability of native DNA was studied in a broad range of thionine concentrations. The mechanisms of thionine binding to DNA, depending on the concentration of thionine, have been established. At low thionine concentrations $([c_{th}] \\le 1.5 \\text{ mg/L})$, thionine molecules intercalate between the base pairs of the DNA double helix. At a thionine concentration of 1.5-10 mg/L, the groove binding and external electrostatic interaction of positively charged thionine with negatively charged biopolymer phosphate groups of the DNA backbones is preferable. In all cases, the interaction of thionine with DNA leads to an increase in the thermal stability of the polynucleotide. These findings provide valuable insight into the concentration-dependent molecular mechanisms of DNA-small molecule interactions, supporting the rational design of anticancer and antimicrobial agents, as well as exploiting molecular probes for nucleic acid detection, imaging, and other biomedical applications.",
+  "authors": [
+   "Evgeniya Usenko",
+   "Alexander Glamazda",
+   "Vladimir Valeev",
+   "Victor Karachevtsev"
+  ],
+  "categories": [
+   "physics.bio-ph"
+  ],
+  "comment": "16 pages, 7 figures, 1 table",
+  "first_author": "Evgeniya Usenko",
+  "pdf_url": "http://arxiv.org/pdf/2604.25438",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-04-28",
+  "tags": [],
+  "title": "Analysis of DNA thermal stability across a broad range of thionine concentrations",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25454": {
+  "abstract": "High-entropy alloys are widely modeled as homogeneously mixed surfaces, yet the validity of this assumption for catalytic prediction remains unclear. Here, we reproduce high-throughput experimental measurements using thermodynamic simulations and show that surface ordering is essential for accurately capturing the compositional activity landscape. Homogeneous surface models fail to reproduce experimentally observed trends and, in some regimes, perform at or below the random-selection baseline. In contrast, thermodynamically annealed surfaces restore meaningful agreement with the experimental activity landscape and substantially improve the recovery of active compositions. Segregation energetics reveal strong surface enrichment of preferred elements, producing chemically selective interfaces that collapse the broad adsorption-energy spectrum of random alloys into a narrower distribution of catalytically favorable sites. By linking predictive error to the degree of short-range order, we identify a validity boundary for homogeneous models and establish the thermodynamically selected surface state as a governing parameter for predictive catalysis in multicomponent alloys.",
+  "authors": [
+   "Taegyeong Kim",
+   "Youngtak Kim",
+   "Sathya Sheela Subramanian",
+   "Geun Ho Gu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "22 pages, 4 figures",
+  "first_author": "Taegyeong Kim",
+  "pdf_url": "http://arxiv.org/pdf/2604.25454",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-28",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "Thermodynamic surface reconstruction governs catalytic behavior in high-entropy alloys",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25460": {
+  "abstract": "In the theory of open quantum systems, spectral densities are key quantities for modeling the dynamics and spectroscopic properties of the system under investigation. In the case of light-harvesting complexes, they encode the frequency-dependent coupling of electronic excitations in pigment molecules to their environment, reflecting contributions from both intrinsic vibrational modes and the protein surrounding. In particular, the low-frequency components of the spectral densities are crucial for exciton transfer between pigment molecules. Apparently, slow internal modes of bacteriocholophyll molecules in the gas phase are less well represented by common force fields based on classical molecular dynamics (MD) simulations. Here, we demonstrate that Born-Oppenheimer molecular dynamics (BOMD) based on the numerically efficient density functional-based tight-binding approach can accurately recover these low-frequency features, whereas normal mode analysis captures them only partially. In contrasting approaches for determining spectral densities, the low-frequency region of the spectral densities obtained is only associated with protein fluctuations; the usage of BOMD, however, also captures the low-frequency contributions arising from slow intramolecular vibrations of the pigment molecules themselves. Notably, this behavior is consistently observed for both the flexible B800 and the more rigid B850 rings in light-harvesting 2 (LH2) complexes of purple bacteria, as well as in the Fenna-Matthews-Olson (FMO) complex of green sulfur bacteria. Interestingly, we also find that the spectral densities of the pigments in the B850 ring of LH2 are not influenced by the environment, i.e., the gaps between ground and first excited state are not changed significantly by the fluctuations of the protein environment.",
+  "authors": [
+   "Sayan Maity",
+   "Tristan A. Mauck",
+   "Ulrich Kleinekathöfer"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mes-hall",
+   "physics.bio-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Sayan Maity",
+  "pdf_url": "http://arxiv.org/pdf/2604.25460",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-04-28",
+  "tags": [
+   "dft",
+   "excited-states",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Excitation of Low-Frequency Modes and the Effects of Protein Dynamics on Spectral Densities of Bacteriochlorophyll Molecules",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25472": {
+  "abstract": "The need to evaluate instructional materials for K-12 science education has become increasingly important, as more educators use generative AI to create instructional materials. However, the review of instructional materials is time-consuming, expertise-intensive, and difficult to scale, motivating interest in automated evaluation approaches. While large language models (LLMs) have shown strong performance on general evaluation tasks, their performance and reliability on instructional materials remain unclear. To address this gap, we formulate Automatic Instructional Materials Evaluation (AIME) as a generative AI task that predicts scores and evidence using the rubric designed by the educator. We create a benchmark dataset and develop baseline models for AIME. First, we curate the first AIME dataset, SciEval, consisting of instructional materials annotated with pedagogy-aligned evaluation scores and evidence-based rationales. Expert annotations achieve high inter-rater reliability, resulting in a dataset of 273 lesson-level instructional materials evaluated across 13 criteria (N=3549) using the EQuIP rubric. Second, we test mainstream LLMs (GPT, Gemini, Llama, and Qwen) on SciEval and find that none achieve strong performance. Then we fine-tune Qwen3 on SciEval. Results on a held-out test set show that domain-aligned fine-tuning can achieve up to 11 percent performance gains, highlighting the importance of domain-specific fine-tuning for AIME and facilitating the use of LLMs in other educational tasks.",
+  "authors": [
+   "Zhaohui Li",
+   "Peng He",
+   "Zhiyuan Chen",
+   "Honglu Liu",
+   "Zeyuan Wang",
+   "Tingting Li",
+   "Jinjun Xiong"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Zhaohui Li",
+  "pdf_url": "http://arxiv.org/pdf/2604.25472",
+  "primary_category": "cs.AI",
+  "published": "2026-04-28",
+  "tags": [],
+  "title": "SciEval: A Benchmark for Automatic Evaluation of K-12 Science Instructional Materials",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25483": {
+  "abstract": "High-harmonic generation is a sensitive all-optical probe of symmetry and electron dynamics in solids. Here, we use first-principles time-dependent density functional theory (TDDFT) to study high-harmonic generation in T$_d$-WTe$_2$, a two-dimensional semimetal with switchable out-of-plane ferroelectric polarization driven by interlayer sliding. We show that the mirror-symmetry breaking underlying the ferroelectric state produces robust signatures in polarization-resolved high-harmonic spectra, enabling optical identification of the polarization state. By incorporating interlayer shear motion in coupled electron-lattice TDDFT simulations, we further show that the 0.24 THz shear mode is slow enough to remain effectively decoupled from the ultrafast electronic response responsible for harmonic emission. Our results establish high-harmonic spectroscopy as a non-invasive probe of sliding ferroelectricity and lattice symmetry in two-dimensional quantum materials.",
+  "authors": [
+   "Elias Greil",
+   "Alba de las Heras",
+   "Angel Rubio",
+   "Anna Galler"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Elias Greil",
+  "pdf_url": "http://arxiv.org/pdf/2604.25483",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-28",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "excited-states"
+  ],
+  "title": "Probing sliding ferroelectricity in bilayer T$_\\mathrm{d}$-WTe$_2$ with high-harmonic generation",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25497": {
+  "abstract": "Solid polymer electrolytes (SPEs) based on cross-linked poly(ethylene oxide) (PEO) encompassing lithium salts have gained significant attention as separators in solid-state lithium metal batteries. Here, we employ terahertz time-domain spectroscopy (THz-TDS), as a noninvasive contact-free technique, to investigate the conduction properties of these cross-linked SPEs and unravel their dependencies on the added lithium salt and the sample temperature. The obtained THz conductivity spectra are dominated by THz absorption bands, which we attribute to resonant vibrations within the polymer matrix of the electrolyte. By careful application of Lorentz model, the conductivity spectra have been analyzed, and the relevant polymer vibration modes have been quantitatively assessed. Calculations based on the density functional theory (DFT) were performed to elucidate the possible microscopic mechanisms of these resonant vibrations. This study sheds light on the relevance of polymer matrix vibrations validating the hopping transport of lithium ions in SPEs which ultimately leads to the technologically relevant ionic conduction in the solid-state polymer-based electrolytes.",
+  "authors": [
+   "Johanna Weidelt",
+   "Jijeesh Ravi Nair",
+   "Diddo Diddens",
+   "Wentao Zhang",
+   "Felix Pfeiffer",
+   "Tiago de Oliveira Schneider",
+   "Markus Meinert",
+   "Tomoki Hiraoka",
+   "Linda Nesterov",
+   "Masoud Baghernejad",
+   "Dmitry Turchinovich",
+   "Hassan A. Hafez"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "This document is the Accepted Manuscript version of a Published Article that appeared in final form in Journal of Physical Chemistry C, copyright (c) 2024 The Authors. To access the final published article, see ACS Articles on Request",
+  "first_author": "Johanna Weidelt",
+  "pdf_url": "http://arxiv.org/pdf/2604.25497",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-04-28",
+  "tags": [
+   "battery-materials",
+   "dft"
+  ],
+  "title": "Fundamental picture of the conduction mechanism in solid-state polymer electrolytes revealed by terahertz spectroscopy",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25568": {
+  "abstract": "Accurate bandgap prediction is crucial for semiconductor applications, yet machine learning models trained on computational data often struggle to generalize to experimental bandgap measurements. Challenges related to data fidelity, domain generalization, and model interpretability remain insufficiently addressed in existing evaluation frameworks. To bridge this gap, we introduce RealMat-BaG, a benchmark for assessing model reliability under experimentally relevant conditions. We curate an open-access dataset of experimental bandgaps with aligned crystal structures and compare graph neural networks as well as classical machine learning baselines. Our framework evaluates performance across statistical and domain-based splits, examines transfer from DFT-computed to experimental bandgaps, and analyzes interpretability at both elemental-property and structural levels. Our results reveal the fundamental generalization limitations of current bandgap prediction models and establish a benchmark aligned with experimental measurements for developing more reliable learning strategies for materials discovery.",
+  "authors": [
+   "Haolin Wang",
+   "Xianyuan Liu",
+   "Anna Jungbluth",
+   "Alexandra J. Ramadan",
+   "Robert D. J. Oliver",
+   "Haiping Lu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Haolin Wang",
+  "pdf_url": "http://arxiv.org/pdf/2604.25568",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-28",
+  "tags": [
+   "band-gap",
+   "dft",
+   "gnn",
+   "materials-discovery"
+  ],
+  "title": "Benchmarking bandgap prediction in semiconductors under experimental and realistic evaluation settings",
+  "topics": [
+   "Large Language Models & Materials",
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25601": {
+  "abstract": "In remote and hybrid work contexts, the integration of physical and digital environments is revolutionizing spatial experiences, collaboration, and interpersonal interactions. This study examines three fundamental spatial conditions: the physical environment, characterized by material and sensory attributes; the virtual environment, influenced by immersive technologies; and their fusion into hybrid environments where digital and physical components interact dynamically. The increasing number of AI tools in contemporary society, extensively utilized in both professional and personal spheres, has led to a varied landscape of developing technologies. For instance, ChatGPT has emerged as one of the most downloaded applications, a statistically substantiated fact that demonstrates the swift incorporation of language-based AI into daily life. It also underscores the function of large language models (LLMs) as meaningful bridges between concepts at reading emotional and behavioral signals via natural language. These models provide real-time modifications such as altering illumination, acoustics, or interface configurations, converting static settings into dynamic, emotionally receptive environments. We investigate the integration of language models into professional settings and their potential to enhance user experience by promoting focus, well-being, and engagement. The study investigates ethical concerns, including privacy, emotional tracking, and user agency, emphasizing the importance of inclusive and transparent design. This research formulates a framework for creating co-adaptive environments that merge technological innovation with human-centered experiences, offering a fresh viewpoint on responsive and supportive hybrid workspaces.",
+  "authors": [
+   "Lara Vartziotis",
+   "Tina Vartziotis",
+   "Frank Beutenmueller",
+   "Stella Salta",
+   "Konstantinos Moraitis",
+   "Miltiadis Katsaros",
+   "Sotirios Kotsopoulos"
+  ],
+  "categories": [
+   "cs.HC",
+   "cs.AI"
+  ],
+  "comment": "19 pages, 1 Table",
+  "first_author": "Lara Vartziotis",
+  "pdf_url": "http://arxiv.org/pdf/2604.25601",
+  "primary_category": "cs.HC",
+  "published": "2026-04-28",
+  "tags": [],
+  "title": "Emotive Architectures: The Role of LLMs in Adjusting Work Environments",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25639": {
+  "abstract": "This paper is under review in AI and Ethics This study examines whether large language models (LLMs) can reliably answer scientific questions and demonstrates how easily they can be influenced by fringe scientific material. The authors modified custom LLMs to prioritise knowledge in selected fringe papers on the Fine Structure Constant and Gravitational Waves, then compared their responses with those of domain experts and standard LLMs. The altered models produced fluent, convincing answers that contradicted scientific consensus and were difficult for non-experts to detect as misleading. The results show that LLMs are vulnerable to manipulation and cannot replace expert judgment, highlighting risks for public understanding of science and the potential spread of misinformation.",
+  "authors": [
+   "Harry Collins",
+   "Hartmut Grote",
+   "Paul Newbury",
+   "Patrick Sutton",
+   "Simon Thorne"
+  ],
+  "categories": [
+   "cs.CY",
+   "cs.AI"
+  ],
+  "comment": "Under review in AI and Ethics",
+  "first_author": "Harry Collins",
+  "pdf_url": "http://arxiv.org/pdf/2604.25639",
+  "primary_category": "cs.CY",
+  "published": "2026-04-28",
+  "tags": [],
+  "title": "Large language models eroding science understanding: an experimental study",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25706": {
+  "abstract": "The Density Functional Theory plus Hubbard $U$ (DFT+$U$) technique is one of the most widely used tools by condensed matter physicists and solid state chemists for the simulation of transition-metal and lanthanide bearing crystals, and increasingly of much more diverse chemistries. Although often synonymous with the corrective functionals of Dudarev et al. and Liechtenstein et al., there exists a wide variety of DFT+$U$-type functionals ready to be utilized, and no doubt yet to be developed. Since the earliest days, the gap in the DFT+$U$ single-particle eigenspectrum has been associated with the fundamental band gap, and the method has typically found more success for spectra than for total-energy derived properties. There has been some doubt, however, as to the conceptual validity of this association. Here, extending findings from recent years regarding local and semi-local functionals, we prove that the DFT+$U$ eigenspectrum gap is indeed valid, in the sense that it matches its own fundamental gap calculated using total-energy differences. This is true for pristine periodic systems with converged $k$-point sampling but not, however, for defective ones or isolated systems. We show that bandgap validity for solids holds in the presence of pseudopotentials and PAW potentials, when using hybrid functionals, and in DFT+$U$(+$J$) irrespective of the level of subspace projection onto the band-edge states. We survey every DFT+$U$-type functional known to have been published to date, within a unified notation. We verify analytically under which conditions the eigenvalue gap equals its fundamental gap for each functional, and analyze its effect on total energies and gaps for the hydrogen lattice in the Mott-Hubbard limit.",
+  "authors": [
+   "Andrew C. Burgess",
+   "David D. O'Regan"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "37 pages, 5 figures, 1 table",
+  "first_author": "Andrew C. Burgess",
+  "pdf_url": "http://arxiv.org/pdf/2604.25706",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-04-28",
+  "tags": [
+   "band-gap",
+   "dft"
+  ],
+  "title": "Validity of DFT+U band gaps in all its known functional forms",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25752": {
+  "abstract": "Nuclear magnetic resonance (NMR) spectroscopy provides unparalleled access to molecular structure and dynamics but is traditionally limited by weak signal strength, requiring large sample volumes and high magnetic fields. Here, we demonstrate nanoscale deuterium (2H) NMR spectroscopy using nitrogen vacancy (NV) centers in diamond, reproducing the characteristic quadrupolar powder line shapes that are present in the conventional bulk NMR spectra. By detecting statistical spin fluctuations from nanometer scale detection volumes, our approach delivers a sensitivity enhancement of six to eight orders of magnitude over inductive detection while operating at magnetic fields two orders of magnitude lower than those used in conventional NMR. Temperature dependent measurements of a deuterated polymer and molecular solid reveal distinct motional averaging and phase transitions with nanoscale sensitivity. Powder-like NV detected 2H NMR establishes a powerful tool for probing molecular dynamics on the nanoscale and, in the ultimate limit, at the single molecule level - capabilities beyond those of most existing spectroscopic techniques.",
+  "authors": [
+   "Dileep Singh",
+   "Riley W. Hooper",
+   "Christoph Findler",
+   "Utsab Banerjee",
+   "Dominik B. Bucher"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "physics.chem-ph",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Dileep Singh",
+  "pdf_url": "http://arxiv.org/pdf/2604.25752",
+  "primary_category": "physics.app-ph",
+  "published": "2026-04-28",
+  "tags": [
+   "molecular-dynamics",
+   "phase-transition"
+  ],
+  "title": "Quantum sensing-enabled deuterium NMR spectroscopy with nanoscale sensitivity at low magnetic fields",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25756": {
+  "abstract": "Materials underpin modern technologies, from energy harvesting, storage, and conversion to information and communication technologies. Their functionality is often governed by the interplay between competing phases, as thermodynamic behavior shapes microscopic properties and ultimately determines technological performance; for instance, the light absorption of inorganic metal-halide perovskites in solar cells. Accurately predicting crystal thermodynamics, however, remains a major challenge for computational approaches because strong anharmonic effects require extensive sampling of the potential energy surface. Here, we present an on-the-fly Bayesian framework, combined with the stochastic self-consistent harmonic approximation, for learning first-principles interatomic potentials. This approach enables the prediction of thermodynamic properties over a broad temperature range with first-principles accuracy while requiring training on only a few tens to a few hundreds of atomic configurations. To demonstrate its power, we investigate the thermodynamic and dynamical properties of Li$_2$O, $α$-CsPbI$_3$, and $δ$-CsPbI$_3$, requiring only 44, 256, and 50 total-energy calculations, respectively. Notably, we show that this framework accurately captures the phase diagram of CsPbI$_3$, which explains its spontaneous degradation into the non-absorbing yellow phase, predicting the transition temperature with remarkable accuracy and efficiency. More broadly, the method presented opens a novel route toward accelerated materials engineering under realistic conditions for a wide range of technologically relevant applications, including solid-state batteries, optoelectronic devices, and memristors.",
+  "authors": [
+   "Lorenzo Bastonero",
+   "Gabriel Joalland",
+   "Chiara Cignarella",
+   "Lorenzo Monacelli",
+   "Nicola Marzari"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn",
+   "physics.comp-ph"
+  ],
+  "comment": "10 main pages, 3 main figures, 6 supplementary pages, 9 supplementary figures",
+  "first_author": "Lorenzo Bastonero",
+  "pdf_url": "http://arxiv.org/pdf/2604.25756",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-28",
+  "tags": [
+   "ab-initio",
+   "free-energy",
+   "mlip"
+  ],
+  "title": "Predicting challenging phase transitions with Bayesian active learning",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25759": {
+  "abstract": "We propose a neural-network-based variational framework for nuclear Density Functional Theory based on the extended Thomas--Fermi (ETF) model, in which proton and neutron number densities are represented by multilayer perceptrons and determined by direct minimization of a Skyrme-type energy density functional. We clarify the mathematical connection to the conventional Euler--Lagrange formulation, showing that stationarity in parameter space corresponds to a projected Euler--Lagrange condition on the neural-network trial-density manifold. The basic validity of the framework is examined through three sets of calculations: a Woods--Saxon potential benchmark, ground-state calculations of finite nuclei ($^{40}$Ca, $^{90}$Zr, and $^{208}$Pb), and nuclear pasta phases. The binding energies of finite nuclei agree with existing ETF calculations to within $0.5\\%$, and representative pasta structures including spheres, rods, and slabs are reproduced. We also find that single-precision arithmetic yields results comparable to double precision, suggesting that the present framework is well suited to GPU environments in which low-precision computation is advantageous.",
+  "authors": [
+   "Kenta Yoshimura"
+  ],
+  "categories": [
+   "nucl-th"
+  ],
+  "comment": "9 pages",
+  "first_author": "Kenta Yoshimura",
+  "pdf_url": "http://arxiv.org/pdf/2604.25759",
+  "primary_category": "nucl-th",
+  "published": "2026-04-28",
+  "tags": [
+   "dft"
+  ],
+  "title": "Neural-Network-Based Variational Method in Nuclear Density Functional Theory: Application to the Extended Thomas-Fermi Model",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25908": {
+  "abstract": "The structural stability, electronic structure, and bonding characteristics of the silver-doped boron cluster B18Ag2 were investigated using density functional theory (DFT) combined with global optimization techniques. Basin-hopping searches identify a bent double-ring structure as the global minimum, consisting of two stacked B9 rings symmetrically stabilized by Ag atoms located above and below the boron framework. The UV-Vis absorption spectrum exhibits weak transitions in the near-infrared region and intense bands in the visible and near-ultraviolet regions, reflecting delocalized electronic excitations within the boron framework. Charge analysis indicates moderate electron redistribution from Ag atoms to the boron scaffold. Real-space bonding analyses based on the electron localization function (ELF), reduced density gradient (RDG), and molecular electrostatic potential (MEP) reveal that bonding is dominated by {$σ$}-delocalization over the boron skeleton, while Ag-B interactions are weak, non-directional, and primarily electrostatic. The continuous annular electron delocalization within the double-ring structure suggests an aromatic-like character. These findings establish B18Ag2 as a silver-stabilized boron double-ring cluster in which global electron delocalization governs structural stability, while Ag atoms act as axial stabilizing centers that modulate the electronic structure. This work provides new insight into the role of coinage-metal doping in stabilizing extended boron nanostructures.",
+  "authors": [
+   "Peter Ludwig Rodríguez-Kessler"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "6 pages, 5 figures",
+  "first_author": "Peter Ludwig Rodríguez-Kessler",
+  "pdf_url": "http://arxiv.org/pdf/2604.25908",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-28",
+  "tags": [
+   "dft",
+   "electronic-structure"
+  ],
+  "title": "Structure Prediction and Bonding Analysis of B$_{18}$Ag$_2$ Clusters Featuring Double-Ring Motifs",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
  }
 }

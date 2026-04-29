@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25454.html">Thermodynamic surface reconstruction governs catalytic behavior in high-entropy alloys</a></div></td>
+<td>Taegyeong Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25454">2604.25454</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24291.html">Catalytic Enhancement of Coherence Fraction in Noisy Quantum Channels and Characterization of Strictly Incoherent Operations</a></div></td>
 <td>Priyabrata Char et al.</td>
@@ -542,11 +548,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15194.html">CO on a Rh/Fe3O4 single-atom catalyst: high-resolution infrared spectroscopy and near-ambient-pressure scanning tunnelling microscopy</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Nail El Hocine Barama et al.</td>
 <td><a href="http://arxiv.org/abs/2512.15194">2512.15194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21056.html">Better without U: Impact of Selective Hubbard U Correction on Foundational MLIPs</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Thomas Warford et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21056">2601.21056</a></td>
 </tr>
 </tbody></table>

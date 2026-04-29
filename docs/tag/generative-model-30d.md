@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25119.html">Evaluation without Generation: Non-Generative Assessment of Harmful Model Specialization with Applications to CSAM</a></div></td>
+<td>Vinith M. Suriyakumar et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25119">2604.25119</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23758.html">Agentic Fusion of Large Atomic and Language Models to Accelerate Materials Discovery</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Mingze Li et al.</td>
@@ -266,11 +272,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12405.html">Continuous SUN (Stable, Unique, and Novel) Metric for Generative Modeling of Inorganic Crystals</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
 <td>Masahiro Negishi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12405">2510.12405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13213.html">Diffusion Models with Double Guidance: Generate with aggregated datasets</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
-<td>Yanfeng Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13213">2505.13213</a></td>
 </tr>
 </tbody></table>

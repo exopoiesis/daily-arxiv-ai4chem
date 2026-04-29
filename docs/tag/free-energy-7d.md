@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>free-energy — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25215.html">A density-functional perspective on force fields</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Nan Sheng</td>
+<td><a href="http://arxiv.org/abs/2604.25215">2604.25215</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25756.html">Predicting challenging phase transitions with Bayesian active learning</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Lorenzo Bastonero et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25756">2604.25756</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24634.html">Computational Design and Experimental Validation of Photoactive PARP1 Inhibitors</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
@@ -44,29 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20476.html">Restoring the Conical Intersection Topology using Convex Density Functional Theory</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="excited-states-7d.html">excited-states</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Federico Rossi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.20476">2604.20476</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19319.html">An Oracle-Free Quantum Algorithm for Nonadiabatic Quantum Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Joshua Courtney</td>
-<td><a href="http://arxiv.org/abs/2604.19319">2604.19319</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19328.html">Four-layer charge density waves and chirality in CsV$_3$Sb$_5$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Fernando de Juan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19328">2604.19328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19718.html">Direct RNA sequence design under codon constraints using expressive tensor-based secondary structure models</a></div></td>
-<td>Mark Fornace et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19718">2604.19718</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19840.html">Graph-Theoretic Models for the Prediction of Molecular Measurements</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Anna Niane et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19840">2604.19840</a></td>
 </tr>
 </tbody></table>

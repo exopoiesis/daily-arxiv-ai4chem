@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25752.html">Quantum sensing-enabled deuterium NMR spectroscopy with nanoscale sensitivity at low magnetic fields</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Dileep Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25752">2604.25752</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21245.html">Octupole correlation effects on two-neutron transfer intensity in rare-earth nuclei</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Kosuke Nomura</td>
@@ -1496,11 +1502,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03143.html">Ultrafast dynamics of atomic correlated disordering in photoinduced VO$_2$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Wen-Hao Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.03143">2505.03143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01898.html">Atomistic insight into the effects of solute and pressure on phase transformation in titanium alloys</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Huicong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01898">2505.01898</a></td>
 </tr>
 </tbody></table>
