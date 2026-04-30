@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">483 papers</span>
+  <span class="paper-count">484 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26560.html">Unraveling the symmetry of Al5C3N</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Vitalii Shtender et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26560">2604.26560</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26636.html">Revealing magnetism in the distorted kagome $R$Ti$_3$Bi$_4$ ($R$ = Nd, Sm, Gd) via ARPES and XMCD</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>C. Lim et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26636">2604.26636</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25097.html">Determination of the Fermi Energy of Diamond using Photoluminescence Spectral Analysis</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
@@ -2906,11 +2918,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03571.html">Crystal structural evolution of Ru$_3$Sn$_7$ under pressure and its implication on possible electronic changes</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>K. A. Irshad et al.</td>
 <td><a href="http://arxiv.org/abs/2505.03571">2505.03571</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.04961.html">Nonlinear Broadband THz Generation from NV Centers in Bulk Diamond Crystals</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Hani Barhum et al.</td>
-<td><a href="http://arxiv.org/abs/2411.04961">2411.04961</a></td>
 </tr>
 </tbody></table>

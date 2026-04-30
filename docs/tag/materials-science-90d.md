@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26509.html">3D Generation for Embodied AI and Robotic Simulation: A Survey</a></div></td>
+<td>Tianwei Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26509">2604.26509</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26551.html">aim2dat: A Python infrastructure for automated ab initio material modeling and data analysis</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Holger-Dietrich Saßnick et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26551">2604.26551</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24816.html">Trillion-atom molecular dynamics simulations with ab initio accuracy</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Pengfei Suo et al.</td>
@@ -704,17 +716,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00337.html">Smarter AI Through Prompt Engineering: Insights and Case Studies from Data Science Application</a></div></td>
 <td>Snehasish Paul et al.</td>
 <td><a href="http://arxiv.org/abs/2602.00337">2602.00337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21365.html">Small models, big threats: Characterizing safety challenges from low-compute AI models</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Prateek Puri</td>
-<td><a href="http://arxiv.org/abs/2601.21365">2601.21365</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22312.html">SCALAR: Quantifying Structural Hallucination, Consistency, and Reasoning Gaps in Materials Foundation Models</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Can Polat et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22312">2601.22312</a></td>
 </tr>
 </tbody></table>

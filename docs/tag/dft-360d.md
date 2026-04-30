@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2113 papers</span>
+  <span class="paper-count">2119 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26264.html">Accelerated Prediction of Surface Stability and Particle Morphology in Ionic Crystals via Electrostatic Screening</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Sourav Baiju et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26264">2604.26264</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26372.html">Polaron Conductivity in $α$-Fe2O3 Quenched by Adsorbed NO2</a></div></td>
+<td>Tushar K. Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26372">2604.26372</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26428.html">A Theoretical Investigation of the Thermal and Photochemical Mechanisms of Ethylbenzene Dehydrogenation on Rutile TiO$_{2}$(110)</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="photocatalysis-360d.html">photocatalysis</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Nico Yannik Merkt</td>
+<td><a href="http://arxiv.org/abs/2604.26428">2604.26428</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26551.html">aim2dat: A Python infrastructure for automated ab initio material modeling and data analysis</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Holger-Dietrich Saßnick et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26551">2604.26551</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26560.html">Unraveling the symmetry of Al5C3N</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
+<td>Vitalii Shtender et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26560">2604.26560</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26636.html">Revealing magnetism in the distorted kagome $R$Ti$_3$Bi$_4$ ($R$ = Nd, Sm, Gd) via ARPES and XMCD</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
+<td>C. Lim et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26636">2604.26636</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26703.html">A self-evolving agent for explainable diagnosis of DFT-experiment band-gap mismatch</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Yue Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26703">2604.26703</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25093.html">Ultrafast Energy Absorption in Silicon Controlled by Two-Color Double Pulses</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
@@ -92,6 +134,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25908.html">Structure Prediction and Bonding Analysis of B$_{18}$Ag$_2$ Clusters Featuring Double-Ring Motifs</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Peter Ludwig Rodríguez-Kessler</td>
 <td><a href="http://arxiv.org/abs/2604.25908">2604.25908</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26037.html">Accelerating finite-element-based projector augmented-wave density functional theory calculations with scalable GPU-centric computational methods</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Kartick Ramakrishnan et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26037">2604.26037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26071.html">DFT-assisted natural abundance 13C zero-field NMR via optical magnetometry</a></div></td>
+<td>Blake Andrews et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26071">2604.26071</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-27</td>
@@ -12674,23 +12728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02559.html">Anomalous valley Hall effect in monolayer chromium-based triple-Q magnets</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Xiu-Cai Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.02559">2505.02559</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.04961.html">Nonlinear Broadband THz Generation from NV Centers in Bulk Diamond Crystals</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Hani Barhum et al.</td>
-<td><a href="http://arxiv.org/abs/2411.04961">2411.04961</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02067.html">Tilted-axis-cranking covariant density functional theory for the high-spin spectroscopy in $^{69}$Ga</a></div></td>
-<td>Y. P. Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02067">2505.02067</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02240.html">Two-dimensional M2X2 family with emerging semiconducting, semimetallic, and magnetic properties</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Yasin Yekta et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02240">2505.02240</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-generation — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-generation-360d.html">360d</a> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,29 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22757.html">Unveiling Scaling Behaviors in Molecular Language Models: Effects of Model Size, Data, and Representation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="molecular-llm-90d.html">molecular-llm</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Dong Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2601.22757">2601.22757</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05844.html">NEAT: Neighborhood-Guided, Efficient, Autoregressive Set Transformer for 3D Molecular Generation</a></div></td>
-<td>Daniel Rose et al.</td>
-<td><a href="http://arxiv.org/abs/2512.05844">2512.05844</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21583.html">CORDS: Continuous Representations of Discrete Structures</a></div></td>
-<td>Tin Hadži Veljković et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21583">2601.21583</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21669.html">Expected Return Causes Outcome-Level Mode Collapse in Reinforcement Learning and How to Fix It with Inverse Probability Scaling</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Abhijeet Sinha et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21669">2601.21669</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07002.html">MolLIBRA: Genetic Molecular Optimization with Multi-Fingerprint Surrogates and Text-Molecule Aligned Critic</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Masahi Okada et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07002">2602.07002</a></td>
 </tr>
 </tbody></table>

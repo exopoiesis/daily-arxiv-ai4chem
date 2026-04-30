@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">505 papers</span>
+  <span class="paper-count">500 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,6 +50,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25752.html">Quantum sensing-enabled deuterium NMR spectroscopy with nanoscale sensitivity at low magnetic fields</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Dileep Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25752">2604.25752</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26140.html">Solv-eze: Automated Placement of Explicit Water Molecules Using 3D-RISM</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Felipe Silva Carvalho et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26140">2604.26140</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-27</td>
@@ -428,6 +434,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15518.html">Lorentz and CPT violation and the hydrogen and antihydrogen molecular ions III -- rovibrational spectrum and the non-minimal SME</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Graham M Shore</td>
 <td><a href="http://arxiv.org/abs/2604.15518">2604.15518</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25941.html">Molecular Dynamics Force Field Genetic Optimization for Tri-n-butyl Phosphate Liquid</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Faranak Hatami et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25941">2604.25941</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-15</td>
@@ -3002,47 +3014,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00311.html">Predicting the hydrogen bond strength from water reorientation dynamics at short timescales</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Frederik Zysk et al.</td>
 <td><a href="http://arxiv.org/abs/2602.00311">2602.00311</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.01431.html">How simple can you go? An off-the-shelf transformer approach to molecular dynamics</a></div></td>
-<td>Max Eissler et al.</td>
-<td><a href="http://arxiv.org/abs/2503.01431">2503.01431</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16798.html">The seeding method: A test case for classical nucleation theory in small systems</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Thomas Philippe et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16798">2511.16798</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21147.html">Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Kevin Han et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21147">2601.21147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21216.html">Multiple binding modes of AKT on PIP$_3$-containing membranes</a></div></td>
-<td>Yuki Nakagaki et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21216">2601.21216</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21311.html">Dynamically training machine-learning-based force fields for strongly anharmonic materials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Martin Callsen et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21311">2601.21311</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22102.html">Integrability properties and stochastic McKean-Vlasov dynamics with singular Lennard-Jones drift: a mesoscale regularization</a></div></td>
-<td>Ernesto M. Greco et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22102">2601.22102</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22327.html">Molecular Representations in Implicit Functional Space via Hyper-Networks</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Zehong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22327">2601.22327</a></td>
 </tr>
 </tbody></table>

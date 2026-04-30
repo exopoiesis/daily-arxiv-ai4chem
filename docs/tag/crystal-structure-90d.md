@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26560.html">Unraveling the symmetry of Al5C3N</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Vitalii Shtender et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26560">2604.26560</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23921.html">Crystal structure prediction using graph neural combinatorial optimization</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Stavros Gerolymatos et al.</td>
@@ -512,11 +518,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00756.html">A New Workflow for Materials Discovery Bridging the Gap Between Experimental Databases and Graph Neural Networks</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="gnn-90d.html">gnn</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Brandon Schoener et al.</td>
 <td><a href="http://arxiv.org/abs/2602.00756">2602.00756</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22009.html">MEIDNet: Multimodal generative AI framework for inverse materials design</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="chemical-space-90d.html">chemical-space</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Anand Babu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22009">2601.22009</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">140 papers</span>
+  <span class="paper-count">139 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26560.html">Unraveling the symmetry of Al5C3N</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Vitalii Shtender et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26560">2604.26560</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26636.html">Revealing magnetism in the distorted kagome $R$Ti$_3$Bi$_4$ ($R$ = Nd, Sm, Gd) via ARPES and XMCD</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>C. Lim et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26636">2604.26636</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25097.html">Determination of the Fermi Energy of Diamond using Photoluminescence Spectral Analysis</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
@@ -836,23 +848,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00251.html">Enhanced detection of circularly polarized photons with topological materials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Hamideh Sharifpour et al.</td>
 <td><a href="http://arxiv.org/abs/2602.00251">2602.00251</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05756.html">Novel Transformations of PbTiO3 with Pressure and Temperature</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Husam Farraj et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05756">2511.05756</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21228.html">One-Dimensional Electronic States in a Moiré Superlattice of Twisted Bilayer WTe2</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Takuto Kawakami et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21228">2601.21228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22009.html">MEIDNet: Multimodal generative AI framework for inverse materials design</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="chemical-space-90d.html">chemical-space</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Anand Babu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22009">2601.22009</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26428.html">A Theoretical Investigation of the Thermal and Photochemical Mechanisms of Ethylbenzene Dehydrogenation on Rutile TiO$_{2}$(110)</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="photocatalysis-360d.html">photocatalysis</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Nico Yannik Merkt</td>
+<td><a href="http://arxiv.org/abs/2604.26428">2604.26428</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25093.html">Ultrafast Energy Absorption in Silicon Controlled by Two-Color Double Pulses</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Eiyu S. Gushiken et al.</td>
@@ -1358,11 +1364,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03355.html">Simulation of Pump-Push Molecular Dynamics in the Heptazine-H2O Complex</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Sebastian V. Pios et al.</td>
 <td><a href="http://arxiv.org/abs/2505.03355">2505.03355</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02143.html">Construction of First Principle Based Adiabatic and Diabatic Hamiltonian for TiO$_6^{8-}$ unit of BaTiO$_3$ Crystal: Photoemission Spectra and Ferroelectricity</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Mantu Kumar Sah et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02143">2505.02143</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,6 +50,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25752.html">Quantum sensing-enabled deuterium NMR spectroscopy with nanoscale sensitivity at low magnetic fields</a></div><div class="paper-tags"><a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>Dileep Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25752">2604.25752</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26140.html">Solv-eze: Automated Placement of Explicit Water Molecules Using 3D-RISM</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Felipe Silva Carvalho et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26140">2604.26140</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-27</td>
@@ -428,6 +434,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15518.html">Lorentz and CPT violation and the hydrogen and antihydrogen molecular ions III -- rovibrational spectrum and the non-minimal SME</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
 <td>Graham M Shore</td>
 <td><a href="http://arxiv.org/abs/2604.15518">2604.15518</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25941.html">Molecular Dynamics Force Field Genetic Optimization for Tri-n-butyl Phosphate Liquid</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
+<td>Faranak Hatami et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25941">2604.25941</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-15</td>
@@ -926,77 +938,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29682.html">Anisotropy-induced Inhomogeneous Melting in Finite Dust Clusters</a></div></td>
 <td>Sushree Monalisha Sahu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29682">2603.29682</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12002.html">Worldvolume Hybrid Monte Carlo algorithm for group manifolds</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Masafumi Fukuma</td>
-<td><a href="http://arxiv.org/abs/2506.12002">2506.12002</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21290.html">Molecular motion at the experimental glass transition</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Romain Simon et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21290">2506.21290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20026.html">II. Temperature trends in the properties of simple monohydric alcohols. Molecular dynamics simulations of united atom UAMI-EW model</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>M. Aguilar et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20026">2603.20026</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20032.html">Surfactant solutions confined in homogeneous and Janus-like slits</a></div></td>
-<td>T. Staszewski et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20032">2603.20032</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20040.html">Pressure effects in the properties of simple monohydric alcohols. Lessons from molecular dynamics simulations of united atom type UAM-EW model</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>M. Aguilar et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20040">2603.20040</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26151.html">Geometric Phase Effect in Thermodynamic Properties and in the Imaginary-Time Multi-Electronic-State Path Integral Formulation</a></div></td>
-<td>Yu Zhai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26151">2603.26151</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28012.html">A Comparative Study of Molecular Dynamics Approaches for Simulating Ionic Conductivity in Solid Lithium Electrolytes</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Dounia Shaaban Kabakibo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28012">2603.28012</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28131.html">$f_0(980)$ production from $K\bar{K}$ coalescence in pp collisions at $\sqrt{s}=5.02$ TeV within UrQMD</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Phacharatouch Chaimongkon et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28131">2603.28131</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28461.html">Oxygen as a dual function regulator in MoS2 CVD synthesis: enhancing precursor evaporation while modulating reaction kinetics</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Keerthana S Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28461">2603.28461</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28659.html">Phenol release from pNIPAM hydrogels: Scaling Molecular Dynamics simulations with Dynamical Density Functional Theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
-<td>H. A. Pérez-Ramírez et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28659">2603.28659</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28927.html">Hydrogen-helium immiscibility boundary in planets</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Xiaoyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28927">2603.28927</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29027.html">Temporal reversibility of a fluid mixture under concentration gradient</a></div></td>
-<td>O. Politano et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29027">2603.29027</a></td>
 </tr>
 </tbody></table>

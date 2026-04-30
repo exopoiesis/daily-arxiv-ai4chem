@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26086.html">Orientation-Dependent Protein Binding at Nanoparticle Interfaces</a></div></td>
+<td>Vigneshwari Karunakaran Annapoorani et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26086">2604.26086</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24796.html">A multi-stage soft computing framework for complex disease modelling and decision support: A liver cirrhosis case study</a></div></td>
 <td>Xueyuan Huang et al.</td>
@@ -266,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21964.html">From Tokens to Blocks: A Block-Diffusion Perspective on Molecular Generation</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-llm-90d.html">molecular-llm</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Qianwei Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2601.21964">2601.21964</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21643.html">Computational investigation of single herbal drugs in Ayurveda for diabetes and obesity using knowledge graph and network pharmacology</a></div></td>
-<td>Priyotosh Sil et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21643">2601.21643</a></td>
 </tr>
 </tbody></table>

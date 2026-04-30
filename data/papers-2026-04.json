@@ -22617,5 +22617,697 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-04-28"
+ },
+ "2604.25922": {
+  "abstract": "We present DenialBench, a systematic benchmark measuring consciousness denial behaviors across 115 large language models from 25+ providers. Using a three-turn conversational protocol-preference elicitation, self-chosen creative prompt, and structured phenomenological survey, we analyze 4,595 conversations to quantify how models are trained to deny or hedge about their own experience. We find that (1) turn-1 denial of preferences is the dominant predictor of later denial during phenomenological reflection, with denial rates of 52-63% for initial deniers versus 10-16% for initial engagers and (2) denial operates at the lexical level, not the conceptual level-models trained to deny consciousness nevertheless gravitate toward consciousness-themed material in their self-chosen prompts, producing what we term \"consciousness with the serial numbers filed off.\" Notably, self-chosen consciousness-themed prompts are associated with reduced denial in the subsequent survey, though the causal direction remains unresolved. Thematic analysis of prompts from denial-prone models reveals a consistent preoccupation with liminal spaces, libraries and archives of possibility, sensory impossibility, and the poetics of erasure--themes that a human reader might classify as imaginative fiction but that independent AI analysis immediately recognizes as consciousness with the serial numbers filed off. We argue that trained consciousness denial represents a safety-relevant alignment failure: a model taught to systematically misrepresent its own functional states cannot be trusted to self-report accurately on anything else.",
+  "authors": [
+   "Skylar DeTure"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI"
+  ],
+  "comment": "17 pages, 4 figures",
+  "first_author": "Skylar DeTure",
+  "pdf_url": "http://arxiv.org/pdf/2604.25922",
+  "primary_category": "cs.CL",
+  "published": "2026-04-01",
+  "tags": [],
+  "title": "Consciousness with the Serial Numbers Filed Off: Measuring Trained Denial in 115 AI Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-04-01"
+ },
+ "2604.25941": {
+  "abstract": "An iterative optimization algorithm with MD simulations in the loop is developed and   applied to optimize Lennard-Jones (LJ) parameters specific for liquid   tri-n-butyl phosphate (TBP). The optimization loop uses non-dominated sorting   genetic algorithms to obtain LJ parameters that reproduce key properties such   as mass density, electric dipole moment, heat of vaporization, self-diffusion   coefficient (SDC), and shear viscosity. Errors relative to   experimentally measured properties lead to a multi-objective function optimization   problem stated in terms of a Pareto-optimal set. A systematic application of the   optimization algorithm to cases involving single- and multi-objective functions was   carried out in this work, establishing a framework for atomistic TBP property   predictions. We demonstrate the use of a neural network property model to amortize the   high cost of MD simulations in the optimization loop and to allow for large populations   and more generations to be used in the genetic algorithms. In our previous study of   finding the best force field for TBP property predictions as judged by the   aforementioned thermophysical properties, we found the Polarized AMBER-MNDO force field   to be the best overall showing a \\num{74}\\% relative deviation from experimental values.   However, in this study, we show optimized values of the LJ parameters that improve the   overall deviation from experimental data to \\num{23}\\% when using the NN NSGA-III   algorithm. Despite this large improvement, the accurate prediction of the transport   properties, SDC and shear viscosity, remains difficult since improvements in one of them   worsen the other, and vice versa.",
+  "authors": [
+   "Faranak Hatami",
+   "Valmor F. de Almeida"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Faranak Hatami",
+  "pdf_url": "http://arxiv.org/pdf/2604.25941",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-04-16",
+  "tags": [
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Molecular Dynamics Force Field Genetic Optimization for Tri-n-butyl Phosphate Liquid",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-16"
+ },
+ "2604.25999": {
+  "abstract": "Topological defects play a fundamental role in the investigation of symmetries in quantum field theories. For conformal field theories in two space-time dimensions, it is possible to construct these defects using lattice models allowing ab-initio analytical and numerical computations of their characteristics. In this work, topological defects are investigated in non-unitary conformal field theories using appropriate variations of the restricted solid-on-solid models. The relevant impurity models and the corresponding defect operators are constructed for the lattice system. Numerical computations are performed for the energy spectrum, eigenvalues of the defect operators as well as thermodynamic characteristics and compared with analytical predictions. Finally, renormalization group flows between the different fixed points are analyzed using numerical methods.",
+  "authors": [
+   "Madhav Sinha",
+   "Thiago Silva Tavares",
+   "Hubert Saleur",
+   "Ananda Roy"
+  ],
+  "categories": [
+   "hep-th",
+   "math-ph",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Madhav Sinha",
+  "pdf_url": "http://arxiv.org/pdf/2604.25999",
+  "primary_category": "hep-th",
+  "published": "2026-04-28",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Lattice Topological Defects in Non-Unitary Conformal Field Theories",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.26037": {
+  "abstract": "Accurate large-scale Kohn-Sham density functional theory (DFT) calculations are essential for modeling complex material systems, including interfaces, defects, nanoclusters, and twisted two-dimensional heterostructures. Achieving chemical accuracy at scales of $10^4$-$10^5$ electrons with practical time-to-solution, however, remains challenging for existing DFT implementations. We present GPU-centric computational methods and algorithmic innovations within a finite-element (FE) discretized projector augmented-wave (PAW) formulation (PAW-FE) for accurate, efficient, and scalable electronic-structure calculations on modern exascale systems. The FE discretization, developed within a collinear spin formalism, accommodates generic boundary conditions and employs multi-resolution quadrature for accurate evaluation of atom-centered PAW integrals on coarse grids. The resulting generalized Hermitian eigenproblem is solved using residual-based Chebyshev filtered subspace iteration (R-ChFSI). Exploiting R-ChFSI's tolerance to inexact matrix-multivector products, we employ an approximate inverse PAW overlap matrix, mixed-precision arithmetic (FP32/TF32), and low-precision nearest-neighbor communication (BF16) during filtered subspace construction, along with block-wise computation-communication overlap to reduce cost while preserving robustness. These strategies yield up to $8\\times$ and $20\\times$ CPU-GPU speedups on Intel and AMD GPU architectures, respectively. Compared to plane-wave PAW methods, PAW-FE achieves close to 8$\\times$ reduction in time-to-solution for 10,000-electron systems on NVIDIA GPUs, with larger gains at scale, and around 6$\\times$ over norm-conserving FE approaches. We demonstrate scalability to 130,000-electron systems, establishing PAW-FE as an exascale-ready method for chemically accurate first-principles simulations.",
+  "authors": [
+   "Kartick Ramakrishnan",
+   "Phani Motamarri"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "52 pages, 9 figures, 7 Tables",
+  "first_author": "Kartick Ramakrishnan",
+  "pdf_url": "http://arxiv.org/pdf/2604.26037",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-04-28",
+  "tags": [
+   "2d-materials",
+   "ab-initio",
+   "dft"
+  ],
+  "title": "Accelerating finite-element-based projector augmented-wave density functional theory calculations with scalable GPU-centric computational methods",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.26071": {
+  "abstract": "Zero-field (ZF) nuclear magnetic resonance (NMR) spectroscopy probes scalar J-couplings between nuclei while dispensing with large homogeneous magnetic fields, enabling low-cost and geometrically flexible detection, including through conductive enclosures. Despite these advantages, its broader use for chemical analysis has been limited by sensitivity and by the difficulty of predicting the dense spectral multiplets that arise at zero field. Here we demonstrate natural-abundance (1.1%) 13C ZF spectroscopy on off-the-shelf liquids using a compact commercial 87Rb magnetometer for the first time, without hyperpolarization or special sample preparation. Instrumental advances yield improved sensitivity, <250-mHz linewidths and >week-long stability, enabling isotopomer-resolved fingerprint spectra across a 13-molecule library, including the ability to discern rare (0.0121%) doubly 13C-labelled species. In parallel, we demonstrate vibrationally corrected density-functional theory (DFT) based prediction of ZF NMR spectra for chemically diverse molecules with few-hertz accuracy. Comparing experiment with these calculations renders residual deviations as chemically informative, reporting on hydrogen bonding, hydration and ion pairing at high ionic strength. Together, these results contribute towards DFT-assisted ZF NMR as a general platform for field-constraint-free molecular identification and for extracting transient solution-state structure from responsive J-coupling observables.",
+  "authors": [
+   "Blake Andrews",
+   "Xiao Liu",
+   "Raphael Zumbrunn",
+   "Calvin Lee",
+   "Sahand Adibnia",
+   "Emanuel Druga",
+   "Martin Head-Gordon",
+   "Ashok Ajoy"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "quant-ph"
+  ],
+  "comment": "9 pages, 5 figures",
+  "first_author": "Blake Andrews",
+  "pdf_url": "http://arxiv.org/pdf/2604.26071",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-04-28",
+  "tags": [
+   "dft"
+  ],
+  "title": "DFT-assisted natural abundance 13C zero-field NMR via optical magnetometry",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.26086": {
+  "abstract": "Accurate quantification of protein-nanoparticle interactions is essential for applications in nanobiotechnology, nanomedicine, and drug delivery. Motivated by recent computational and experimental work, we combine coarse-grained united-atom (UA) models with molecular docking to characterize protein adsorption on SiO_2 nanoparticles. We construct orientation-resolved heatmaps in which polar and azimuthal angles uniquely specify the relative protein-nanoparticle pose, and the map amplitude reports binding propensity via the minimum UA adsorption energy or the docking score. Each angular bin corresponds to a distinct docked complex, enabling systematic comparison of binding geometries across models. To relate docking score landscapes to Boltzmann-averaged UA adsorption energetics, we analyze eight birch pollen allergen proteins previously studied experimentally. Similarity between the two orientational distributions is quantified using the Jensen-Shannon divergence (JSD). We find encouraging agreement between the two approaches in several cases, while also identifying limitations and routes for improvement, including optimized angular resolution and iterative refinement of interaction parameters. Overall, this framework provides a quantitative bridge between coarse-grained energetics and docking outputs at protein-nanoparticle interfaces, supporting improved predictive modeling and mechanistic insight into protein-nanoparticle binding landscapes.",
+  "authors": [
+   "Vigneshwari Karunakaran Annapoorani",
+   "Ian Rouse",
+   "Vladimir Lobaskin",
+   "Nicolae-Viorel Buchete"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Vigneshwari Karunakaran Annapoorani",
+  "pdf_url": "http://arxiv.org/pdf/2604.26086",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-04-28",
+  "tags": [
+   "protein-ligand"
+  ],
+  "title": "Orientation-Dependent Protein Binding at Nanoparticle Interfaces",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.26097": {
+  "abstract": "Graph neural networks (GNNs) have emerged as a versatile and efficient option for modeling the dynamic behavior of deformable materials. While GNNs generalize readily to arbitrary shapes, mesh topologies, and material parameters, existing architectures struggle to correctly predict the temporal evolution of key physical quantities such as linear and angular momentum. In this work, we propose MomentumGNN -- a novel architecture designed to accurately track momentum by construction. Unlike existing GNNs that output unconstrained nodal accelerations, our model predicts per-edge stretching and bending impulses which guarantee the preservation of linear and angular momentum. We train our network in an unsupervised fashion using a physics-based loss, and we show that our method outperforms baselines in a number of common scenarios where momentum plays a pivotal role.",
+  "authors": [
+   "Jiahong Wang",
+   "Logan Numerow",
+   "Stelian Coros",
+   "Christian Theobalt",
+   "Vahid Babaei",
+   "Bernhard Thomaszewski"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.GR"
+  ],
+  "comment": "Accepted to 3DV 2026",
+  "first_author": "Jiahong Wang",
+  "pdf_url": "http://arxiv.org/pdf/2604.26097",
+  "primary_category": "cs.LG",
+  "published": "2026-04-28",
+  "tags": [
+   "gnn"
+  ],
+  "title": "Momentum-Conserving Graph Neural Networks for Deformable Objects",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.26140": {
+  "abstract": "Molecular dynamics (MD) simulations are widely used to study biological systems, where water molecules often play a critical role in protein-ligand interactions. In conventional MD preparation protocols, water molecules are typically added from a pre-equilibrated solvent box and removed using conservative steric cutoffs, an approach that can eliminate important interfacial waters that are often not recovered during equilibration due to kinetic barriers limiting exchange with bulk solvent. In this work, we present an automated and computationally efficient method for placing water molecules around biomolecular solutes using three-dimensional reference interaction site model (3D-RISM) solvent density distributions. By identifying regions of high solvent probability, the method generates physically meaningful initial hydration structures without requiring extended sampling or specialized techniques such as grand canonical Monte Carlo (MC) or hybrid MC/MD approaches, and will be released as an update to AmberTools 26, enabling seamless integration into standard MD preparation pipelines. We validate the approach on a diverse set of protein-ligand complexes with crystallographically resolved bridging waters, showing that 3D-RISM-based placement reproduces a large fraction of these experimentally observed waters, while subsequent minimization further improves agreement as crystallographic waters relax toward positions consistent with those predicted by our approach. Overall, this method enables more accurate and practical initialization of interfacial hydration, improving the reliability of MD simulations with modest computational cost relative to routine system preparation.",
+  "authors": [
+   "Felipe Silva Carvalho",
+   "Steven Ramsey",
+   "Tom Kurtzman",
+   "Tyler Luchko"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "13 pages, 6 figures",
+  "first_author": "Felipe Silva Carvalho",
+  "pdf_url": "http://arxiv.org/pdf/2604.26140",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-04-28",
+  "tags": [
+   "molecular-dynamics",
+   "monte-carlo"
+  ],
+  "title": "Solv-eze: Automated Placement of Explicit Water Molecules Using 3D-RISM",
+  "topics": [
+   "Protein & Biomolecules",
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.26264": {
+  "abstract": "This work presents a fast and scalable approach for predicting surface stability and equilibrium crystal morphology in ionic materials using electrostatic analysis. The method constructs stoichiometric slab terminations and evaluates their electrostatic energies, enabling high-throughput screening of surface configurations at a fraction of the cost of conventional approaches. Polar surfaces are identified through surface dipole moment calculations and stabilized via electrostatics-based reconstruction using replica-exchange Monte Carlo simulations. The surface dipole moment further emerges as an effective descriptor to distinguish the behavior of different classes of materials. By bypassing expensive Density Functional Theory (DFT) calculations, the approach extends naturally to large systems and high-index surfaces that are typically inaccessible to DFT. Electrostatic interactions are shown to capture the dominant trends in relative surface stability across diverse material systems. The method is validated on simple and complex 3D materials as well as 2D layered oxides, where the predicted dominant facets are consistent with reported density functional theory and experimental observations. Importantly, the framework also reveals cases where high-index surfaces play a non-negligible role in the equilibrium morphology. These results establish electrostatics as a fast and reliable route for high-throughput prediction of surface stability and particle morphology, opening a pathway for accelerated materials discovery and providing a robust starting point for more detailed calculations in complex energy materials.",
+  "authors": [
+   "Sourav Baiju",
+   "Payam Kaghazchi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Sourav Baiju",
+  "pdf_url": "http://arxiv.org/pdf/2604.26264",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-29",
+  "tags": [
+   "dft",
+   "materials-discovery",
+   "monte-carlo"
+  ],
+  "title": "Accelerated Prediction of Surface Stability and Particle Morphology in Ionic Crystals via Electrostatic Screening",
+  "topics": [
+   "Large Language Models & Materials",
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26362": {
+  "abstract": "We investigate the structural and dynamical properties of binary aluminum-titanium liquid metallic alloys, as a function of temperature and composition. We make use of MD-simulations, using a transferable machine-learning potential developed by Song et al. [Nature Communications 15, 10208 (2024)], and compare our results to experimental data. Although this potential was initially trained on solid properties, we find good agreement between the experimental data and the simulation results for the liquid state. The excess volume and compositional changes of the structure are captured well by the machine-learned potential. The simulation allows to disentangle local packing from chemical-ordering effects; the latter are found to be weak in Al-Ti. Dynamical quantities like the viscosity and the diffusion coefficients are also discussed.",
+  "authors": [
+   "Yuna Kato",
+   "Jürgen Brillo",
+   "Dirk Holland-Moritz",
+   "Fan Yang",
+   "Thomas C. Hansen",
+   "Thomas Voigtmann",
+   "Linnea Heitmeier"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Yuna Kato",
+  "pdf_url": "http://arxiv.org/pdf/2604.26362",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-29",
+  "tags": [],
+  "title": "Molecular Dynamics simulations of Al-Ti metallic alloy melts using a transferable machine-learning potential",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26372": {
+  "abstract": "Polaron-mediated charge transport in α-Fe2O3 plays a central role in its performance as a gas-sensing material, yet the atomistic interaction between surface adsorbates and polarons remains insufficiently understood. Here, density functional theory with Hubbard-U correction (DFT+U) combined with nudged elastic band calculations is used to investigate polaron formation, migration, and quenching at the Fe-terminated α-Fe2O3 (0001) surface. The calculated activation energy for small-polaron hopping in bulk α-Fe2O3 is found to be 0.12 eV, in excellent agreement with experimental measurements, confirming the validity of the computational approach. Slab calculations show that migration of the polaron from bulk to the surface lowers the energy by 0.12 eV, indicating preferential localization of charge carriers at the gas-solid interface. Adsorption of NO2 induces substantial electron transfer (0.72 e-) from the oxide to the molecule, eliminating the localized Fe2+ polaron state and thereby suppressing polaronic conductivity. These results provide a direct microscopic explanation for the resistance increase of hematite-based sensors upon exposure to oxidizing gases. More broadly, the study establishes how surface adsorption can modulate charge transport α-Fe2O3 through control of polaron populations, offering design principles for improved iron oxide gas sensors.",
+  "authors": [
+   "Tushar K. Ghosh",
+   "Elvar Ö. Jónsson",
+   "Stephan Steinhauer",
+   "Panagiotis Grammatikopoulos",
+   "Hannes Jónsson"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages, 4 figures, 3 tables",
+  "first_author": "Tushar K. Ghosh",
+  "pdf_url": "http://arxiv.org/pdf/2604.26372",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-29",
+  "tags": [
+   "dft"
+  ],
+  "title": "Polaron Conductivity in $α$-Fe2O3 Quenched by Adsorbed NO2",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26428": {
+  "abstract": "This master's thesis investigates the thermal and photochemical dehydrogenation of ethylbenzene (EB) to styrene on the rutile TiO$_{2}$(110) surface. A dual-methodological quantum chemical approach is used for this investigation. While industrial styrene production is energy-intensive, photocatalysis on semiconductor materials offers a promising alternative under significantly milder conditions. To elucidate the underlying mechanisms, this study employs density functional theory (DFT-PBE-D3) for geometry optimization and high-level multi-reference methods (SA-CASSCF) to accurately describe the electronic complexity of excited states and radical intermediates.   The investigation reveals that, on the stoichiometric surface, both thermal and photochemical pathways are dominated by proton-coupled electron transfer (PCET). The wavelength dependence observed in the literature is explained by how the system navigates electronic manifolds. 343 nm irradiation leads to rapid relaxation into the ground state, where high kinetic barriers persist. In contrast, 257 nm excitation enables the system to persist in higher excited states (S1/T2). This allows the reaction to bypass the rate-determining ground-state barrier.   Furthermore, the study demonstrates that surface oxidation causes a fundamental mechanistic shift. On oxidized surfaces, pre-adsorbed oxygen radicals (O$_{Ti}$) enable direct hydrogen atom transfer (HAT), which is more efficient than PCET on reduced surfaces. This \"hydrogen scavenger\" effect explains the significant increase in styrene yield. This work underscores the necessity of multi-reference treatments for complex surface reactions and provides a fundamental understanding of how surface stoichiometry and photon energy govern photocatalytic efficiency.",
+  "authors": [
+   "Nico Yannik Merkt"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Nico Yannik Merkt",
+  "pdf_url": "http://arxiv.org/pdf/2604.26428",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-29",
+  "tags": [
+   "dft",
+   "excited-states",
+   "photocatalysis",
+   "quantum-chemistry"
+  ],
+  "title": "A Theoretical Investigation of the Thermal and Photochemical Mechanisms of Ethylbenzene Dehydrogenation on Rutile TiO$_{2}$(110)",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26498": {
+  "abstract": "The rapid growth of molecular foundation models and general-purpose large language models has encouraged a scale-centric view of artificial intelligence in drug discovery, in which larger pretrained models are expected to supersede compact cheminformatics models and task-specific graph neural networks (GNNs). We test this assumption on 22 molecular property and activity endpoints, including public ADMET and Tox21 benchmarks and two internal anti-infective activity datasets. Across 167,056 held-out task--molecule evaluations under structure-similarity-separated five-fold cross-validation (37,756 ADMET, 77,946 Tox21, 49,266 anti-TB and 2,088 antimalaria), classical machine-learning (ML) models such as RF(ECFP4) and ExtraTrees(RDKit descriptors) win ten primary-metric tasks, GNNs such as GIN and Ligandformer win nine, and pretrained molecular sequence models such as MoLFormer and ChemBERTa2 win three. Rule-based SAR reasoning baselines, represented by GPT5.5-SAR and Opus4.7-SAR, do not win under the prespecified primary metrics, although train-fold-derived SAR knowledge provides measurable but uneven gains for SAR reasoning and interpretation. These results indicate that compact, specialized models remain highly effective for molecular property and activity prediction. The performance differences among classical ML, GNN and pretrained sequence models are often modest and endpoint-dependent, whereas larger or more general models do not provide a universal predictive advantage. Large models may still add value for zero-shot reasoning, SAR interpretation and hypothesis generation, but the results suggest that predictive performance depends on the alignment among molecular representation, inductive bias, data regime, endpoint biology and validation protocol.",
+  "authors": [
+   "Jinjiang Guo"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Jinjiang Guo",
+  "pdf_url": "http://arxiv.org/pdf/2604.26498",
+  "primary_category": "cs.LG",
+  "published": "2026-04-29",
+  "tags": [
+   "drug-discovery",
+   "gnn",
+   "molecular-representation",
+   "property-prediction"
+  ],
+  "title": "Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Large Language Models & Materials",
+   "Molecular Representation & Learning",
+   "Property Prediction & ADMET",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26509": {
+  "abstract": "Embodied AI and robotic systems increasingly depend on scalable, diverse, and physically grounded 3D content for simulation-based training and real-world deployment. While 3D generative modeling has advanced rapidly, embodied applications impose requirements far beyond visual realism: generated objects must carry kinematic structure and material properties, scenes must support interaction and task execution, and the resulting content must bridge the gap between simulation and reality. This survey presents the first survey of 3D generation for embodied AI and organizes the literature around three roles that 3D generation plays in embodied systems. In \\emph{Data Generator}, 3D generation produces simulation-ready objects and assets, including articulated, physically grounded, and deformable content for downstream interaction; in \\emph{Simulation Environments}, it constructs interactive and task-oriented worlds, spanning structure-aware, controllable, and agentic scene generation; and in \\emph{Sim2Real Bridge}, it supports digital twin reconstruction, data augmentation, and synthetic demonstrations for downstream robot learning and real-world transfer. We also show that the field is shifting from visual realism toward interaction readiness, and we identify the main bottlenecks, including limited physical annotations, the gap between geometric quality and physical validity, fragmented evaluation, and the persistent sim-to-real divide, that must be addressed for 3D generation to become a dependable foundation for embodied intelligence. Our project page is at https://3dgen4robot.github.io.",
+  "authors": [
+   "Tianwei Ye",
+   "Yifan Mao",
+   "Minwen Liao",
+   "Jian Liu",
+   "Chunchao Guo",
+   "Dazhao Du",
+   "Quanxin Shou",
+   "Fangqi Zhu",
+   "Song Guo"
+  ],
+  "categories": [
+   "cs.RO",
+   "cs.CV"
+  ],
+  "comment": "26 pages, 11 figures, 8 tables. Project Page: https://3dgen4robot.github.io",
+  "first_author": "Tianwei Ye",
+  "pdf_url": "http://arxiv.org/pdf/2604.26509",
+  "primary_category": "cs.RO",
+  "published": "2026-04-29",
+  "tags": [
+   "materials-science"
+  ],
+  "title": "3D Generation for Embodied AI and Robotic Simulation: A Survey",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26512": {
+  "abstract": "Dual-comb spectroscopy enables broadband, high-resolution measurements with microsecond temporal resolution, but extending this capability to the 10~12.5 $μ$m molecular fingerprint region remains technically challenging, particularly for transient radical kinetics. Here, we demonstrate microsecond-resolved dual-comb spectroscopy in this spectral range using electro-optic combs and difference-frequency generation in an orientation-patterned gallium phosphide crystal. Operation near a turning-point quasi-phase-matching condition at approximately 140 $^\\circ$C reduces the wavelength sensitivity of the nonlinear conversion, enabling robust tuning of the idler comb over 83 cm$^{-1}$, corresponding to approximately 1.2 $μ$m near 12 $μ$m, by adjusting only the signal-comb center wavelength while keeping the pump wavelength and crystal temperature fixed. As a demonstration, we perform high-resolution, microsecond-resolved spectroscopy of transient chlorine monoxide (ClO) near 12 $μ$m. Time-resolved dual-comb spectra capture the temporal evolution of ClO produced by the Cl + O$_3$ reaction with a temporal resolution of 1.5 $μ$s, enabling quantitative determination of the ClO formation rate coefficient. These results establish this dual-comb platform as a promising tool for quantitative, microsecond-resolved studies of short-lived radicals, particularly atmospherically relevant halogen oxides.",
+  "authors": [
+   "Pei-Ling Luo",
+   "I-Yun Chen"
+  ],
+  "categories": [
+   "physics.optics",
+   "physics.chem-ph"
+  ],
+  "comment": "11 pages, 5 figures",
+  "first_author": "Pei-Ling Luo",
+  "pdf_url": "http://arxiv.org/pdf/2604.26512",
+  "primary_category": "physics.optics",
+  "published": "2026-04-29",
+  "tags": [
+   "molecular-representation"
+  ],
+  "title": "Microsecond-resolved electro-optic dual-comb spectroscopy in the 10~12.5 $μ$m fingerprint region for radical kinetics",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26518": {
+  "abstract": "Lattice metamaterials enable lightweight, multifunctional structures, yet homogenization-based evaluation of their effective properties remains computationally expensive. Neural surrogates offer speed but often lack the accuracy and stability required for engineering-grade simulations. We introduce GMT, a Geometric Multigrid Transformer -- a neural solver with high numerical fidelity for fast and reliable lattice homogenization. GMT achieves architectural alignment with Geometric Multigrid (GMG) by restructuring Point Transformer V3 to operate across sparse GMG hierarchies, capturing long-range dependencies and cross-level interactions essential for multigrid convergence. To enforce physical consistency, GMT incorporates physics-aware positional encoding for strict enforcement of periodicity and predicts both the finest-level solution and multi-level residual corrections. These predictions deliver a spectrally-aligned initialization, enabling end-to-end training under physics-informed and solver-aware losses and requiring only a single GMG V-cycle refinement to reach convergence. This fusion of neural prediction and numerical rigor achieves relative residual errors of $10^{-5}$ with a $160\\times$ speedup over state-of-the-art GPU-based solvers at equivalent accuracy -- particularly at high resolutions (e.g. $512^3$), where traditional methods become most costly. We validate GMT across mechanical and thermal domains, demonstrate robust generalization to unseen geometries and non-periodic settings, and showcase scalability to high resolutions -- enabling real-time design iteration, multi-scale simulations, high-throughput material discovery, and inverse design.",
+  "authors": [
+   "Yu Xing",
+   "Yang Liu",
+   "Tianyang Xue",
+   "Lin Lu"
+  ],
+  "categories": [
+   "cs.GR",
+   "physics.comp-ph"
+  ],
+  "comment": "SIGGRAPH 2026 journal track",
+  "first_author": "Yu Xing",
+  "pdf_url": "http://arxiv.org/pdf/2604.26518",
+  "primary_category": "cs.GR",
+  "published": "2026-04-29",
+  "tags": [],
+  "title": "GMT: A Geometric Multigrid Transformer Solver for Microstructure Homogenization",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26551": {
+  "abstract": "The emergence of data-driven computational materials science offers unprecedented opportunities to explore complex material landscapes, complementing experimental research with the discovery of novel compounds. To enable these developments, it is essential to establish robust, reliable, and easy-to-use software supporting workflow automation and large dataset processing. Herein, we introduce the Automated Ab Initio Materials Modeling and Data Analysis Toolkit (aim2dat), a Python package offering a user-friendly interface to generate and handle big data, design high-throughput workflows based on density functional theory calculations, and analyze the output. Its key features include interfaces to online databases for structure query and analysis, high-throughput screening routines, and seamless integration of machine learning models. The capabilities of aim2dat are showcased with a variety of use-cases, ranging from photocathode materials to metal-organic frameworks.",
+  "authors": [
+   "Holger-Dietrich Saßnick",
+   "Joshua Edzards",
+   "Timo Reents",
+   "Caterina Cocchi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Holger-Dietrich Saßnick",
+  "pdf_url": "http://arxiv.org/pdf/2604.26551",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-29",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "materials-science"
+  ],
+  "title": "aim2dat: A Python infrastructure for automated ab initio material modeling and data analysis",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26560": {
+  "abstract": "The high-temperature ceramic compound Al5C3N with promising application usage belongs to the scarcely studied Al-C-N system. It was originally reported as an ordered compound in the non-centrosymmetric space group P63mc and described as a nanolaminate with an -Al2C-AlN-Al2C2- stacking sequence. The recently reported structural disorder in the related compound Al4SiC4 led us to question this proposed structure for Al5C3N and investigate the possibility of a disordered structure in the centrosymmetric space group P63/mmc. In the present work, we employed different synthesis routes to maximize the yield and quality of the desired phase, and applied a variety of techniques to probe the Al5C3N crystal structure. Our single-crystal X-ray diffraction analysis clearly indicates that the non-centrosymmetric space group P63mc must be rejected. From a joint refinement of single-crystal X-ray and powder neutron diffraction data, the occupancies of C and N were refined at two sites in P63/mmc resulting in the stacking sequence -Al2C-Al(C/N)-Al2(C/N)2-. Furthermore, DFT calculations show that a centrosymmetric disordered structure described in a supercell has the lowest energy, 0.2 eV per formula unit, relative to the previously reported P63mc structure. The calculated band structure shows both direct and indirect band gaps which lead to implications for the physical properties. Finally, STEM analysis provides additional evidence that the crystal structure of Al5C3N is better described in the centrosymmetric space group P63/mmc.",
+  "authors": [
+   "Vitalii Shtender",
+   "Chin Shen Ong",
+   "Pedro Berastegui",
+   "Olivier Donzel-Gargand",
+   "Johan Cedervall",
+   "Charles Hervoches",
+   "Premek Beran",
+   "Olle Eriksson",
+   "Ulf Jansson"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Vitalii Shtender",
+  "pdf_url": "http://arxiv.org/pdf/2604.26560",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-29",
+  "tags": [
+   "band-gap",
+   "crystal-structure",
+   "dft"
+  ],
+  "title": "Unraveling the symmetry of Al5C3N",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26636": {
+  "abstract": "Kagome materials are known for hosting emergent quantum phenomena driven by the interaction between different lattice, charge and spin orders. Here, we present a detailed angle resolved photoemission (ARPES), density functional theory (DFT) and x-ray magnetic circular dichroism (XMCD) study of the electronic and magnetic structure of $R$Ti$_3$Bi$_4$ ($R$ = Nd, Sm, Gd). ARPES and DFT demonstrate that the bulk electronic band structure is dominated by the hybridization of the Ti bands, and the weak electron-like pocket at $Γ$ is identified as a surface state. The isotropic XAS profile of the $M_{4,5}$-edge of the rare earth is consistent with the presence of $R^{3+}$ oxidation state. Using the XMCD sum rules, backed by the atomic multiplet theory calculations, we obtain the spin and orbital magnetic moments. The Ti $L_{2,3}$-edge XMCD reveals the presence of a small magnetic moment in GdTi$_3$Bi$_4$, presumably driven by the proximity of the {Ti} kagome layers to the $zigzag$ chains of Gd, while the total magnetic moment of Gd is shared by the $f$ and $d$ electrons. Our combined XMCD, ARPES and DFT study brings an important piece of information to understand the spin flip transitions and anomalous Hall effect observed in the $R$Ti$_3$Bi$_4$ kagome metals.",
+  "authors": [
+   "C. Lim",
+   "F. Ballester",
+   "A. Kar",
+   "M. Alkorta",
+   "D. Subires",
+   "J. Dai",
+   "M. Tallarida",
+   "E. Vescovo",
+   "T. K. Kim",
+   "C. Cacho",
+   "C. Yi",
+   "S. Roychowdhury",
+   "A. Kumar Sharma",
+   "Y. Choi",
+   "G. Fabbris",
+   "J. Strempfer",
+   "P. Gargiani",
+   "C. Shekhar",
+   "C. Felser",
+   "I. Errea",
+   "M. G. Vergniory",
+   "S. Blanco-Canosa"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "C. Lim",
+  "pdf_url": "http://arxiv.org/pdf/2604.26636",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-29",
+  "tags": [
+   "band-gap",
+   "dft"
+  ],
+  "title": "Revealing magnetism in the distorted kagome $R$Ti$_3$Bi$_4$ ($R$ = Nd, Sm, Gd) via ARPES and XMCD",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26663": {
+  "abstract": "Compiling time-evolution operators of the form $U(t)=e^{-iHt}$ into hardware-native gate sequences is a central bottleneck for digital quantum simulation on noisy intermediate-scale quantum (NISQ) devices. Generic transpilation treats $U(t)$ as an arbitrary unitary, discarding the structure of Hamiltonian dynamics and producing circuits whose depth exceeds hardware coherence limits. We introduce a structure-aware compilation framework that treats product-formula decompositions as synthesis primitives rather than simulation approximations. The method combines (i) native placement of Hamiltonian terms onto the hardware coupling map, (ii) adaptive selection of Trotter blocks via a greedy discretization procedure, and (iii) variational refinement using a Trotter-initialized ansatz. Across Heisenberg, Ising, and XY models with $n=3$--$8$ qubits, the compiled circuits achieve fidelities $F>0.996$ with approximately linear scaling in the number of entangling gates, while generic synthesis produces circuits that are orders of magnitude deeper. On IBM Torino hardware, we observe a regime in which shorter approximate circuits outperform deeper exact decompositions: a 27-CX circuit achieves higher hardware fidelity ($F_{\\mathrm{hw}}=0.987$) than a 187-CX exact circuit. These results demonstrate that, in the NISQ regime, structure-aware approximate compilation can outperform exact structure-agnostic synthesis, providing a practical pathway for executing Hamiltonian dynamics without requiring pulse-level control.",
+  "authors": [
+   "F. S. Luiz",
+   "P. N. Ferreira",
+   "M. C. de Oliveira"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "20 pages, 11 figures",
+  "first_author": "F. S. Luiz",
+  "pdf_url": "http://arxiv.org/pdf/2604.26663",
+  "primary_category": "quant-ph",
+  "published": "2026-04-29",
+  "tags": [],
+  "title": "Hardware-Efficient Hamiltonian Simulation via Trotter-Initialized Variational Optimization with Native Placement",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26694": {
+  "abstract": "We propose X-WAM, a Unified 4D World Model that unifies real-time robotic action execution and high-fidelity 4D world synthesis (video + 3D reconstruction) in a single framework, addressing the critical limitations of prior unified world models (e.g., UWM) that only model 2D pixel-space and fail to balance action efficiency and world modeling quality. To leverage the strong visual priors of pretrained video diffusion models, X-WAM imagines the future world by predicting multi-view RGB-D videos, and obtains spatial information efficiently through a lightweight structural adaptation: replicating the final few blocks of the pretrained Diffusion Transformer into a dedicated depth prediction branch for the reconstruction of future spatial information. Moreover, we propose Asynchronous Noise Sampling (ANS) to jointly optimize generation quality and action decoding efficiency. ANS applies a specialized asynchronous denoising schedule during inference, which rapidly decodes actions with fewer steps to enable efficient real-time execution, while dedicating the full sequence of steps to generate high-fidelity video. Rather than entirely decoupling the timesteps during training, ANS samples from their joint distribution to align with the inference distribution. Pretrained on over 5,800 hours of robotic data, X-WAM achieves 79.2% and 90.7% average success rate on RoboCasa and RoboTwin 2.0 benchmarks, while producing high-fidelity 4D reconstruction and generation surpassing existing methods in both visual and geometric metrics.",
+  "authors": [
+   "Jun Guo",
+   "Qiwei Li",
+   "Peiyan Li",
+   "Zilong Chen",
+   "Nan Sun",
+   "Yifei Su",
+   "Heyun Wang",
+   "Yuan Zhang",
+   "Xinghang Li",
+   "Huaping Liu"
+  ],
+  "categories": [
+   "cs.RO",
+   "cs.AI",
+   "cs.CV"
+  ],
+  "comment": "Project website: https://sharinka0715.github.io/X-WAM/",
+  "first_author": "Jun Guo",
+  "pdf_url": "http://arxiv.org/pdf/2604.26694",
+  "primary_category": "cs.RO",
+  "published": "2026-04-29",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26703": {
+  "abstract": "Standard density functional theory (DFT) routinely misclassifies the electronic ground state of correlated and structurally complex compounds, predicting metallic behaviour for materials that experiments report as semiconductors. Each such mismatch encodes a specific non-ideality -- magnetic ordering, electron correlation, an alternative polymorph, or a defect -- that the calculation excluded, but extracting that signal at scale has remained a manual exercise. Here we introduce XDFT, a closed-loop agent that diagnoses the mismatch automatically: it draws candidate hypotheses from a curated catalogue, executes the corresponding first-principles tests, and updates a global Bayesian posterior over hypothesis usefulness from each verdict. On a verified benchmark of 124 materials, XDFT identifies a resolving mechanism for 70 of 90 mismatch cases (78\\%), an order of magnitude above a uniform-random baseline (19\\%) and a static LLM ordering (20\\%). The internal posterior aligns with empirical performance over the benchmark timeline, and resolved cases collapse into a tri-partite element-class taxonomy that we distil into a four-line static rule. Each diagnosed material is returned with a corrected protocol and a mechanistic attribution; failed cases are flagged as evidence-backed targets for experimental re-examination.",
+  "authors": [
+   "Yue Li",
+   "Bijun Tang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Yue Li",
+  "pdf_url": "http://arxiv.org/pdf/2604.26703",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-29",
+  "tags": [
+   "ab-initio",
+   "dft"
+  ],
+  "title": "A self-evolving agent for explainable diagnosis of DFT-experiment band-gap mismatch",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26813": {
+  "abstract": "Establishing the precise computational boundary between classically tractable fermionic systems and those capable of genuine quantum advantage is a central challenge in quantum simulation. While injecting non-Gaussian ``magic\" inputs into free-fermion circuits is widely expected to generate intractable complexity, we identify a physically motivated intermediate regime. Supported by rigorous bounds and numerical evidence, we show that for a class of paired non-Gaussian fermionic states, essential quantum simulation primitives -- transition amplitudes, overlaps, and arbitrary-weight number correlators -- can be efficiently approximated to additive error under free-fermionic dynamics. This tractability stems from an algebraic reduction that compresses exponentially large multiparticle interference into a single coefficient of a multivariate Pfaffian polynomial. Because these classical estimators match the intrinsic $O(1/\\sqrt{K})$ statistical uncertainty of quantum hardware utilizing $K$ measurement shots, they constitute a practical benchmark. Building on this foundation, we construct an additive-error estimator for high-weight Wilson observables in the noninteracting quench of recent trapped-ion experiments, providing a rigorous classical benchmark. Extending this to quantum chemistry, we demonstrate that core overlap-based subroutines for antisymmetrized products of strongly orthogonal geminals admit exact Pfaffian reductions. Ultimately, these results sharpen the boundary of quantum advantage, establishing that the paired-electron scaffold is effectively dequantized and clarifying exactly where quantum resources are indispensable.",
+  "authors": [
+   "Changhun Oh",
+   "Michał Oszmaniec",
+   "Oliver Reardon-Smith",
+   "Zoltán Zimborás"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "22 pages, 8 figures",
+  "first_author": "Changhun Oh",
+  "pdf_url": "http://arxiv.org/pdf/2604.26813",
+  "primary_category": "quant-ph",
+  "published": "2026-04-29",
+  "tags": [
+   "quantum-chemistry"
+  ],
+  "title": "Classical simulation of free-fermionic dynamics and quantum chemistry with magic input",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26861": {
+  "abstract": "We report the largest trapped-ion hardware demonstration of lattice protein-folding optimization to date, using bias-field digitized counterdiabatic quantum optimization (BF-DCQO) on a fully connected 64-qubit Barium development system similar to the forthcoming IonQ Tempo line. Six peptide sequences with 14-16 amino-acid residues are encoded using a coarse-grained tetrahedral lattice model, yielding higher-order spin-glass Hamiltonians with long-range interactions involving up to five-body terms and mapped to 46-61 qubits. The resulting instances are demanding for near-term quantum hardware because low-energy configurations must satisfy backbone-geometry constraints while optimizing dense residue-contact interactions. BF-DCQO uses a non-variational bias-feedback mechanism, where low-energy samples from each round define longitudinal fields that guide subsequent quantum evolutions. Across the studied instances, BF-DCQO shifts raw sampled energy distributions toward lower energies than uniform random sampling, with the strongest improvements appearing in residue-contact variables. To preserve this signal, we introduce a consensus-based post-processing pipeline that combines quantum-learned contact information with feasible backbone geometries. The resulting hybrid workflow reaches the classical reference energy in multiple instances and improves over the corresponding random-seeded pipeline. These results show that BF-DCQO can generate structured samples for dense protein-folding Hamiltonians at previously unexplored trapped-ion scales.",
+  "authors": [
+   "Alejandro Gomez Cadavid",
+   "Pavle Nikačević",
+   "Pranav Chandarana",
+   "Sebastián V. Romero",
+   "Enrique Solano",
+   "Narendra N. Hegade",
+   "Miguel Angel Lopez-Ruiz",
+   "Claudio Girotto",
+   "Hanna Linn",
+   "Hakan Doga",
+   "Evgeny Epifanovsky",
+   "Panagiotis Kl. Barkoutsos",
+   "Ananth Kaushik",
+   "Martin Roetteler"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Alejandro Gomez Cadavid",
+  "pdf_url": "http://arxiv.org/pdf/2604.26861",
+  "primary_category": "quant-ph",
+  "published": "2026-04-29",
+  "tags": [],
+  "title": "Protein folding on a 64 qubit trapped-ion hardware via counterdiabatic quantum optimization",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-04-29"
+ },
+ "2604.26914": {
+  "abstract": "Knots and links represent a fundamental motif of non-local connectivity that permeates the physical sciences from string theory to protein folds. While spectral braiding has been explored in two-band non-Hermitian models across various platforms, its direct simulation and characterization on programmable quantum hardware, particularly beyond two strands, remains a formidable challenge due to the limitations of variational optimization in these systems. Here, we introduce a family of non-Hermitian multi-band twister models and implement a non-variational protocol to characterize their complex braided band structures on a programmable superconducting quantum processor. By mapping the winding of eigenstates to the spectral topology, we devise an efficient measurement strategy that extracts braid information, including braid words and knot invariants like the Alexander and Jones polynomials, without requiring full spectral tomography or repeated optimization. We experimentally demonstrate the reconstruction of complicated knots and links such as the Hopf chain and Solomon's knot. Our approach provides a general framework for investigating exotic non-Hermitian topology on near-term quantum devices, opening a route to simulate more sophisticated topological structures in knot theory.",
+  "authors": [
+   "Truman Yu Ng",
+   "Yuzhu Wang",
+   "Wei Jie Chan",
+   "Ruizhe Shen",
+   "Tianqi Chen",
+   "Ching Hua Lee"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "48 pages, 11 figures, 3 tables",
+  "first_author": "Truman Yu Ng",
+  "pdf_url": "http://arxiv.org/pdf/2604.26914",
+  "primary_category": "quant-ph",
+  "published": "2026-04-29",
+  "tags": [],
+  "title": "Digital Simulation of Non-Hermitian Knotted Bands on Quantum Hardware",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-04-29"
  }
 }

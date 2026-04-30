@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">158 papers</span>
+  <span class="paper-count">157 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26694.html">Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising</a></div></td>
+<td>Jun Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26694">2604.26694</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23536.html">$Z^2$-Sampling: Zero-Cost Zigzag Trajectories for Semantic Alignment in Diffusion Models</a></div></td>
@@ -950,17 +956,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22524.html">Variational Bayesian Flow Network for Graph Generation</a></div></td>
 <td>Yida Xiong et al.</td>
 <td><a href="http://arxiv.org/abs/2601.22524">2601.22524</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21985.html">Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="mlip-90d.html">mlip</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Yunyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21985">2601.21985</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22135.html">PI-Light: Physics-Inspired Diffusion for Full-Image Relighting</a></div></td>
-<td>Zhexin Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22135">2601.22135</a></td>
 </tr>
 </tbody></table>

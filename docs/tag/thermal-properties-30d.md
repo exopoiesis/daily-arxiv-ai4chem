@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>thermal-properties — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <strong>30d</strong> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,17 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29189.html">Phonon Signatures of Near-Room-Temperature Phase Transition in Quasi-One-Dimensional Bi4I4 Topological van der Waals Material</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>Nidhish Thiruthukkal Puthenveettil et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29189">2603.29189</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22521.html">Molecular dynamics study of perchloric acid using the extended Madrid-2019 force field</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>M. Cruz-Sánchez et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22521">2603.22521</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28267.html">Intrinsically ultralow thermal conductivity in all-inorganic superatomic bulk crystals</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="diffusion-model-30d.html">diffusion-model</a></div></td>
-<td>Mingzhang Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28267">2603.28267</a></td>
 </tr>
 </tbody></table>

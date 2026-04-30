@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>magnetic-properties — 30d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <strong>30d</strong> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,11 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29269.html">Determining the NJL Coupling and AMM in Magnetized QCD Matter via Machine Learning</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a></div></td>
 <td>Zigeng Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29269">2603.29269</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02508.html">Structural reconstruction as the origin of the cuprate pseudogap</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Sophie Beck et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02508">2511.02508</a></td>
 </tr>
 </tbody></table>
