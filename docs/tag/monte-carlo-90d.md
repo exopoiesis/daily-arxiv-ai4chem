@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">103 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -614,23 +614,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05222.html">Fast Evaluation of Unbiased Atomic Forces in ab initio Variational Monte Carlo via the Lagrangian Technique</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Kousuke Nakano et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05222">2511.05222</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21964.html">From Tokens to Blocks: A Block-Diffusion Perspective on Molecular Generation</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-llm-90d.html">molecular-llm</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Qianwei Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21964">2601.21964</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22857.html">Altermagnetic-Like Behavior and Enhanced Coercivity in Ferrimagnets at a Critical Point of an Extended Néel-Diagram</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Qais Ali et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22857">2601.22857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.23002.html">Unlocking the Power of Orbital-Free Density Functional Theory to Explore the Electronic Structure Under Extreme Conditions</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Cheng Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2601.23002">2601.23002</a></td>
 </tr>
 </tbody></table>

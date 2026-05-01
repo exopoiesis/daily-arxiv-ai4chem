@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">173 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1052,17 +1052,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17233.html">Lambda-ABF-OPES: Faster Convergence with High Accuracy in Alchemical Free Energy Calculations</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Narjes Ansari et al.</td>
 <td><a href="http://arxiv.org/abs/2502.17233">2502.17233</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02639.html">Enhancing Chemical Reaction and Retrosynthesis Prediction with Large Language Model and Dual-task Learning</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Xuan Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02639">2505.02639</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02887.html">CreoPep: A Universal Deep Learning Framework for Target-Specific Peptide Design and Optimization</a></div></td>
-<td>Cheng Ge et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02887">2505.02887</a></td>
 </tr>
 </tbody></table>

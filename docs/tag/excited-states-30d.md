@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>excited-states — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <strong>30d</strong> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,17 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02612.html">Halo Nuclei from Ab Initio Nuclear Theory</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
 <td>Petr Navratil et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02612">2604.02612</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18568.html">Freeze-and-release direct optimization method for variational calculations of excited electronic states</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Yorick L. A. Schmerwitz et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18568">2501.18568</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29257.html">GPU Accelerated Minimal Auxiliary Basis Approach TDDFT for Large Organic Molecules</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Zehao Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29257">2603.29257</a></td>
 </tr>
 </tbody></table>

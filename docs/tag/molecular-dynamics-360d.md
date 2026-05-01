@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1589 papers</span>
+  <span class="paper-count">1584 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9518,35 +9518,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03579.html">Computational assessment of non-polar and polar GaP terminations for photoelectrochemical water splitting</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Sofia Apergi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.03579">2505.03579</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05215.html">Physics-Informed Weakly Supervised Learning for Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Makoto Takamoto et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05215">2408.05215</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02341.html">Probing the neutron-skin thickness via the double-charge exchange reactions in pion-nucleus collisions</a></div></td>
-<td>Ban Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02341">2505.02341</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02421.html">High-Throughput GW Calculations via Machine Learning</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Ragab. A. Abdelghany et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02421">2505.02421</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02503.html">Machine-learning interatomic potentials from a users perspective: A comparison of accuracy, speed and data efficiency</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Niklas Leimeroth et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02503">2505.02503</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03060.html">Atom-by-atom Imaging of Moiré Phasons using Electron Ptychography</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Yichao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03060">2505.03060</a></td>
 </tr>
 </tbody></table>

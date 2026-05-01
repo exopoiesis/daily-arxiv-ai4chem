@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1622 papers</span>
+  <span class="paper-count">1619 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9728,23 +9728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03579.html">Computational assessment of non-polar and polar GaP terminations for photoelectrochemical water splitting</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Sofia Apergi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.03579">2505.03579</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05215.html">Physics-Informed Weakly Supervised Learning for Interatomic Potentials</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Makoto Takamoto et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05215">2408.05215</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.23858.html">Neural Network Matrix Product Operator: A Multi-Dimensionally Integrable Machine Learning Potential</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Kentaro Hino et al.</td>
-<td><a href="http://arxiv.org/abs/2410.23858">2410.23858</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.17503.html">First-principles derived force field for h-BN monolayer nanostructures: Applications to sheets, nanotubes and nanotori</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Aristotelis P. Sgouros et al.</td>
-<td><a href="http://arxiv.org/abs/2412.17503">2412.17503</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -974,29 +974,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00782.html">Controlling Repetition in Protein Language Models</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a> · <a href="protein-structure-90d.html">protein-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Jiahao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.00782">2602.00782</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09529.html">SiDGen: Structure-informed Diffusion for Generative modeling of Ligands for Proteins</a></div></td>
-<td>Samyak Sanghvi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09529">2511.09529</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.17687.html">Agentic reinforcement learning empowers next-generation chemical language models for molecular design and synthesis</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Hao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2601.17687">2601.17687</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21964.html">From Tokens to Blocks: A Block-Diffusion Perspective on Molecular Generation</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-llm-90d.html">molecular-llm</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Qianwei Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21964">2601.21964</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11189.html">MuCO: Generative Peptide Cyclization Empowered by Multi-stage Conformation Optimization</a></div></td>
-<td>Yitian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11189">2602.11189</a></td>
 </tr>
 </tbody></table>

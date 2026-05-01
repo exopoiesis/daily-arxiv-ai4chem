@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2119 papers</span>
+  <span class="paper-count">2112 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12686,47 +12686,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03571.html">Crystal structural evolution of Ru$_3$Sn$_7$ under pressure and its implication on possible electronic changes</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>K. A. Irshad et al.</td>
 <td><a href="http://arxiv.org/abs/2505.03571">2505.03571</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.09536.html">A Density Functional Theory Study of Magnetic Transition in MnO2 adsorbed Vanadium Carbide (V$_2$C) MXene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Mahjabeen Fatima et al.</td>
-<td><a href="http://arxiv.org/abs/2411.09536">2411.09536</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.17503.html">First-principles derived force field for h-BN monolayer nanostructures: Applications to sheets, nanotubes and nanotori</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Aristotelis P. Sgouros et al.</td>
-<td><a href="http://arxiv.org/abs/2412.17503">2412.17503</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02421.html">High-Throughput GW Calculations via Machine Learning</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ragab. A. Abdelghany et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02421">2505.02421</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02473.html">Theoretical limits of electron and hole doping in single layer graphene from DFT calculations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Dawid Ciszewski et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02473">2505.02473</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02503.html">Machine-learning interatomic potentials from a users perspective: A comparison of accuracy, speed and data efficiency</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Niklas Leimeroth et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02503">2505.02503</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02511.html">A Computational Study of the Vibrational and Rotational g-Factors of the Diatomic Molecules LiH, LiF, CO, CS, SiO and SiS</a></div></td>
-<td>Anna Thorn Ekstrøm et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02511">2505.02511</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02559.html">Anomalous valley Hall effect in monolayer chromium-based triple-Q magnets</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Xiu-Cai Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02559">2505.02559</a></td>
 </tr>
 </tbody></table>

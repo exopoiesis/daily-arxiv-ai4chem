@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">600 papers</span>
+  <span class="paper-count">595 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3584,35 +3584,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03515.html">Clarification of the Spontaneous Polarization Direction in Crystals with Wurtzite Structure</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
 <td>Simon Fichtner et al.</td>
 <td><a href="http://arxiv.org/abs/2505.03515">2505.03515</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.09536.html">A Density Functional Theory Study of Magnetic Transition in MnO2 adsorbed Vanadium Carbide (V$_2$C) MXene</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Mahjabeen Fatima et al.</td>
-<td><a href="http://arxiv.org/abs/2411.09536">2411.09536</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.17503.html">First-principles derived force field for h-BN monolayer nanostructures: Applications to sheets, nanotubes and nanotori</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Aristotelis P. Sgouros et al.</td>
-<td><a href="http://arxiv.org/abs/2412.17503">2412.17503</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02473.html">Theoretical limits of electron and hole doping in single layer graphene from DFT calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Dawid Ciszewski et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02473">2505.02473</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02559.html">Anomalous valley Hall effect in monolayer chromium-based triple-Q magnets</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Xiu-Cai Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02559">2505.02559</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03060.html">Atom-by-atom Imaging of Moiré Phasons using Electron Ptychography</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yichao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03060">2505.03060</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">391 papers</span>
+  <span class="paper-count">389 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2348,17 +2348,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03187.html">Computational Analysis of Interface-Driven Spin-Orbit Coupling in Molecular Adsorbates on Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a></div></td>
 <td>Zihao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.03187">2505.03187</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.09536.html">A Density Functional Theory Study of Magnetic Transition in MnO2 adsorbed Vanadium Carbide (V$_2$C) MXene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Mahjabeen Fatima et al.</td>
-<td><a href="http://arxiv.org/abs/2411.09536">2411.09536</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02559.html">Anomalous valley Hall effect in monolayer chromium-based triple-Q magnets</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Xiu-Cai Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02559">2505.02559</a></td>
 </tr>
 </tbody></table>

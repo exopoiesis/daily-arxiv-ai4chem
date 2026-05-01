@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-representation — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,29 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08829.html">Exploiting Latent Linearity in LLMs Improves Explainable Molecular Representation Learning</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Zhuoran Li et al.</td>
 <td><a href="http://arxiv.org/abs/2410.08829">2410.08829</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06777.html">MolX: Enhancing Large Language Models for Molecular Understanding With A Multi-Modal Extension</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Khiem Le et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06777">2406.06777</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21964.html">From Tokens to Blocks: A Block-Diffusion Perspective on Molecular Generation</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-llm-90d.html">molecular-llm</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Qianwei Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21964">2601.21964</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22610.html">Local-Global Multimodal Contrastive Learning for Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Xiayu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22610">2601.22610</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22757.html">Unveiling Scaling Behaviors in Molecular Language Models: Effects of Model Size, Data, and Representation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-llm-90d.html">molecular-llm</a></div></td>
-<td>Dong Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22757">2601.22757</a></td>
 </tr>
 </tbody></table>

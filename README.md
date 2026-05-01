@@ -1,4 +1,4 @@
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
@@ -72,7 +72,7 @@
 |**2026-03-25**|**DeepDTF: Dual-Branch Transformer Fusion for Multi-Omics Anticancer Drug Response Prediction**|Yuhan Zhao et al.|[2603.24265](http://arxiv.org/abs/2603.24265)|[md](abstracts/2603.24265.md)|
 |**2026-03-25**|**CGRL: Causal-Guided Representation Learning for Graph Out-of-Distribution Generalization**|Bowen Lu et al.|[2603.24304](http://arxiv.org/abs/2603.24304)|[md](abstracts/2603.24304.md)|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## Generative Design & Molecule Optimization
 
@@ -129,7 +129,7 @@
 |**2026-04-16**|**Precision Synthesis of Multi-Tracer PET via VLM-Modulated Rectified Flow for Stratifying Mild Cognitive Impairment**|Tuo Liu et al.|[2604.11176](http://arxiv.org/abs/2604.11176)|[md](abstracts/2604.11176.md)|
 |**2026-04-16**|**Generative design of inorganic materials**|Jose Recatala-Gomez et al.|[2604.14082](http://arxiv.org/abs/2604.14082)|[md](abstracts/2604.14082.md)|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## Property Prediction & ADMET
 
@@ -186,7 +186,7 @@
 |**2026-03-03**|**MMAI Gym for Science: Training Liquid Foundation Models for Drug Discovery**|Maksim Kuznetsov et al.|[2603.03517](http://arxiv.org/abs/2603.03517)|[md](abstracts/2603.03517.md)|
 |**2026-03-02**|**On the Reliability of AI Methods in Drug Discovery: Evaluation of Boltz-2 for Structure and Binding Affinity Prediction**|Shunzhou Wan et al.|[2603.05532](http://arxiv.org/abs/2603.05532)|[md](abstracts/2603.05532.md)|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## Reaction, Synthesis & Catalysis
 
@@ -243,7 +243,7 @@
 |**2026-03-22**|**$β$-Ga$_2$O$_3$(001) surface reconstructions from first principles and experiment**|Konstantin Lion et al.|[2510.09233](http://arxiv.org/abs/2510.09233)|[md](abstracts/2510.09233.md)|
 |**2026-03-20**|**CatBOX: A Categorical-Continuous Bayesian Optimization with Spectral Mixture Kernels for Accelerated Catalysis Experiments**|Changquan Zhao et al.|[2505.17393](http://arxiv.org/abs/2505.17393)|[md](abstracts/2505.17393.md)|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## Quantum Chemistry & Force Fields
 
@@ -300,7 +300,7 @@
 |**2026-04-24**|**LARA: Validation-Driven Agentic Supercomputer Workflows for Atomistic Modeling**|William Dawson et al.|[2604.22571](http://arxiv.org/abs/2604.22571)|[md](abstracts/2604.22571.md)|
 |**2026-04-24**|**Unveiling the Molecular Driving Forces of Pollutant Extraction by Hydrophobic Eutectic Solvents**|S. Gomez et al.|[2604.22674](http://arxiv.org/abs/2604.22674)|[md](abstracts/2604.22674.md)|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## Protein & Biomolecules
 
@@ -357,7 +357,7 @@
 |**2026-04-20**|**Geometric Stability: The Missing Axis of Representations**|Prashant C. Raju|[2601.09173](http://arxiv.org/abs/2601.09173)|[md](abstracts/2601.09173.md)|
 |**2026-04-20**|**Guiding Peptide Kinetics via Collective-Variable Tuning of Free-Energy Barriers**|Alexander Zhilkin et al.|[2602.19936](http://arxiv.org/abs/2602.19936)|[md](abstracts/2602.19936.md)|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## Large Language Models & Materials
 
@@ -414,4 +414,4 @@
 |**2026-04-20**|**Position: Multimodal Large Language Models Can Significantly Advance Scientific Reasoning**|Yibo Yan et al.|[2502.02871](http://arxiv.org/abs/2502.02871)|[md](abstracts/2502.02871.md)|
 |**2026-04-20**|**OXtal: An All-Atom Diffusion Model for Organic Crystal Structure Prediction**|Emily Jin et al.|[2512.06987](http://arxiv.org/abs/2512.06987)|[md](abstracts/2512.06987.md)|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">487 papers</span>
+  <span class="paper-count">477 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2876,65 +2876,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00756.html">A New Workflow for Materials Discovery Bridging the Gap Between Experimental Databases and Graph Neural Networks</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="gnn-90d.html">gnn</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Brandon Schoener et al.</td>
 <td><a href="http://arxiv.org/abs/2602.00756">2602.00756</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23031.html">Deriving effective electrode-ion interactions from free-energy profiles at electrochemical interfaces</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Fabrice Roncoroni et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23031">2507.23031</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23236.html">Platform for zero-field isolated skyrmions: 4$d$/Co atomic bilayers on Re(0001)</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Moinak Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23236">2510.23236</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22740.html">Discovering topological phases in gray-Tin</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Gaurav Harsha et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22740">2511.22740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.19870.html">Dissipative quantum algorithms for excited-state quantum chemistry</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Hao-En Li et al.</td>
-<td><a href="http://arxiv.org/abs/2512.19870">2512.19870</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.12490.html">Accurate and efficient simulation of photoemission spectroscopy via Kohn-Sham scattering states</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Gian Parusa et al.</td>
-<td><a href="http://arxiv.org/abs/2601.12490">2601.12490</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22460.html">Synthesis of Monolayer Ice on a Hydrophobic Metal Surface</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Qiaoxiao Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22460">2601.22460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22750.html">Femtosecond Nonadiabatic Confinement of Molecular Dication Yield</a></div></td>
-<td>Carlos Marante et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22750">2601.22750</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22986.html">Hydrogen at GaN(0001) surface control of Fermi level pinning: Mg activation of p-type conductivity -- Nakamura process deciphered</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Konrad Sakowski et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22986">2601.22986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.23152.html">Inhibiting Conduction by He Mixing in Interiors of Jupiter and Saturn</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Valentin V. Karasiev et al.</td>
-<td><a href="http://arxiv.org/abs/2601.23152">2601.23152</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00341.html">The Role of Ab Initio Beta-Decay Calculations in Light Nuclei for Probes of Physics Beyond the Standard Model</a></div></td>
-<td>Grigor H. Sargsyan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00341">2602.00341</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -962,29 +962,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01419.html">Multiscale analysis of large twist ferroelectricity and swirling dislocations in bilayer hexagonal boron nitride</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Md Tusher Ahmed et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01419">2510.01419</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.12490.html">Accurate and efficient simulation of photoemission spectroscopy via Kohn-Sham scattering states</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Gian Parusa et al.</td>
-<td><a href="http://arxiv.org/abs/2601.12490">2601.12490</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22460.html">Synthesis of Monolayer Ice on a Hydrophobic Metal Surface</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Qiaoxiao Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22460">2601.22460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22612.html">Turning Insulators into Accelerators: Deciphering the Interfacial Conductivity Boost in ZrO2-Li2ZrCl6 Composites through Machine Learning Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Boyuan Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22612">2601.22612</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00285.html">Defects, Corrugation and Temperature Govern Rarefied-Air Drag on Graphene Coatings</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Samuel Cajahuaringa et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00285">2602.00285</a></td>
 </tr>
 </tbody></table>

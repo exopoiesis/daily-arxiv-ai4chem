@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">97 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -596,29 +596,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08675.html">Dominant orbital magnetization in the prototypical altermagnet MnTe</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Chao Chen Ye et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08675">2505.08675</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23236.html">Platform for zero-field isolated skyrmions: 4$d$/Co atomic bilayers on Re(0001)</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Moinak Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23236">2510.23236</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14150.html">Mass spectra and Mott transitions of neutral mesons at finite temperature and magnetic field in frame of three-flavor Polyakov-extended Nambu-Jona-Lasino model</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Luyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14150">2511.14150</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22740.html">Discovering topological phases in gray-Tin</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Gaurav Harsha et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22740">2511.22740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00251.html">Enhanced detection of circularly polarized photons with topological materials</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Hamideh Sharifpour et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00251">2602.00251</a></td>
 </tr>
 </tbody></table>

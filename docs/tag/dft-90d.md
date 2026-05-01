@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">641 papers</span>
+  <span class="paper-count">631 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3800,65 +3800,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00833.html">Ferroelectric quantum critical point in superconducting hydrides: The case of H$_3$S</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Marco Cherubini et al.</td>
 <td><a href="http://arxiv.org/abs/2602.00833">2602.00833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16833.html">Exploring the Limitations of kNN Noisy Feature Detection and Recovery for Self-Driving Labs</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Qiuyu Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16833">2507.16833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23236.html">Platform for zero-field isolated skyrmions: 4$d$/Co atomic bilayers on Re(0001)</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Moinak Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23236">2510.23236</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22740.html">Discovering topological phases in gray-Tin</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Gaurav Harsha et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22740">2511.22740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.12490.html">Accurate and efficient simulation of photoemission spectroscopy via Kohn-Sham scattering states</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Gian Parusa et al.</td>
-<td><a href="http://arxiv.org/abs/2601.12490">2601.12490</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22723.html">A Cross-Domain Graph Learning Protocol for Single-Step Molecular Geometry Refinement</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Chengchun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22723">2601.22723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22857.html">Altermagnetic-Like Behavior and Enhanced Coercivity in Ferrimagnets at a Critical Point of an Extended Néel-Diagram</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Qais Ali et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22857">2601.22857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.23002.html">Unlocking the Power of Orbital-Free Density Functional Theory to Explore the Electronic Structure Under Extreme Conditions</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Cheng Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2601.23002">2601.23002</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.23284.html">Dynamical density functional theory for dense odd-diffusive fluids</a></div></td>
-<td>Iman Abdoli et al.</td>
-<td><a href="http://arxiv.org/abs/2601.23284">2601.23284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00251.html">Enhanced detection of circularly polarized photons with topological materials</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Hamideh Sharifpour et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00251">2602.00251</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00254.html">A seven-facet polyhedron captures the composition-only formation-energy landscape of inorganic solids</a></div></td>
-<td>Justin Tahmassebpur et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00254">2602.00254</a></td>
 </tr>
 </tbody></table>

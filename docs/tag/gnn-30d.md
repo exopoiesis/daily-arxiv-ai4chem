@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gnn — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <strong>30d</strong> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00571.html">Beyond Beryllium: AI-Accelerated Materials Discovery for Interstellar Spacecraft Shielding</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="tmd-30d.html">tmd</a></div></td>
 <td>Yue Li et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00571">2604.00571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05583.html">When Does Global Attention Help? A Unified Empirical Study on Atomistic Graph Learning</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Arindam Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05583">2510.05583</a></td>
 </tr>
 </tbody></table>
