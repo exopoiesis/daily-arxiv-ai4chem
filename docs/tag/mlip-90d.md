@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">178 papers</span>
+  <span class="paper-count">175 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1064,23 +1064,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01358.html">Towards knowledge-based workflows: a semantic approach to atomistic simulations for mechanical and thermodynamic properties</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Abril Azocar Guzman et al.</td>
 <td><a href="http://arxiv.org/abs/2602.01358">2602.01358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02023.html">DistMLIP: A Distributed Inference Platform for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Kevin Han et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02023">2506.02023</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00433.html">Ammonia Catalyst Evolution Under Reactor Conditions Revealed by Environmental and Multimodal Electron Microscopy</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Amy S. McKeown-Green et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00433">2602.00433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00833.html">Ferroelectric quantum critical point in superconducting hydrides: The case of H$_3$S</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Marco Cherubini et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00833">2602.00833</a></td>
 </tr>
 </tbody></table>

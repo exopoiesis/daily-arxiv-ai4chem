@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">595 papers</span>
+  <span class="paper-count">592 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3566,23 +3566,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04810.html">Athos-Graphene: Computational Discovery of an Art-Inspired 2D Carbon Anode for Lithium-Ion Batteries</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Kleuton A. L. Lima et al.</td>
 <td><a href="http://arxiv.org/abs/2505.04810">2505.04810</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00459.html">Role of seed layer in growing atomically flat TiTe2/Sb2Te3 heterostructure thin films at the wafer scale</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Chao Nie et al.</td>
-<td><a href="http://arxiv.org/abs/2503.00459">2503.00459</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03187.html">Computational Analysis of Interface-Driven Spin-Orbit Coupling in Molecular Adsorbates on Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Zihao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03187">2505.03187</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03515.html">Clarification of the Spontaneous Polarization Direction in Crystals with Wurtzite Structure</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Simon Fichtner et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03515">2505.03515</a></td>
 </tr>
 </tbody></table>

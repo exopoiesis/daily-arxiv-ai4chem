@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1619 papers</span>
+  <span class="paper-count">1614 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9698,35 +9698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04810.html">Athos-Graphene: Computational Discovery of an Art-Inspired 2D Carbon Anode for Lithium-Ion Batteries</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Kleuton A. L. Lima et al.</td>
 <td><a href="http://arxiv.org/abs/2505.04810">2505.04810</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00798.html">Deep Neural Network for Phonon-Assisted Optical Spectra in Semiconductors</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Qiangqiang Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.00798">2502.00798</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00459.html">Role of seed layer in growing atomically flat TiTe2/Sb2Te3 heterostructure thin films at the wafer scale</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Chao Nie et al.</td>
-<td><a href="http://arxiv.org/abs/2503.00459">2503.00459</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14261.html">Excited state assignment and state-resolved photoelectron circular dichroism in chalcogen-substituted fenchones</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Sudheendran Vasudevan et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14261">2503.14261</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03355.html">Simulation of Pump-Push Molecular Dynamics in the Heptazine-H2O Complex</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Sebastian V. Pios et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03355">2505.03355</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03579.html">Computational assessment of non-polar and polar GaP terminations for photoelectrochemical water splitting</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sofia Apergi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03579">2505.03579</a></td>
 </tr>
 </tbody></table>

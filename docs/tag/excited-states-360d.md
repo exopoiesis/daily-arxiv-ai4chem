@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">225 papers</span>
+  <span class="paper-count">221 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1340,29 +1340,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04748.html">$Δ$SCF in \texttt{VASP} for excited-state defect computations: tips and pitfalls</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Yihuang Xiong et al.</td>
 <td><a href="http://arxiv.org/abs/2505.04748">2505.04748</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14261.html">Excited state assignment and state-resolved photoelectron circular dichroism in chalcogen-substituted fenchones</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Sudheendran Vasudevan et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14261">2503.14261</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03143.html">Ultrafast dynamics of atomic correlated disordering in photoinduced VO$_2$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Wen-Hao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03143">2505.03143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03289.html">Synthesis and characterization of a $π$-extended Clar&#x27;s goblet</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Shantanu Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03289">2505.03289</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03355.html">Simulation of Pump-Push Molecular Dynamics in the Heptazine-H2O Complex</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Sebastian V. Pios et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03355">2505.03355</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 90d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <strong>90d</strong> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -398,17 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23753.html">Anchored Supervised Fine-Tuning</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>He Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23753">2509.23753</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00424.html">Open Materials Generation with Inference-Time Reinforcement Learning</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Philipp Hoellmer et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00424">2602.00424</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00482.html">AREAL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models</a></div></td>
-<td>Jiarui Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00482">2602.00482</a></td>
 </tr>
 </tbody></table>

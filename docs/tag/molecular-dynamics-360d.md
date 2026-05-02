@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1584 papers</span>
+  <span class="paper-count">1578 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9482,41 +9482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04810.html">Athos-Graphene: Computational Discovery of an Art-Inspired 2D Carbon Anode for Lithium-Ion Batteries</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Kleuton A. L. Lima et al.</td>
 <td><a href="http://arxiv.org/abs/2505.04810">2505.04810</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00798.html">Deep Neural Network for Phonon-Assisted Optical Spectra in Semiconductors</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Qiangqiang Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.00798">2502.00798</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03183.html">Weighted balanced truncation method for approximating kernel functions by exponentials</a></div></td>
-<td>Yuanshen Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03183">2503.03183</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03206.html">Stable partial dislocation complexes in GaN as charge carrier lifetime modifiers for terahertz device applications by molecular dynamics and first-principle simulations</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Andrey Sarikov et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03206">2505.03206</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03312.html">Competitive Adsorption in Polymer Nanocomposites: The Molecular Weight and End-Group Effect Revealed by SANS and MD Simulations</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Tae Yeon Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03312">2505.03312</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03438.html">Algorithm Selection in Short-Range Molecular Dynamics Simulations</a></div></td>
-<td>Samuel James Newcome et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03438">2505.03438</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03579.html">Computational assessment of non-polar and polar GaP terminations for photoelectrochemical water splitting</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Sofia Apergi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03579">2505.03579</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">106 papers</span>
+  <span class="paper-count">102 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -626,29 +626,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.19149.html">GPCR-Filter: a deep learning framework for efficient and precise GPCR modulator discovery</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a> · <a href="protein-llm-90d.html">protein-llm</a></div></td>
 <td>Jingjie Ning et al.</td>
 <td><a href="http://arxiv.org/abs/2601.19149">2601.19149</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02023.html">DistMLIP: A Distributed Inference Platform for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Kevin Han et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02023">2506.02023</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00586.html">RAG-GNN: Integrating Retrieved Knowledge with Graph Neural Networks for Precision Medicine</a></div></td>
-<td>Hasi Hays et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00586">2602.00586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00756.html">A New Workflow for Materials Discovery Bridging the Gap Between Experimental Databases and Graph Neural Networks</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Brandon Schoener et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00756">2602.00756</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00862.html">Towards Multiscale Graph-based Protein Learning with Geometric Secondary Structural Motifs</a></div></td>
-<td>Shih-Hsin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00862">2602.00862</a></td>
 </tr>
 </tbody></table>

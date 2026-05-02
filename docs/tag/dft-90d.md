@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">631 papers</span>
+  <span class="paper-count">625 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3764,41 +3764,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01300.html">Magnetic, transport and electronic properties of Ni$_2$FeAl Heusler alloy nanoparticles: Experimental and theoretical investigation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Priyanka Yadav et al.</td>
 <td><a href="http://arxiv.org/abs/2602.01300">2602.01300</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08675.html">Dominant orbital magnetization in the prototypical altermagnet MnTe</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Chao Chen Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08675">2505.08675</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05222.html">Fast Evaluation of Unbiased Atomic Forces in ab initio Variational Monte Carlo via the Lagrangian Technique</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Kousuke Nakano et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05222">2511.05222</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14495.html">Multimode Jahn-Teller Effect in Negatively Charged Nitrogen-Vacancy Center in Diamond</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jianhua Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.14495">2512.14495</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00433.html">Ammonia Catalyst Evolution Under Reactor Conditions Revealed by Environmental and Multimodal Electron Microscopy</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Amy S. McKeown-Green et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00433">2602.00433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00525.html">First-Principles Optical Descriptors and Hybrid Classical-Quantum Classification of Er-Doped CaF$_2$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>David Angel Alba Bonilla et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00525">2602.00525</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00833.html">Ferroelectric quantum critical point in superconducting hydrides: The case of H$_3$S</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Marco Cherubini et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00833">2602.00833</a></td>
 </tr>
 </tbody></table>

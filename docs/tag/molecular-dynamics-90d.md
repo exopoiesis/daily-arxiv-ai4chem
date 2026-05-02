@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">496 papers</span>
+  <span class="paper-count">492 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2966,29 +2966,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01358.html">Towards knowledge-based workflows: a semantic approach to atomistic simulations for mechanical and thermodynamic properties</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Abril Azocar Guzman et al.</td>
 <td><a href="http://arxiv.org/abs/2602.01358">2602.01358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10193.html">Impact of the in-medium cross section on cluster spectra in ${}^{40,48}\mathrm{Ca}+{}^{58,64}\mathrm{Ni}$ collisions at $56$ and $140$ $\mathbf{\mathrm{MeV}}/\mathrm{\mathbf{nucleon}}$</a></div></td>
-<td>C. K. Tam et al.</td>
-<td><a href="http://arxiv.org/abs/2512.10193">2512.10193</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14495.html">Multimode Jahn-Teller Effect in Negatively Charged Nitrogen-Vacancy Center in Diamond</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Jianhua Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.14495">2512.14495</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00498.html">Harnessing the Peripheral Surface Information Entropy from Globular Protein-Peptide Complexes</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Tyler Grear et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00498">2602.00498</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00833.html">Ferroelectric quantum critical point in superconducting hydrides: The case of H$_3$S</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Marco Cherubini et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00833">2602.00833</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">393 papers</span>
+  <span class="paper-count">391 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2360,17 +2360,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06336.html">2D Quon Language: Unifying Framework for Cliffords, Matchgates, and Beyond</a></div></td>
 <td>Byungmin Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.06336">2505.06336</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14261.html">Excited state assignment and state-resolved photoelectron circular dichroism in chalcogen-substituted fenchones</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Sudheendran Vasudevan et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14261">2503.14261</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03289.html">Synthesis and characterization of a $π$-extended Clar&#x27;s goblet</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Shantanu Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03289">2505.03289</a></td>
 </tr>
 </tbody></table>

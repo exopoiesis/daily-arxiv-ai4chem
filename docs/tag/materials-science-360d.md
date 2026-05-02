@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">445 papers</span>
+  <span class="paper-count">442 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2666,23 +2666,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13994.html">Generative Detail Enhancement for Physically Based Materials</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Saeed Hadadan et al.</td>
 <td><a href="http://arxiv.org/abs/2502.13994">2502.13994</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00123.html">$\textit{PY-BerryAHC}$: An $\textit{ab-initio}$ python 3 code to calculate Berry Curvature dependent Anomalous Hall Conductivity in any material</a></div></td>
-<td>Vivek Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00123">2504.00123</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03312.html">Competitive Adsorption in Polymer Nanocomposites: The Molecular Weight and End-Group Effect Revealed by SANS and MD Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Tae Yeon Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03312">2505.03312</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04651.html">Scientific Hypothesis Generation and Validation: Methods, Datasets, and Future Directions</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Adithya Kulkarni et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04651">2505.04651</a></td>
 </tr>
 </tbody></table>
