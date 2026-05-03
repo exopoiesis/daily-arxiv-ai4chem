@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>free-energy — 90d</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <strong>90d</strong> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,11 +662,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02237.html">Symmetry-restricted energy landscapes as a benchmark for machine learned interatomic potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Abhijith S Parackal et al.</td>
 <td><a href="http://arxiv.org/abs/2602.02237">2602.02237</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11817.html">How glass breaks -- Damage explains the difference between surface and fracture energies in amorphous silica</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Gergely Molnár et al.</td>
-<td><a href="http://arxiv.org/abs/2412.11817">2412.11817</a></td>
 </tr>
 </tbody></table>

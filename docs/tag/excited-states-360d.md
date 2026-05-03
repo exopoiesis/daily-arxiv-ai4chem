@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">221 papers</span>
+  <span class="paper-count">220 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1334,11 +1334,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08040.html">Theoretical Study on MR-TADF Materials Based on CzBN</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Jinpu Bai et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08040">2505.08040</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04748.html">$Δ$SCF in \texttt{VASP} for excited-state defect computations: tips and pitfalls</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Yihuang Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04748">2505.04748</a></td>
 </tr>
 </tbody></table>

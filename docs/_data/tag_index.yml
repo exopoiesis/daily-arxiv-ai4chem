@@ -4,15 +4,15 @@
   total: 3601
   group: methods
 - name: molecular-dynamics
-  count: 146
+  count: 141
   total: 2684
   group: methods
 - name: ab-initio
-  count: 139
+  count: 135
   total: 2675
   group: methods
 - name: mlip
-  count: 56
+  count: 53
   total: 869
   group: methods
 - name: band-gap
@@ -24,23 +24,23 @@
   total: 784
   group: methods
 - name: 2d-materials
-  count: 39
+  count: 38
   total: 1060
   group: domain
 - name: materials-science
-  count: 39
+  count: 38
   total: 756
   group: domain
-- name: generative-model
-  count: 38
-  total: 741
-  group: architectures
 - name: drug-discovery
-  count: 37
+  count: 35
   total: 975
   group: tasks
+- name: generative-model
+  count: 35
+  total: 741
+  group: architectures
 - name: quantum-chemistry
-  count: 36
+  count: 35
   total: 636
   group: methods
 - name: free-energy
@@ -52,7 +52,7 @@
   total: 576
   group: properties
 - name: diffusion-model
-  count: 33
+  count: 32
   total: 725
   group: architectures
 - name: monte-carlo
@@ -64,11 +64,11 @@
   total: 371
   group: properties
 - name: gnn
-  count: 29
+  count: 28
   total: 695
   group: architectures
 - name: magnetic-properties
-  count: 29
+  count: 28
   total: 684
   group: properties
 - name: materials-discovery
@@ -76,33 +76,33 @@
   total: 355
   group: tasks
 - name: phase-transition
-  count: 26
+  count: 24
   total: 419
   group: properties
 - name: catalysis
-  count: 24
+  count: 22
   total: 526
   group: domain
 - name: crystal-structure
-  count: 21
+  count: 20
   total: 491
   group: domain
 - name: property-prediction
-  count: 20
+  count: 19
   total: 387
   group: tasks
 - name: reinforcement-learning
-  count: 19
+  count: 18
   total: 215
   group: specialized
-- name: battery-materials
-  count: 16
-  total: 274
-  group: domain
 - name: molecular-generation
   count: 16
   total: 196
   group: tasks
+- name: battery-materials
+  count: 15
+  total: 274
+  group: domain
 - name: protein-structure
   count: 15
   total: 454
@@ -111,18 +111,10 @@
   count: 12
   total: 244
   group: specialized
-- name: multimodal-llm
-  count: 12
-  total: 106
-  group: llm
 - name: protein-ligand
   count: 12
   total: 299
   group: bio
-- name: structure-prediction
-  count: 12
-  total: 261
-  group: tasks
 - name: vdw-correction
   count: 12
   total: 287
@@ -131,6 +123,14 @@
   count: 11
   total: 194
   group: specialized
+- name: multimodal-llm
+  count: 11
+  total: 106
+  group: llm
+- name: structure-prediction
+  count: 11
+  total: 261
+  group: tasks
 - name: active-learning
   count: 10
   total: 231
@@ -148,7 +148,7 @@
   total: 153
   group: llm
 - name: quantum-computing
-  count: 9
+  count: 8
   total: 221
   group: specialized
 - name: photocatalysis

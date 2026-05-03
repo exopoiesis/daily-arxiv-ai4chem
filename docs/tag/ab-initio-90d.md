@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">472 papers</span>
+  <span class="paper-count">470 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2834,17 +2834,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02817.html">Dark Matter-Induced Nuclear De-Excitation at SBND with Ab Initio Nuclear Theory</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
 <td>Bhaskar Dutta et al.</td>
 <td><a href="http://arxiv.org/abs/2602.02817">2602.02817</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18610.html">The Procrustean Bed of Time Series: The Optimization Bias of Point-wise Loss</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Rongyao Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2512.18610">2512.18610</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01300.html">Magnetic, transport and electronic properties of Ni$_2$FeAl Heusler alloy nanoparticles: Experimental and theoretical investigation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Priyanka Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01300">2602.01300</a></td>
 </tr>
 </tbody></table>

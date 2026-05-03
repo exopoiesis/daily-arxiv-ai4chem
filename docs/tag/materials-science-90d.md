@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">115 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -704,11 +704,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02256.html">Energy-Transfer-Enhanced Emission and Quantum Sensing of VB- Defects in hBN-PbI2 Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
 <td>Eveline Mayner et al.</td>
 <td><a href="http://arxiv.org/abs/2602.02256">2602.02256</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.06971.html">Data-driven active learning approaches for accelerating materials discovery</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Jiaxin Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2601.06971">2601.06971</a></td>
 </tr>
 </tbody></table>

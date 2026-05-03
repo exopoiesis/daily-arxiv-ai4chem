@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">592 papers</span>
+  <span class="paper-count">591 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3560,11 +3560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05616.html">Leveraging Large Language Models for enzymatic reaction prediction and characterization</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Lorenzo Di Fruscia et al.</td>
 <td><a href="http://arxiv.org/abs/2505.05616">2505.05616</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17233.html">Lambda-ABF-OPES: Faster Convergence with High Accuracy in Alchemical Free Energy Calculations</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Narjes Ansari et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17233">2502.17233</a></td>
 </tr>
 </tbody></table>

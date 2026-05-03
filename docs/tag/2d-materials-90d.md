@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">158 papers</span>
+  <span class="paper-count">157 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -956,11 +956,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02879.html">Origin of donor compensation in monoclinic (Al$_x$Ga$_{1{\rm -}x})_2$O$_3$ alloys</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Sierra Seacat et al.</td>
 <td><a href="http://arxiv.org/abs/2602.02879">2602.02879</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01419.html">Multiscale analysis of large twist ferroelectricity and swirling dislocations in bilayer hexagonal boron nitride</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Md Tusher Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01419">2510.01419</a></td>
 </tr>
 </tbody></table>

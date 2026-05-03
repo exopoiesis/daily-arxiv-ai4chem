@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalysis — 30d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <strong>30d</strong> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,17 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13508.html">Autonomous Computational Catalysis Research via Agentic Systems</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Honghao Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2601.13508">2601.13508</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02772.html">Energy-Invariant Catalysis of Stable Ergotropy in Strongly Coupled Spin-Chain Quantum Batteries</a></div></td>
-<td>Zi-Yi Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02772">2508.02772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01031.html">QCD Anderson transition at zero and non-zero external magnetic fields</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Robin Kehr et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01031">2604.01031</a></td>
 </tr>
 </tbody></table>

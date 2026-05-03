@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">558 papers</span>
+  <span class="paper-count">557 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3356,11 +3356,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05652.html">Fast and Fourier Features for Transfer Learning of Interatomic Potentials</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Pietro Novelli et al.</td>
 <td><a href="http://arxiv.org/abs/2505.05652">2505.05652</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17233.html">Lambda-ABF-OPES: Faster Convergence with High Accuracy in Alchemical Free Energy Calculations</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Narjes Ansari et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17233">2502.17233</a></td>
 </tr>
 </tbody></table>

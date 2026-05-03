@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">625 papers</span>
+  <span class="paper-count">621 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3740,29 +3740,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02879.html">Origin of donor compensation in monoclinic (Al$_x$Ga$_{1{\rm -}x})_2$O$_3$ alloys</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
 <td>Sierra Seacat et al.</td>
 <td><a href="http://arxiv.org/abs/2602.02879">2602.02879</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23753.html">Anchored Supervised Fine-Tuning</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>He Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23753">2509.23753</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02231.html">Emergent Hierarchy in Localized States of Organic Quantum Chains</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>L. L. Lage et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02231">2510.02231</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18610.html">The Procrustean Bed of Time Series: The Optimization Bias of Point-wise Loss</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Rongyao Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2512.18610">2512.18610</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01300.html">Magnetic, transport and electronic properties of Ni$_2$FeAl Heusler alloy nanoparticles: Experimental and theoretical investigation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Priyanka Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01300">2602.01300</a></td>
 </tr>
 </tbody></table>

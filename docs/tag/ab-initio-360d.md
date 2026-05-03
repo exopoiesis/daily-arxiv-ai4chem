@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1614 papers</span>
+  <span class="paper-count">1611 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9680,23 +9680,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05615.html">Determination of a set of fundamental constants from molecular hydrogen ion spectroscopy: a modeling study</a></div></td>
 <td>J. -Ph Karr et al.</td>
 <td><a href="http://arxiv.org/abs/2505.05615">2505.05615</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00161.html">Exploring Three-Atom-Thick Gold Structures as a Benchmark for Atomic-Scale Calibration of Break-Junction Systems</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>J. P. Cuenca et al.</td>
-<td><a href="http://arxiv.org/abs/2503.00161">2503.00161</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04748.html">$Δ$SCF in \texttt{VASP} for excited-state defect computations: tips and pitfalls</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Yihuang Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04748">2505.04748</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04810.html">Athos-Graphene: Computational Discovery of an Art-Inspired 2D Carbon Anode for Lithium-Ion Batteries</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kleuton A. L. Lima et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04810">2505.04810</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>multimodal-llm — 90d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <strong>90d</strong> <a href="multimodal-llm-360d.html">360d</a> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,17 +206,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01817.html">SciTextures: Collecting and Connecting Visual Patterns, Models, and Code Across Science and Art</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Sagi Eppel et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01817">2511.01817</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.01477.html">Achieving Time Series Reasoning Requires Rethinking Model Design, Tasks Formulation, and Evaluation</a></div></td>
-<td>Yaxuan Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2502.01477">2502.01477</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20198.html">A Survey of Token Compression for Efficient Multimodal Large Language Models</a></div></td>
-<td>Kele Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20198">2507.20198</a></td>
 </tr>
 </tbody></table>

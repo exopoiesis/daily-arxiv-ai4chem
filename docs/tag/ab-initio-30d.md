@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">139 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -824,29 +824,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03351.html">Spectral Geometry of the Primes</a></div></td>
 <td>Douglas F. Watson</td>
 <td><a href="http://arxiv.org/abs/2604.03351">2604.03351</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17790.html">The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
-<td>Narjes Ansari et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17790">2603.17790</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01810.html">Bond-Length-Driven Magnetic Transition in Quasi-One-Dimensional CrSb$X_3$ ($X$=S, Se)</a></div><div class="paper-tags"><a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Kang Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01810">2604.01810</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02158.html">A Practical Two-Stage Framework for GPU Resource and Power Prediction in Heterogeneous HPC Systems</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Beste Oztop et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02158">2604.02158</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02524.html">AQVolt26: High-Temperature r$^2$SCAN Halide Dataset for Universal ML Potentials and Solid-State Batteries</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jiyoon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02524">2604.02524</a></td>
 </tr>
 </tbody></table>

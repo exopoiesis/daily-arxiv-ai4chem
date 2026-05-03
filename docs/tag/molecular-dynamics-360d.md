@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1578 papers</span>
+  <span class="paper-count">1572 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9446,41 +9446,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05652.html">Fast and Fourier Features for Transfer Learning of Interatomic Potentials</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Pietro Novelli et al.</td>
 <td><a href="http://arxiv.org/abs/2505.05652">2505.05652</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.14610.html">The origin of strings and rings in the atomic dynamics of disordered systems</a></div></td>
-<td>Omar Hussein et al.</td>
-<td><a href="http://arxiv.org/abs/2411.14610">2411.14610</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19117.html">Deformation and core$+n$ decoupling in the spectrum of $^{17}$C</a></div></td>
-<td>Tadahiro Suhara et al.</td>
-<td><a href="http://arxiv.org/abs/2412.19117">2412.19117</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17233.html">Lambda-ABF-OPES: Faster Convergence with High Accuracy in Alchemical Free Energy Calculations</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="mlip-360d.html">mlip</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Narjes Ansari et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17233">2502.17233</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00161.html">Exploring Three-Atom-Thick Gold Structures as a Benchmark for Atomic-Scale Calibration of Break-Junction Systems</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>J. P. Cuenca et al.</td>
-<td><a href="http://arxiv.org/abs/2503.00161">2503.00161</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04362.html">Adaptive Equilibration of Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Luciano G. Silvestri et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04362">2505.04362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04810.html">Athos-Graphene: Computational Discovery of an Art-Inspired 2D Carbon Anode for Lithium-Ion Batteries</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Kleuton A. L. Lima et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04810">2505.04810</a></td>
 </tr>
 </tbody></table>

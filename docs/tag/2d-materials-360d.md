@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">592 papers</span>
+  <span class="paper-count">589 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3548,23 +3548,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05384.html">Machine learning model for efficient nonthermal tuning of the charge density wave in monolayer NbSe$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="tmd-360d.html">tmd</a></div></td>
 <td>Luka Benić et al.</td>
 <td><a href="http://arxiv.org/abs/2505.05384">2505.05384</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04454.html">TBA-enabled spin-coating of a percolatively connected GO nanosieve for thru-hole epitaxy: tuning GO flake stacking and coverage to control GaN nucleation</a></div></td>
-<td>Gunhoon Beak et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04454">2505.04454</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04804.html">HOP-graphene: A high-capacity anode for Li/Na-ion batteries unveiled by first-principles calculations</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Nicolas F. Martins et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04804">2505.04804</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04810.html">Athos-Graphene: Computational Discovery of an Art-Inspired 2D Carbon Anode for Lithium-Ion Batteries</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kleuton A. L. Lima et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04810">2505.04810</a></td>
 </tr>
 </tbody></table>

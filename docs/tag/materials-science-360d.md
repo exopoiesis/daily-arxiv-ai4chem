@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">442 papers</span>
+  <span class="paper-count">441 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2660,11 +2660,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05354.html">High-fidelity Grain Growth Modeling: Leveraging Deep Learning for Fast Computations</a></div></td>
 <td>Pungponhavoan Tep et al.</td>
 <td><a href="http://arxiv.org/abs/2505.05354">2505.05354</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13994.html">Generative Detail Enhancement for Physically Based Materials</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Saeed Hadadan et al.</td>
-<td><a href="http://arxiv.org/abs/2502.13994">2502.13994</a></td>
 </tr>
 </tbody></table>

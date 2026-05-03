@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">492 papers</span>
+  <span class="paper-count">489 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2948,23 +2948,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02695.html">Integration of Variational Quantum Algorithms into Atomistic Simulation Workflows</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Wilke Dononelli</td>
 <td><a href="http://arxiv.org/abs/2602.02695">2602.02695</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11817.html">How glass breaks -- Damage explains the difference between surface and fracture energies in amorphous silica</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Gergely Molnár et al.</td>
-<td><a href="http://arxiv.org/abs/2412.11817">2412.11817</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02231.html">Emergent Hierarchy in Localized States of Organic Quantum Chains</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>L. L. Lage et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02231">2510.02231</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01358.html">Towards knowledge-based workflows: a semantic approach to atomistic simulations for mechanical and thermodynamic properties</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Abril Azocar Guzman et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01358">2602.01358</a></td>
 </tr>
 </tbody></table>

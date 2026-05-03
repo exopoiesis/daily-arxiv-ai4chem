@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">173 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1052,17 +1052,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02671.html">MARA: Continuous SE(3)-Equivariant Attention for Molecular Force Fields</a></div></td>
 <td>Francesco Leonardi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.02671">2602.02671</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01419.html">Multiscale analysis of large twist ferroelectricity and swirling dislocations in bilayer hexagonal boron nitride</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
-<td>Md Tusher Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01419">2510.01419</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01358.html">Towards knowledge-based workflows: a semantic approach to atomistic simulations for mechanical and thermodynamic properties</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Abril Azocar Guzman et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01358">2602.01358</a></td>
 </tr>
 </tbody></table>
