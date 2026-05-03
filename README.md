@@ -1,3 +1,12 @@
+# Legacy prototype
+
+> This repository is kept as a historical AI4Chem arXiv radar prototype and
+> compatibility snapshot. Further standalone development moved to
+> [exopoiesis/arxiv-radar-chemistry](https://github.com/exopoiesis/arxiv-radar-chemistry),
+> where the project has its own license, Pages branding, and multi-domain
+> roadmap. Scheduled GitHub Actions are intentionally disabled here.
+
+
 ## Updated on 2026.05.03
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
